@@ -1,0 +1,46 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.792 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "cocina" 
+        xmin = 0 
+        xmax = 1.792 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.847028554537393 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.847028554537393 
+            xmax = 0.8811946792787467 
+            text = "k" 
+        intervals [3]:
+            xmin = 0.8811946792787467 
+            xmax = 1.0360811114395507 
+            text = "o" 
+        intervals [4]:
+            xmin = 1.0360811114395507 
+            xmax = 1.1704678687555425 
+            text = "s" 
+        intervals [5]:
+            xmin = 1.1704678687555425 
+            xmax = 1.3276320425657702 
+            text = "i" 
+        intervals [6]:
+            xmin = 1.3276320425657702 
+            xmax = 1.373186875554242 
+            text = "n" 
+        intervals [7]:
+            xmin = 1.373186875554242 
+            xmax = 1.5030181495713866 
+            text = "a" 
+        intervals [8]:
+            xmin = 1.5030181495713866 
+            xmax = 1.792 
+            text = "sil" 

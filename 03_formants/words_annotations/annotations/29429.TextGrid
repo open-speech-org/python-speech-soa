@@ -1,0 +1,50 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.472 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "naranja" 
+        xmin = 0 
+        xmax = 1.472 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7902590600059121 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.7902590600059121 
+            xmax = 0.8875511676027197 
+            text = "n" 
+        intervals [3]:
+            xmin = 0.8875511676027197 
+            xmax = 1.033489328997931 
+            text = "a" 
+        intervals [4]:
+            xmin = 1.033489328997931 
+            xmax = 1.0596833579663023 
+            text = "r" 
+        intervals [5]:
+            xmin = 1.0596833579663023 
+            xmax = 1.1672659769435414 
+            text = "a" 
+        intervals [6]:
+            xmin = 1.1672659769435414 
+            xmax = 1.234622051433639 
+            text = "n" 
+        intervals [7]:
+            xmin = 1.234622051433639 
+            xmax = 1.2982361217853977 
+            text = "j" 
+        intervals [8]:
+            xmin = 1.2982361217853977 
+            xmax = 1.411431746970145 
+            text = "a" 
+        intervals [9]:
+            xmin = 1.411431746970145 
+            xmax = 1.472 
+            text = "sil" 

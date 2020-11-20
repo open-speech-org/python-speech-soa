@@ -1,0 +1,38 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.28 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "leche" 
+        xmin = 0 
+        xmax = 1.28 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7612083949157553 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.7612083949157553 
+            xmax = 0.8767224357079516 
+            text = "l" 
+        intervals [3]:
+            xmin = 0.8767224357079516 
+            xmax = 1.017454330475909 
+            text = "e" 
+        intervals [4]:
+            xmin = 1.017454330475909 
+            xmax = 1.1101909547738695 
+            text = "S" 
+        intervals [5]:
+            xmin = 1.1101909547738695 
+            xmax = 1.2501093703813184 
+            text = "e" 
+        intervals [6]:
+            xmin = 1.2501093703813184 
+            xmax = 1.28 
+            text = "sil" 

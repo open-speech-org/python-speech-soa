@@ -1,0 +1,46 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.304 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "cabello" 
+        xmin = 0 
+        xmax = 2.304 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0951658238884043 
+            text = "sil" 
+        intervals [2]:
+            xmin = 1.0951658238884043 
+            xmax = 1.133055274629468 
+            text = "k" 
+        intervals [3]:
+            xmin = 1.133055274629468 
+            xmax = 1.2719832606800348 
+            text = "a" 
+        intervals [4]:
+            xmin = 1.2719832606800348 
+            xmax = 1.308068451862 
+            text = "b" 
+        intervals [5]:
+            xmin = 1.308068451862 
+            xmax = 1.4145197658487978 
+            text = "e" 
+        intervals [6]:
+            xmin = 1.4145197658487978 
+            xmax = 1.522775339394694 
+            text = "y" 
+        intervals [7]:
+            xmin = 1.522775339394694 
+            xmax = 1.643660729854278 
+            text = "o" 
+        intervals [8]:
+            xmin = 1.643660729854278 
+            xmax = 2.304 
+            text = "sil" 

@@ -1,0 +1,46 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.816 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "pulsera" 
+        xmin = 0 
+        xmax = 2.816 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.8198255024711696 
+            text = "sil" 
+        intervals [2]:
+            xmin = 1.8198255024711696 
+            xmax = 1.8457334163656742 
+            text = "p" 
+        intervals [3]:
+            xmin = 1.8457334163656742 
+            xmax = 2.081690472038859 
+            text = "u" 
+        intervals [4]:
+            xmin = 2.081690472038859 
+            xmax = 2.247080931622867 
+            text = "l" 
+        intervals [5]:
+            xmin = 2.247080931622867 
+            xmax = 2.403650566695728 
+            text = "s" 
+        intervals [6]:
+            xmin = 2.403650566695728 
+            xmax = 2.6307867978577657 
+            text = "e" 
+        intervals [7]:
+            xmin = 2.6307867978577657 
+            xmax = 2.6859169510524348 
+            text = "r" 
+        intervals [8]:
+            xmin = 2.6859169510524348 
+            xmax = 2.816 
+            text = "a" 

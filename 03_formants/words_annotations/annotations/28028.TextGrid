@@ -1,0 +1,46 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.664 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "rapido" 
+        xmin = 0 
+        xmax = 1.664 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6072193299290073 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.6072193299290073 
+            xmax = 0.7505577282351475 
+            text = "R" 
+        intervals [3]:
+            xmin = 0.7505577282351475 
+            xmax = 0.9017145846307135 
+            text = "a" 
+        intervals [4]:
+            xmin = 0.9017145846307135 
+            xmax = 1.051568364678042 
+            text = "p" 
+        intervals [5]:
+            xmin = 1.051568364678042 
+            xmax = 1.1727544650641424 
+            text = "i" 
+        intervals [6]:
+            xmin = 1.1727544650641424 
+            xmax = 1.2339990534313114 
+            text = "d" 
+        intervals [7]:
+            xmin = 1.2339990534313114 
+            xmax = 1.3603974592103625 
+            text = "o" 
+        intervals [8]:
+            xmin = 1.3603974592103625 
+            xmax = 1.664 
+            text = "sil" 

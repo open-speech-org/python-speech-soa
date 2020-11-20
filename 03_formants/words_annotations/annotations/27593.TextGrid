@@ -1,0 +1,46 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.816 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "jirafa" 
+        xmin = 0 
+        xmax = 2.816 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0165759123178477 
+            text = "sil" 
+        intervals [2]:
+            xmin = 1.0165759123178477 
+            xmax = 1.256943380246606 
+            text = "j" 
+        intervals [3]:
+            xmin = 1.256943380246606 
+            xmax = 1.4465911072362683 
+            text = "i" 
+        intervals [4]:
+            xmin = 1.4465911072362683 
+            xmax = 1.4906952297920038 
+            text = "r" 
+        intervals [5]:
+            xmin = 1.4906952297920038 
+            xmax = 1.6869585751650267 
+            text = "a" 
+        intervals [6]:
+            xmin = 1.6869585751650267 
+            xmax = 1.8457334163656742 
+            text = "f" 
+        intervals [7]:
+            xmin = 1.8457334163656742 
+            xmax = 2.1235893884668076 
+            text = "a" 
+        intervals [8]:
+            xmin = 2.1235893884668076 
+            xmax = 2.816 
+            text = "sil" 

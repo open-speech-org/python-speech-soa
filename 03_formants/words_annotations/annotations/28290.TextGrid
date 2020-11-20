@@ -1,0 +1,42 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.176 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "lunes" 
+        xmin = 0 
+        xmax = 2.176 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6373291598023064 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.6373291598023064 
+            xmax = 0.747697528830313 
+            text = "l" 
+        intervals [3]:
+            xmin = 0.747697528830313 
+            xmax = 0.8948553542009885 
+            text = "u" 
+        intervals [4]:
+            xmin = 0.8948553542009885 
+            xmax = 0.9684342668863264 
+            text = "n" 
+        intervals [5]:
+            xmin = 0.9684342668863264 
+            xmax = 1.104555255354201 
+            text = "e" 
+        intervals [6]:
+            xmin = 1.104555255354201 
+            xmax = 1.5497076771004945 
+            text = "s" 
+        intervals [7]:
+            xmin = 1.5497076771004945 
+            xmax = 2.176 
+            text = "sil" 

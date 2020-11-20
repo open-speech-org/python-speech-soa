@@ -1,0 +1,38 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.408 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "lento" 
+        xmin = 0 
+        xmax = 1.408 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5205604493053503 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.5205604493053503 
+            xmax = 0.7764809932013006 
+            text = "l" 
+        intervals [3]:
+            xmin = 0.7764809932013006 
+            xmax = 0.9223378066804611 
+            text = "e" 
+        intervals [4]:
+            xmin = 0.9223378066804611 
+            xmax = 1.069089447236181 
+            text = "n" 
+        intervals [5]:
+            xmin = 1.069089447236181 
+            xmax = 1.1916807567248004 
+            text = "t" 
+        intervals [6]:
+            xmin = 1.1916807567248004 
+            xmax = 1.408 
+            text = "o" 

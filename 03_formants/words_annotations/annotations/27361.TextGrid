@@ -1,0 +1,42 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.536 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "cadena" 
+        xmin = 0 
+        xmax = 1.536 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8316241186161449 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.8316241186161449 
+            xmax = 0.8809652718286656 
+            text = "c" 
+        intervals [3]:
+            xmin = 0.8809652718286656 
+            xmax = 1.0030197034596375 
+            text = "a" 
+        intervals [4]:
+            xmin = 1.0030197034596375 
+            xmax = 1.0367794398682042 
+            text = " d" 
+        intervals [5]:
+            xmin = 1.0367794398682042 
+            xmax = 1.182205996705107 
+            text = "e" 
+        intervals [6]:
+            xmin = 1.182205996705107 
+            xmax = 1.2705006919275124 
+            text = "n" 
+        intervals [7]:
+            xmin = 1.2705006919275124 
+            xmax = 1.536 
+            text = "a" 

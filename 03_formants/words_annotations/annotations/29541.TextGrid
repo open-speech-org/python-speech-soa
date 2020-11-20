@@ -1,0 +1,54 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.984 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "drogueria" 
+        xmin = 0 
+        xmax = 1.984 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5973405852793379 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.5973405852793379 
+            xmax = 0.6780377180017737 
+            text = "d" 
+        intervals [3]:
+            xmin = 0.6780377180017737 
+            xmax = 0.7120818208690513 
+            text = "r" 
+        intervals [4]:
+            xmin = 0.7120818208690513 
+            xmax = 0.902476618386048 
+            text = "o" 
+        intervals [5]:
+            xmin = 0.902476618386048 
+            xmax = 1.0033480342890926 
+            text = "g" 
+        intervals [6]:
+            xmin = 1.0033480342890926 
+            xmax = 1.140785338456991 
+            text = "e" 
+        intervals [7]:
+            xmin = 1.140785338456991 
+            xmax = 1.1811339048182088 
+            text = "r" 
+        intervals [8]:
+            xmin = 1.1811339048182088 
+            xmax = 1.317310316287319 
+            text = "i" 
+        intervals [9]:
+            xmin = 1.317310316287319 
+            xmax = 1.5177922553946204 
+            text = "a" 
+        intervals [10]:
+            xmin = 1.5177922553946204 
+            xmax = 1.984 
+            text = "sil" 

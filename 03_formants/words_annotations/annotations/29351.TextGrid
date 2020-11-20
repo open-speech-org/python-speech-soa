@@ -1,0 +1,42 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.536 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "pierna" 
+        xmin = 0 
+        xmax = 1.536 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9095453739284659 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.9095453739284659 
+            xmax = 0.9505447236180905 
+            text = "p" 
+        intervals [3]:
+            xmin = 0.9505447236180905 
+            xmax = 1.0559716228199822 
+            text = "i" 
+        intervals [4]:
+            xmin = 1.0559716228199822 
+            xmax = 1.1526129470883832 
+            text = "e" 
+        intervals [5]:
+            xmin = 1.1526129470883832 
+            xmax = 1.2023978717114987 
+            text = "R" 
+        intervals [6]:
+            xmin = 1.2023978717114987 
+            xmax = 1.3537049955660656 
+            text = "n" 
+        intervals [7]:
+            xmin = 1.3537049955660656 
+            xmax = 1.536 
+            text = "a" 

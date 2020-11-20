@@ -1,0 +1,62 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.92 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "buenosdias" 
+        xmin = 0 
+        xmax = 1.92 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6097972214011232 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.6097972214011232 
+            xmax = 0.6988731894767958 
+            text = "b" 
+        intervals [3]:
+            xmin = 0.6988731894767958 
+            xmax = 0.8147939698492462 
+            text = "u" 
+        intervals [4]:
+            xmin = 0.8147939698492462 
+            xmax = 0.9282743127401715 
+            text = "e" 
+        intervals [5]:
+            xmin = 0.9282743127401715 
+            xmax = 0.9807437185929648 
+            text = "n" 
+        intervals [6]:
+            xmin = 0.9807437185929648 
+            xmax = 1.0490759680756725 
+            text = "" 
+        intervals [7]:
+            xmin = 1.0490759680756725 
+            xmax = 1.1052060301507538 
+            text = "s" 
+        intervals [8]:
+            xmin = 1.1052060301507538 
+            xmax = 1.1479136860774461 
+            text = "d" 
+        intervals [9]:
+            xmin = 1.1479136860774461 
+            xmax = 1.2479716228199822 
+            text = "i" 
+        intervals [10]:
+            xmin = 1.2479716228199822 
+            xmax = 1.3577913094886196 
+            text = "a" 
+        intervals [11]:
+            xmin = 1.3577913094886196 
+            xmax = 1.5969541826780964 
+            text = "s" 
+        intervals [12]:
+            xmin = 1.5969541826780964 
+            xmax = 1.92 
+            text = "sil" 

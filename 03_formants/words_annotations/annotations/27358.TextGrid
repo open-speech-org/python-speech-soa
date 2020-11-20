@@ -1,0 +1,42 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.536 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "reloj" 
+        xmin = 0 
+        xmax = 1.536 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.943290939044481 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.943290939044481 
+            xmax = 1.0134073146622735 
+            text = " R" 
+        intervals [3]:
+            xmin = 1.0134073146622735 
+            xmax = 1.0705391762767709 
+            text = " e" 
+        intervals [4]:
+            xmin = 1.0705391762767709 
+            xmax = 1.192593607907743 
+            text = " l" 
+        intervals [5]:
+            xmin = 1.192593607907743 
+            xmax = 1.2808883031301481 
+            text = "o" 
+        intervals [6]:
+            xmin = 1.2808883031301481 
+            xmax = 1.5301909719934101 
+            text = "j" 
+        intervals [7]:
+            xmin = 1.5301909719934101 
+            xmax = 1.536 
+            text = "" 

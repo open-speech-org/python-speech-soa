@@ -1,0 +1,50 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.664 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "borrador" 
+        xmin = 0 
+        xmax = 1.664 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.590884776825303 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.590884776825303 
+            xmax = 0.7156724800472953 
+            text = "b" 
+        intervals [3]:
+            xmin = 0.7156724800472953 
+            xmax = 0.8341150458173219 
+            text = "o" 
+        intervals [4]:
+            xmin = 0.8341150458173219 
+            xmax = 0.9229469701448418 
+            text = "R" 
+        intervals [5]:
+            xmin = 0.9229469701448418 
+            xmax = 1.1090710020691694 
+            text = "a" 
+        intervals [6]:
+            xmin = 1.1090710020691694 
+            xmax = 1.135509074785693 
+            text = "d" 
+        intervals [7]:
+            xmin = 1.135509074785693 
+            xmax = 1.335380904522613 
+            text = "o" 
+        intervals [8]:
+            xmin = 1.335380904522613 
+            xmax = 1.4390181495713863 
+            text = "R" 
+        intervals [9]:
+            xmin = 1.4390181495713863 
+            xmax = 1.664 
+            text = "sil" 

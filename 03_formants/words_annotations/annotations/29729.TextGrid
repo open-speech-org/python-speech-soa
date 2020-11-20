@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.432 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "perrocaliente" 
+        xmin = 0 
+        xmax = 2.432 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.990340880874963 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.990340880874963 
+            xmax = 1.013525036949453 
+            text = "p" 
+        intervals [3]:
+            xmin = 1.013525036949453 
+            xmax = 1.1078072716523795 
+            text = "e" 
+        intervals [4]:
+            xmin = 1.1078072716523795 
+            xmax = 1.1897246231155778 
+            text = "R" 
+        intervals [5]:
+            xmin = 1.1897246231155778 
+            xmax = 1.3690154300916346 
+            text = "o" 
+        intervals [6]:
+            xmin = 1.3690154300916346 
+            xmax = 1.5390325746378952 
+            text = "sil" 
+        intervals [7]:
+            xmin = 1.5390325746378952 
+            xmax = 1.5838552763819094 
+            text = "k" 
+        intervals [8]:
+            xmin = 1.5838552763819094 
+            xmax = 1.6765919006798697 
+            text = "a" 
+        intervals [9]:
+            xmin = 1.6765919006798697 
+            xmax = 1.736870706473544 
+            text = "l" 
+        intervals [10]:
+            xmin = 1.736870706473544 
+            xmax = 1.8265161099615723 
+            text = "i" 
+        intervals [11]:
+            xmin = 1.8265161099615723 
+            xmax = 1.8929773573751107 
+            text = "e" 
+        intervals [12]:
+            xmin = 1.8929773573751107 
+            xmax = 1.957892994383683 
+            text = "n" 
+        intervals [13]:
+            xmin = 1.957892994383683 
+            xmax = 2.0552664498965414 
+            text = "t" 
+        intervals [14]:
+            xmin = 2.0552664498965414 
+            xmax = 2.1742784510789237 
+            text = "e" 
+        intervals [15]:
+            xmin = 2.1742784510789237 
+            xmax = 2.432 
+            text = "sil" 

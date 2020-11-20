@@ -1,0 +1,54 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.792 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "odontologo" 
+        xmin = 0 
+        xmax = 1.792 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7526059328206205 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.7526059328206205 
+            xmax = 0.8836650264791933 
+            text = "o" 
+        intervals [3]:
+            xmin = 0.8836650264791933 
+            xmax = 0.9287647734146434 
+            text = "d" 
+        intervals [4]:
+            xmin = 0.9287647734146434 
+            xmax = 0.9908251089412028 
+            text = "o" 
+        intervals [5]:
+            xmin = 0.9908251089412028 
+            xmax = 1.171995032528053 
+            text = "n" 
+        intervals [6]:
+            xmin = 1.171995032528053 
+            xmax = 1.2012905946399695 
+            text = "t" 
+        intervals [7]:
+            xmin = 1.2012905946399695 
+            xmax = 1.269132949004407 
+            text = "o" 
+        intervals [8]:
+            xmin = 1.269132949004407 
+            xmax = 1.3292659449183404 
+            text = "l" 
+        intervals [9]:
+            xmin = 1.3292659449183404 
+            xmax = 1.3940245559025763 
+            text = "o" 
+        intervals [10]:
+            xmin = 1.3940245559025763 
+            xmax = 1.792 
+            text = "g" 

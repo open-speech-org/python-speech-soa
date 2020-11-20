@@ -1,0 +1,38 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.664 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "lejos" 
+        xmin = 0 
+        xmax = 1.664 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0170665090156665 
+            text = "sil" 
+        intervals [2]:
+            xmin = 1.0170665090156665 
+            xmax = 1.1016683417085427 
+            text = "l" 
+        intervals [3]:
+            xmin = 1.1016683417085427 
+            xmax = 1.2539516405557198 
+            text = "e" 
+        intervals [4]:
+            xmin = 1.2539516405557198 
+            xmax = 1.3290357670706474 
+            text = "j" 
+        intervals [5]:
+            xmin = 1.3290357670706474 
+            xmax = 1.4178676913981674 
+            text = "o" 
+        intervals [6]:
+            xmin = 1.4178676913981674 
+            xmax = 1.664 
+            text = "s" 

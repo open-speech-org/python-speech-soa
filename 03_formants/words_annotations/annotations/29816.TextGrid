@@ -1,0 +1,50 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.048 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "violeta" 
+        xmin = 0 
+        xmax = 2.048 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2361553650605972 
+            text = "sil" 
+        intervals [2]:
+            xmin = 1.2361553650605972 
+            xmax = 1.3233603310671003 
+            text = "b" 
+        intervals [3]:
+            xmin = 1.3233603310671003 
+            xmax = 1.3962480638486552 
+            text = "i" 
+        intervals [4]:
+            xmin = 1.3962480638486552 
+            xmax = 1.4925639964528525 
+            text = "o" 
+        intervals [5]:
+            xmin = 1.4925639964528525 
+            xmax = 1.5745626958321017 
+            text = "l" 
+        intervals [6]:
+            xmin = 1.5745626958321017 
+            xmax = 1.6604660951817913 
+            text = "e" 
+        intervals [7]:
+            xmin = 1.6604660951817913 
+            xmax = 1.7854164942358854 
+            text = "t" 
+        intervals [8]:
+            xmin = 1.7854164942358854 
+            xmax = 1.871319893585575 
+            text = "a" 
+        intervals [9]:
+            xmin = 1.871319893585575 
+            xmax = 2.048 
+            text = "sil" 

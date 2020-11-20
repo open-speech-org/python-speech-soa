@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.048 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "pantaloneta" 
+        xmin = 0 
+        xmax = 2.048 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.860121066080709 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.860121066080709 
+            xmax = 0.8830288740479217 
+            text = "p" 
+        intervals [3]:
+            xmin = 0.8830288740479217 
+            xmax = 0.9605629933215647 
+            text = "a" 
+        intervals [4]:
+            xmin = 0.9605629933215647 
+            xmax = 1.024 
+            text = "n" 
+        intervals [5]:
+            xmin = 1.024 
+            xmax = 1.094485562976039 
+            text = "t" 
+        intervals [6]:
+            xmin = 1.094485562976039 
+            xmax = 1.1614468478032762 
+            text = "a" 
+        intervals [7]:
+            xmin = 1.1614468478032762 
+            xmax = 1.2213595763329095 
+            text = "l" 
+        intervals [8]:
+            xmin = 1.2213595763329095 
+            xmax = 1.2988936956065524 
+            text = "o" 
+        intervals [9]:
+            xmin = 1.2988936956065524 
+            xmax = 1.3394228943177748 
+            text = "n" 
+        intervals [10]:
+            xmin = 1.3394228943177748 
+            xmax = 1.4345784043354277 
+            text = "e" 
+        intervals [11]:
+            xmin = 1.4345784043354277 
+            xmax = 1.5262096362042785 
+            text = "t" 
+        intervals [12]:
+            xmin = 1.5262096362042785 
+            xmax = 1.6724671793795596 
+            text = "a" 
+        intervals [13]:
+            xmin = 1.6724671793795596 
+            xmax = 2.048 
+            text = "sil" 

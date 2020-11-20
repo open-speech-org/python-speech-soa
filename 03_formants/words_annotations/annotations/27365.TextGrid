@@ -1,0 +1,38 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.536 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "anillo" 
+        xmin = 0 
+        xmax = 1.536 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0445701482701812 
+            text = "sil" 
+        intervals [2]:
+            xmin = 1.0445701482701812 
+            xmax = 1.1562369686985172 
+            text = "a" 
+        intervals [3]:
+            xmin = 1.1562369686985172 
+            xmax = 1.2159657331136737 
+            text = "n" 
+        intervals [4]:
+            xmin = 1.2159657331136737 
+            xmax = 1.304260428336079 
+            text = "i" 
+        intervals [5]:
+            xmin = 1.304260428336079 
+            xmax = 1.413330345963756 
+            text = "y" 
+        intervals [6]:
+            xmin = 1.413330345963756 
+            xmax = 1.536 
+            text = "o" 
