@@ -1,0 +1,38 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.408 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "gafas" 
+        xmin = 0 
+        xmax = 1.408 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8361174299835256 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.8361174299835256 
+            xmax = 0.952761647446458 
+            text = "g" 
+        intervals [3]:
+            xmin = 0.952761647446458 
+            xmax = 1.055122899505766 
+            text = "a" 
+        intervals [4]:
+            xmin = 1.055122899505766 
+            xmax = 1.157484151565074 
+            text = "f" 
+        intervals [5]:
+            xmin = 1.157484151565074 
+            xmax = 1.2312794728171335 
+            text = "a" 
+        intervals [6]:
+            xmin = 1.2312794728171335 
+            xmax = 1.408 
+            text = "s" 

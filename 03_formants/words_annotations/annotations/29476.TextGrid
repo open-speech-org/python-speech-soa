@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.984 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "diadelprofesor" 
+        xmin = 0 
+        xmax = 1.984 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8533018031333137 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.8533018031333137 
+            xmax = 0.9768692876145434 
+            text = "d" 
+        intervals [3]:
+            xmin = 0.9768692876145434 
+            xmax = 1.1168283771800178 
+            text = "i" 
+        intervals [4]:
+            xmin = 1.1168283771800178 
+            xmax = 1.2189606857818505 
+            text = "a" 
+        intervals [5]:
+            xmin = 1.2189606857818505 
+            xmax = 1.2391349689624596 
+            text = "d" 
+        intervals [6]:
+            xmin = 1.2391349689624596 
+            xmax = 1.3198321016848953 
+            text = "e" 
+        intervals [7]:
+            xmin = 1.3198321016848953 
+            xmax = 1.401790127106119 
+            text = "l" 
+        intervals [8]:
+            xmin = 1.401790127106119 
+            xmax = 1.4950961868164352 
+            text = "p" 
+        intervals [9]:
+            xmin = 1.4950961868164352 
+            xmax = 1.5152704699970443 
+            text = "r" 
+        intervals [10]:
+            xmin = 1.5152704699970443 
+            xmax = 1.5694888560449307 
+            text = "o" 
+        intervals [11]:
+            xmin = 1.5694888560449307 
+            xmax = 1.6274899201891813 
+            text = "f" 
+        intervals [12]:
+            xmin = 1.6274899201891813 
+            xmax = 1.7157524091043455 
+            text = "e" 
+        intervals [13]:
+            xmin = 1.7157524091043455 
+            xmax = 1.8229282885013303 
+            text = "s" 
+        intervals [14]:
+            xmin = 1.8229282885013303 
+            xmax = 1.903625421223766 
+            text = "o" 
+        intervals [15]:
+            xmin = 1.903625421223766 
+            xmax = 1.984 
+            text = "R" 

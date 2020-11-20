@@ -1,0 +1,42 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.792 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "flaco" 
+        xmin = 0 
+        xmax = 1.792 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6386151936151346 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.6386151936151346 
+            xmax = 0.8117235589713273 
+            text = "f" 
+        intervals [3]:
+            xmin = 0.8117235589713273 
+            xmax = 0.9916651492757909 
+            text = "l" 
+        intervals [4]:
+            xmin = 0.9916651492757909 
+            xmax = 1.1431349689624595 
+            text = "a" 
+        intervals [5]:
+            xmin = 1.1431349689624595 
+            xmax = 1.323076559266923 
+            text = "k" 
+        intervals [6]:
+            xmin = 1.323076559266923 
+            xmax = 1.577044753177653 
+            text = "o" 
+        intervals [7]:
+            xmin = 1.577044753177653 
+            xmax = 1.792 
+            text = "sil" 

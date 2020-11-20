@@ -1,0 +1,62 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.688 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "rectangulo" 
+        xmin = 0 
+        xmax = 2.688 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7619759372275501 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.7619759372275501 
+            xmax = 0.9408983435047951 
+            text = "R" 
+        intervals [3]:
+            xmin = 0.9408983435047951 
+            xmax = 1.073511421098518 
+            text = "e" 
+        intervals [4]:
+            xmin = 1.073511421098518 
+            xmax = 1.3324226678291193 
+            text = "c" 
+        intervals [5]:
+            xmin = 1.3324226678291193 
+            xmax = 1.3618922406277245 
+            text = "t" 
+        intervals [6]:
+            xmin = 1.3618922406277245 
+            xmax = 1.4566158674803835 
+            text = "a" 
+        intervals [7]:
+            xmin = 1.4566158674803835 
+            xmax = 1.6165935483870968 
+            text = "n" 
+        intervals [8]:
+            xmin = 1.6165935483870968 
+            xmax = 1.6650078465562337 
+            text = "g" 
+        intervals [9]:
+            xmin = 1.6650078465562337 
+            xmax = 1.7576265039232781 
+            text = "u" 
+        intervals [10]:
+            xmin = 1.7576265039232781 
+            xmax = 1.8376153443766348 
+            text = "l" 
+        intervals [11]:
+            xmin = 1.8376153443766348 
+            xmax = 2.020747689625109 
+            text = "o" 
+        intervals [12]:
+            xmin = 2.020747689625109 
+            xmax = 2.688 
+            text = "sil" 

@@ -1,0 +1,54 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.048 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "volleibol" 
+        xmin = 0 
+        xmax = 2.048 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8768421746293245 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.8768421746293245 
+            xmax = 0.9564805271828666 
+            text = "b" 
+        intervals [3]:
+            xmin = 0.9564805271828666 
+            xmax = 1.0707442504118616 
+            text = "o" 
+        intervals [4]:
+            xmin = 1.0707442504118616 
+            xmax = 1.133069917627677 
+            text = "l" 
+        intervals [5]:
+            xmin = 1.133069917627677 
+            xmax = 1.2369460296540362 
+            text = "e" 
+        intervals [6]:
+            xmin = 1.2369460296540362 
+            xmax = 1.368522438220758 
+            text = "i" 
+        intervals [7]:
+            xmin = 1.368522438220758 
+            xmax = 1.4031478088962108 
+            text = "b" 
+        intervals [8]:
+            xmin = 1.4031478088962108 
+            xmax = 1.4862486985172982 
+            text = "o" 
+        intervals [9]:
+            xmin = 1.4862486985172982 
+            xmax = 1.6559130148270182 
+            text = "l" 
+        intervals [10]:
+            xmin = 1.6559130148270182 
+            xmax = 2.048 
+            text = "sil" 

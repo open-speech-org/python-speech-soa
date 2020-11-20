@@ -1,0 +1,42 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.56 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "arepa" 
+        xmin = 0 
+        xmax = 2.56 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3873792491871122 
+            text = "sil" 
+        intervals [2]:
+            xmin = 1.3873792491871122 
+            xmax = 1.6883665385752293 
+            text = "a" 
+        intervals [3]:
+            xmin = 1.6883665385752293 
+            xmax = 1.7176517883535325 
+            text = "r" 
+        intervals [4]:
+            xmin = 1.7176517883535325 
+            xmax = 1.8103884126514929 
+            text = "e" 
+        intervals [5]:
+            xmin = 1.8103884126514929 
+            xmax = 2.0267738693467336 
+            text = "p" 
+        intervals [6]:
+            xmin = 2.0267738693467336 
+            xmax = 2.1406609518179134 
+            text = "a" 
+        intervals [7]:
+            xmin = 2.1406609518179134 
+            xmax = 2.56 
+            text = "sil" 

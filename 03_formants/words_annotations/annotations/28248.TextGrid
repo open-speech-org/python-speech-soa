@@ -1,0 +1,38 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.048 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "pizza" 
+        xmin = 0 
+        xmax = 2.048 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3892976606260297 
+            text = "sil" 
+        intervals [2]:
+            xmin = 1.3892976606260297 
+            xmax = 1.4120452406138904 
+            text = "p" 
+        intervals [3]:
+            xmin = 1.4120452406138904 
+            xmax = 1.4856241532992283 
+            text = "i" 
+        intervals [4]:
+            xmin = 1.4856241532992283 
+            xmax = 1.6726011549466748 
+            text = "s" 
+        intervals [5]:
+            xmin = 1.6726011549466748 
+            xmax = 1.8341491996878523 
+            text = "a" 
+        intervals [6]:
+            xmin = 1.8341491996878523 
+            xmax = 2.048 
+            text = "sil" 

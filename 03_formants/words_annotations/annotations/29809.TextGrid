@@ -1,0 +1,54 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.176 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "limonada" 
+        xmin = 0 
+        xmax = 2.176 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2857567839195982 
+            text = "sil" 
+        intervals [2]:
+            xmin = 1.2857567839195982 
+            xmax = 1.3645829145728645 
+            text = "l" 
+        intervals [3]:
+            xmin = 1.3645829145728645 
+            xmax = 1.46553567839196 
+            text = "i" 
+        intervals [4]:
+            xmin = 1.46553567839196 
+            xmax = 1.529149748743719 
+            text = "m" 
+        intervals [5]:
+            xmin = 1.529149748743719 
+            xmax = 1.6079758793969852 
+            text = "o" 
+        intervals [6]:
+            xmin = 1.6079758793969852 
+            xmax = 1.6881849246231158 
+            text = "n" 
+        intervals [7]:
+            xmin = 1.6881849246231158 
+            xmax = 1.7628623115577893 
+            text = "a" 
+        intervals [8]:
+            xmin = 1.7628623115577893 
+            xmax = 1.7988180904522615 
+            text = "d" 
+        intervals [9]:
+            xmin = 1.7988180904522615 
+            xmax = 1.9564703517587942 
+            text = "a" 
+        intervals [10]:
+            xmin = 1.9564703517587942 
+            xmax = 2.176 
+            text = "sil" 

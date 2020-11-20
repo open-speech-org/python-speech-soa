@@ -1,0 +1,54 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.816 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "cuadrado" 
+        xmin = 0 
+        xmax = 2.816 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.408 
+            text = " " 
+        intervals [2]:
+            xmin = 1.408 
+            xmax = 1.4465911072362683 
+            text = "c" 
+        intervals [3]:
+            xmin = 1.4465911072362683 
+            xmax = 1.537004558475526 
+            text = "u" 
+        intervals [4]:
+            xmin = 1.537004558475526 
+            xmax = 1.702395018059534 
+            text = "a" 
+        intervals [5]:
+            xmin = 1.702395018059534 
+            xmax = 1.8325021795989536 
+            text = "d" 
+        intervals [6]:
+            xmin = 1.8325021795989536 
+            xmax = 1.9185052185826377 
+            text = "r" 
+        intervals [7]:
+            xmin = 1.9185052185826377 
+            xmax = 2.10153732718894 
+            text = "a" 
+        intervals [8]:
+            xmin = 2.10153732718894 
+            xmax = 2.196361190683771 
+            text = "d" 
+        intervals [9]:
+            xmin = 2.196361190683771 
+            xmax = 2.3705724747789265 
+            text = "o" 
+        intervals [10]:
+            xmin = 2.3705724747789265 
+            xmax = 2.816 
+            text = "sil" 
