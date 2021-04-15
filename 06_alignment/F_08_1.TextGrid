@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 46.81
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "F_08_1"
+        xmin = 0
+        xmax = 46.81
+        intervals: size = 14
+            intervals [1]:
+                xmin = 0
+                xmax = 1.04
+                text = "En segura pobreza vive Eumelo"
+            intervals [2]:
+                xmin = 1.04
+                xmax = 2.6500000000000004
+                text = " Con dulce libertad"
+            intervals [3]:
+                xmin = 2.6500000000000004
+                xmax = 6.42
+                text = " y le mantienen"
+            intervals [4]:
+                xmin = 6.42
+                xmax = 9.27
+                text = " Las simples aves"
+            intervals [5]:
+                xmin = 9.27
+                xmax = 11.53
+                text = " que engañadas vienen"
+            intervals [6]:
+                xmin = 11.53
+                xmax = 13.94
+                text = " A los lazos y liga sin recelo"
+            intervals [7]:
+                xmin = 13.94
+                xmax = 15.889999999999999
+                text = " Por mejor suerte no importuna al cielo"
+            intervals [8]:
+                xmin = 15.889999999999999
+                xmax = 18.32
+                text = " Ni se muestra envidioso a la que tienen"
+            intervals [9]:
+                xmin = 18.32
+                xmax = 19.9
+                text = " Los que con ansia de subir sostienen"
+            intervals [10]:
+                xmin = 19.9
+                xmax = 22.009999999999998
+                text = " En flacas alas el incierto vuelo"
+            intervals [11]:
+                xmin = 22.009999999999998
+                xmax = 22.439999999999998
+                text = " Muerte tras luengos años no le espanta"
+            intervals [12]:
+                xmin = 22.439999999999998
+                xmax = 24.419999999999998
+                text = " Muerte tras luengos años no le espanta"
+            intervals [13]:
+                xmin = 24.419999999999998
+                xmax = 25.589999999999996
+                text = " Ni la recibe con indigna queja"
+            intervals [14]:
+                xmin = 25.589999999999996
+                xmax = 29.564036281179135
+                text = " Mas con sosiego grato y faz amiga"
