@@ -1,74 +1,106 @@
 File type = "ooTextFile"
 Object class = "TextGrid"
 
-xmin = 0
-xmax = 46.81
-tiers? <exists>
-size = 1
-item []:
+xmin = 0 
+xmax = 89.07755102040817 
+tiers? <exists> 
+size = 1 
+item []: 
     item [1]:
-        class = "IntervalTier"
-        name = "F_08_1"
-        xmin = 0
-        xmax = 46.81
-        intervals: size = 15
-            intervals [1]:
-                xmin = 0.0
-                xmax = 4.3
-                text = "En segura pobreza vive Eumelo"
-            intervals [2]:
-                xmin = 5.65
-                xmax = 6.69
-                text = " Con dulce libertad"
-            intervals [3]:
-                xmin = 7.3
-                xmax = 8.91
-                text = " y le mantienen"
-            intervals [4]:
-                xmin = 10.04
-                xmax = 13.81
-                text = " Las simples aves"
-            intervals [5]:
-                xmin = 15.63
-                xmax = 18.48
-                text = " que engañadas vienen"
-            intervals [6]:
-                xmin = 19.49
-                xmax = 21.75
-                text = " A los lazos y liga sin recelo"
-            intervals [7]:
-                xmin = 23.26
-                xmax = 25.67
-                text = " Por mejor suerte no importuna al cielo"
-            intervals [8]:
-                xmin = 26.59
-                xmax = 28.54
-                text = " Ni se muestra envidioso a la que tienen"
-            intervals [9]:
-                xmin = 30.35
-                xmax = 32.78
-                text = " Los que con ansia de subir sostienen"
-            intervals [10]:
-                xmin = 33.56
-                xmax = 35.14
-                text = " En flacas alas el incierto vuelo"
-            intervals [11]:
-                xmin = 36.83
-                xmax = 38.94
-                text = " Muerte tras luengos años no le espanta"
-            intervals [12]:
-                xmin = 40.27
-                xmax = 43.0
-                text = " Ni la recibe con indigna queja"
-            intervals [13]:
-                xmin = 41.45
-                xmax = 43.0
-                text = " Mas con sosiego grato y faz amiga"
-            intervals [14]:
-                xmin = 44.09
-                xmax = 45.26
-                text = " Al fin"
-            intervals [15]:
-                xmin = 46.81
-                xmax = 50.78403628117914
-                text = " muriendo con pobreza tanta"
+        class = "IntervalTier" 
+        name = "F_08_1" 
+        xmin = 0 
+        xmax = 89.07755102040817 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 23.61779485663612 
+            text = "" 
+        intervals [2]:
+            xmin = 23.61779485663612 
+            xmax = 24.4185634052616 
+            text = "0" 
+        intervals [3]:
+            xmin = 24.4185634052616 
+            xmax = 29.73556357132117 
+            text = "1" 
+        intervals [4]:
+            xmin = 29.73556357132117 
+            xmax = 31.356166586396547 
+            text = "2" 
+        intervals [5]:
+            xmin = 31.356166586396547 
+            xmax = 32.53825349151035 
+            text = "3" 
+        intervals [6]:
+            xmin = 32.53825349151035 
+            xmax = 34.25418609570781 
+            text = "4" 
+        intervals [7]:
+            xmin = 34.25418609570781 
+            xmax = 35.893855028607604 
+            text = "5" 
+        intervals [8]:
+            xmin = 35.893855028607604 
+            xmax = 39.9666871908453 
+            text = "6" 
+        intervals [9]:
+            xmin = 39.9666871908453 
+            xmax = 43.621428571428574 
+            text = "7" 
+        intervals [10]:
+            xmin = 43.621428571428574 
+            xmax = 47.81557823129251 
+            text = "8" 
+        intervals [11]:
+            xmin = 47.81557823129251 
+            xmax = 50.695578231292515 
+            text = "9" 
+        intervals [12]:
+            xmin = 50.695578231292515 
+            xmax = 54.409297052154194 
+            text = "10" 
+        intervals [13]:
+            xmin = 54.409297052154194 
+            xmax = 57.78702947845805 
+            text = "11" 
+        intervals [14]:
+            xmin = 57.78702947845805 
+            xmax = 60.694104308390024 
+            text = "12" 
+        intervals [15]:
+            xmin = 60.694104308390024 
+            xmax = 64.20897959183674 
+            text = "13" 
+        intervals [16]:
+            xmin = 64.20897959183674 
+            xmax = 65.93034013605443 
+            text = "14" 
+        intervals [17]:
+            xmin = 65.93034013605443 
+            xmax = 68.14560090702949 
+            text = "15" 
+        intervals [18]:
+            xmin = 68.14560090702949 
+            xmax = 70.6526530612245 
+            text = "16" 
+        intervals [19]:
+            xmin = 70.6526530612245 
+            xmax = 72.15591647478784 
+            text = "17" 
+        intervals [20]:
+            xmin = 72.15591647478784 
+            xmax = 73.40213151927438 
+            text = "18" 
+        intervals [21]:
+            xmin = 73.40213151927438 
+            xmax = 75.20258503401361 
+            text = "19" 
+        intervals [22]:
+            xmin = 75.20258503401361 
+            xmax = 76.82195011337869 
+            text = "" 
+        intervals [23]:
+            xmin = 76.82195011337869 
+            xmax = 89.07755102040817 
+            text = "" 
