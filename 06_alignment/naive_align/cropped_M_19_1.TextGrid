@@ -1,0 +1,1462 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 1012.19
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_19_1"
+        xmin = 0
+        xmax = 1012.19
+        intervals: size = 362
+            intervals [1]:
+                xmin = 0.0
+                xmax = 2.54
+                text = " y de dos cachorros de hombre"
+            intervals [2]:
+                xmin = 4.34
+                xmax = 4.39
+                text = "          Había una vez un coatí que tenía tres hijos"
+            intervals [3]:
+                xmin = 6.71
+                xmax = 7.14
+                text = " Vivían en el monte comiendo frutas"
+            intervals [4]:
+                xmin = 10.75
+                xmax = 10.95
+                text = " raíces y huevos de pajaritos"
+            intervals [5]:
+                xmin = 12.44
+                xmax = 12.46
+                text = " Cuando estaban arriba de los árboles y sentían un gran ruido"
+            intervals [6]:
+                xmin = 14.22
+                xmax = 14.28
+                text = " se tiraban al suela de cabeza y salían corriendo con la cola levantada"
+            intervals [7]:
+                xmin = 18.09
+                xmax = 18.11
+                text = "          Una vez que los coaticitos fueron un poco grandes"
+            intervals [8]:
+                xmin = 22.43
+                xmax = 23.15
+                text = " su madre los reunió un día arriba de un naranjo y les habló así"
+            intervals [9]:
+                xmin = 25.64
+                xmax = 25.8
+                text = "Coaticitos"
+            intervals [10]:
+                xmin = 27.0
+                xmax = 27.08
+                text = " ustedes son bastante grandes para buscarse la comida solos"
+            intervals [11]:
+                xmin = 31.0
+                xmax = 32.04
+                text = " Deben aprenderlo"
+            intervals [12]:
+                xmin = 33.35
+                xmax = 33.39
+                text = " porque cuando sean viejos andarán siempre solos"
+            intervals [13]:
+                xmin = 34.41
+                xmax = 35.29
+                text = " como todos los coatís"
+            intervals [14]:
+                xmin = 39.72
+                xmax = 40.75
+                text = " El mayor de ustedes"
+            intervals [15]:
+                xmin = 43.19
+                xmax = 43.49
+                text = " que es muy amigo de cazar cascarudos"
+            intervals [16]:
+                xmin = 44.86
+                xmax = 44.88
+                text = " puede encontrarlos entre los palos podridos"
+            intervals [17]:
+                xmin = 49.85
+                xmax = 50.34
+                text = " porque allí hay muchos cascarudos y cucarachas"
+            intervals [18]:
+                xmin = 54.32
+                xmax = 54.96
+                text = " El segundo"
+            intervals [19]:
+                xmin = 55.82
+                xmax = 55.85
+                text = " que es gran comedor de frutas"
+            intervals [20]:
+                xmin = 56.71
+                xmax = 56.74
+                text = " puede encontrarlas en este naranjal"
+            intervals [21]:
+                xmin = 61.73
+                xmax = 62.32
+                text = " hasta diciembre habrá naranjas"
+            intervals [22]:
+                xmin = 63.17
+                xmax = 63.8
+                text = " El tercero"
+            intervals [23]:
+                xmin = 66.37
+                xmax = 66.65
+                text = " que no quiere comer sino huevos de pájaros"
+            intervals [24]:
+                xmin = 69.04
+                xmax = 69.92
+                text = " puede ir a todas partes"
+            intervals [25]:
+                xmin = 72.95
+                xmax = 73.04
+                text = " porque en todas partes hay nidos de pájaros"
+            intervals [26]:
+                xmin = 73.79
+                xmax = 74.19
+                text = " Pero que no vaya nunca a buscar nidos al campo"
+            intervals [27]:
+                xmin = 74.99
+                xmax = 75.03
+                text = " porque es peligroso"
+            intervals [28]:
+                xmin = 76.01
+                xmax = 76.64
+                text = "          'Coaticitos hay una sola cosa a la cual deben tener gran miedo"
+            intervals [29]:
+                xmin = 83.31
+                xmax = 84.95
+                text = " Son los perros"
+            intervals [30]:
+                xmin = 85.85
+                xmax = 86.57
+                text = " Yo peleé una vez con ellos"
+            intervals [31]:
+                xmin = 88.15
+                xmax = 88.19
+                text = " y sé lo que les digo"
+            intervals [32]:
+                xmin = 90.66
+                xmax = 92.01
+                text = " por eso tengo un diente roto"
+            intervals [33]:
+                xmin = 94.06
+                xmax = 94.09
+                text = " Detrás de los perros vienen siempre los hombres con un gran ruido"
+            intervals [34]:
+                xmin = 96.13
+                xmax = 96.22
+                text = " que mata"
+            intervals [35]:
+                xmin = 97.56
+                xmax = 98.45
+                text = " Cuando oigan cerca este ruido"
+            intervals [36]:
+                xmin = 99.04
+                xmax = 99.08
+                text = " tírense de cabeza al suelo"
+            intervals [37]:
+                xmin = 101.57
+                xmax = 101.63
+                text = " por alto que sea el árbol"
+            intervals [38]:
+                xmin = 102.84
+                xmax = 103.52
+                text = " Si no lo hacen así"
+            intervals [39]:
+                xmin = 106.43
+                xmax = 106.46
+                text = " los matarán con seguridad de un tiro'"
+            intervals [40]:
+                xmin = 109.4
+                xmax = 109.9
+                text = "          Así habló la madre"
+            intervals [41]:
+                xmin = 110.57
+                xmax = 110.59
+                text = " Todos se bajaron entonces y se separaron"
+            intervals [42]:
+                xmin = 112.12
+                xmax = 112.76
+                text = " caminando de derecha a izquierda y de izquierda a derecha"
+            intervals [43]:
+                xmin = 114.59
+                xmax = 115.08
+                text = " como si hubieran perdido algo"
+            intervals [44]:
+                xmin = 115.74
+                xmax = 115.76
+                text = " porque así caminan los coatís"
+            intervals [45]:
+                xmin = 118.51
+                xmax = 118.59
+                text = "          El mayor"
+            intervals [46]:
+                xmin = 119.15
+                xmax = 119.18
+                text = " que quería comer cascarudos"
+            intervals [47]:
+                xmin = 126.85
+                xmax = 126.87
+                text = " buscó entre los palos podridos y las hojas de los yuyos"
+            intervals [48]:
+                xmin = 128.86
+                xmax = 128.95
+                text = " y encontró tantos"
+            intervals [49]:
+                xmin = 132.3
+                xmax = 133.13
+                text = " que comió hasta quedarse dormido"
+            intervals [50]:
+                xmin = 134.98
+                xmax = 135.0
+                text = " El segundo"
+            intervals [51]:
+                xmin = 141.23
+                xmax = 142.15
+                text = " que prefería las frutas a cualquier cosa"
+            intervals [52]:
+                xmin = 142.9
+                xmax = 142.97
+                text = " comió cuantas naranjas quiso"
+            intervals [53]:
+                xmin = 143.72
+                xmax = 143.77
+                text = " porque aquel naranjal estaba dentro del monte"
+            intervals [54]:
+                xmin = 145.13
+                xmax = 145.18
+                text = " como pasa en el Paraguay y Misiones"
+            intervals [55]:
+                xmin = 146.93
+                xmax = 147.07
+                text = " y ningún hombre vino a incomodarlo"
+            intervals [56]:
+                xmin = 147.77
+                xmax = 147.82
+                text = " El tercero"
+            intervals [57]:
+                xmin = 149.56
+                xmax = 149.57
+                text = " que era loco por los huevos de pájaros"
+            intervals [58]:
+                xmin = 152.38
+                xmax = 152.39
+                text = " tuvo que andar todo el día para encontrar únicamente dos nidos"
+            intervals [59]:
+                xmin = 153.05
+                xmax = 153.94
+                text = " uno de tucán"
+            intervals [60]:
+                xmin = 154.64
+                xmax = 154.66
+                text = " que tenía tres huevos"
+            intervals [61]:
+                xmin = 155.83
+                xmax = 156.05
+                text = " y uno de tórtolas"
+            intervals [62]:
+                xmin = 158.51
+                xmax = 158.57
+                text = " que tenia sólo dos"
+            intervals [63]:
+                xmin = 161.25
+                xmax = 161.59
+                text = " Total"
+            intervals [64]:
+                xmin = 163.97
+                xmax = 164.0
+                text = " cinco huevos chiquitos"
+            intervals [65]:
+                xmin = 167.13
+                xmax = 167.33
+                text = " que era muy poca comida"
+            intervals [66]:
+                xmin = 168.29
+                xmax = 168.57
+                text = " de modo que al caer la tarde el coaticito tenia tanta hambre como de mañana"
+            intervals [67]:
+                xmin = 169.7
+                xmax = 169.72
+                text = " y se sentó muy triste a la orilla del monte"
+            intervals [68]:
+                xmin = 170.72
+                xmax = 171.31
+                text = " Desde allí veía el campo"
+            intervals [69]:
+                xmin = 172.12
+                xmax = 172.36
+                text = " y pensó en la recomendación de su madre"
+            intervals [70]:
+                xmin = 175.2
+                xmax = 175.41
+                text = "Por qué no querrá mamá "
+            intervals [71]:
+                xmin = 177.97
+                xmax = 178.04
+                text = "se dijo"
+            intervals [72]:
+                xmin = 181.5
+                xmax = 181.57
+                text = " que vaya a buscar nidos en el campo"
+            intervals [73]:
+                xmin = 182.59
+                xmax = 182.61
+                text = "          Estaba pensando así cuando oyó"
+            intervals [74]:
+                xmin = 184.07
+                xmax = 184.22
+                text = " muy lejos"
+            intervals [75]:
+                xmin = 186.04
+                xmax = 186.09
+                text = " el canto de un pájaro"
+            intervals [76]:
+                xmin = 187.3
+                xmax = 187.31
+                text = "Qué canto tan fuerte"
+            intervals [77]:
+                xmin = 188.69
+                xmax = 188.74
+                text = "dijo admirado"
+            intervals [78]:
+                xmin = 191.92
+                xmax = 191.93
+                text = "qué huevos tan grandes debe tener ese pájaro"
+            intervals [79]:
+                xmin = 195.83
+                xmax = 195.85
+                text = "          El canto se repitió"
+            intervals [80]:
+                xmin = 202.89
+                xmax = 202.93
+                text = " Y entonces el coatí se puso a correr por entre el monte"
+            intervals [81]:
+                xmin = 206.31
+                xmax = 206.33
+                text = " cortando camino"
+            intervals [82]:
+                xmin = 212.43
+                xmax = 212.5
+                text = " porque el canto había sonado muy a su derecha"
+            intervals [83]:
+                xmin = 215.49
+                xmax = 215.58
+                text = " El sol caía ya"
+            intervals [84]:
+                xmin = 216.2
+                xmax = 216.45
+                text = " pero el coatí volaba con la cola levantada"
+            intervals [85]:
+                xmin = 219.28
+                xmax = 219.52
+                text = " Llegó a la orilla del monte"
+            intervals [86]:
+                xmin = 221.18
+                xmax = 221.25
+                text = " por fin"
+            intervals [87]:
+                xmin = 221.8
+                xmax = 221.83
+                text = " y miró al campo"
+            intervals [88]:
+                xmin = 224.8
+                xmax = 224.84
+                text = " Lejos vio la casa de los hombres"
+            intervals [89]:
+                xmin = 225.87
+                xmax = 226.46
+                text = " y vio a un hombre con botas que llevaba un caballo de la soga"
+            intervals [90]:
+                xmin = 227.3
+                xmax = 227.34
+                text = " Vio también un pájaro muy grande que cantaba y entonces el coaticito se golpeó la frente y dijo"
+            intervals [91]:
+                xmin = 230.75
+                xmax = 231.62
+                text = "Qué zonzo soy"
+            intervals [92]:
+                xmin = 233.26
+                xmax = 233.28
+                text = " Ahora ya sé qué pájaro es ése"
+            intervals [93]:
+                xmin = 235.07
+                xmax = 235.12
+                text = " Es un gallo"
+            intervals [94]:
+                xmin = 237.4
+                xmax = 237.42
+                text = " mamá me lo mostró un día de arriba de un árbol"
+            intervals [95]:
+                xmin = 241.73
+                xmax = 241.99
+                text = " Los gallos tienen un canto lindísimo"
+            intervals [96]:
+                xmin = 243.0
+                xmax = 243.02
+                text = " y tienen muchas gallinas que ponen huevos"
+            intervals [97]:
+                xmin = 243.64
+                xmax = 243.67
+                text = "Si yo pudiera comer huevos de gallina"
+            intervals [98]:
+                xmin = 246.0
+                xmax = 246.32
+                text = "          Es sabido que nada gusta tanto a los bichos chicos de monte como los huevos de gallina"
+            intervals [99]:
+                xmin = 247.34
+                xmax = 247.36
+                text = " Durante un rato el coaticito se acordó de la recomendación de su madre"
+            intervals [100]:
+                xmin = 249.2
+                xmax = 249.32
+                text = " Pero el deseo pudo más"
+            intervals [101]:
+                xmin = 250.88
+                xmax = 251.17
+                text = " y se sentó a la orilla del monte"
+            intervals [102]:
+                xmin = 254.78
+                xmax = 254.82
+                text = " esperando que cerrara bien la noche para ir al gallinero"
+            intervals [103]:
+                xmin = 258.34
+                xmax = 258.45
+                text = "          La noche cerró por fin"
+            intervals [104]:
+                xmin = 261.09
+                xmax = 261.12
+                text = " y entonces"
+            intervals [105]:
+                xmin = 268.76
+                xmax = 268.9
+                text = " en puntas de pie y paso a paso"
+            intervals [106]:
+                xmin = 274.95
+                xmax = 275.46
+                text = " se encaminó a la casa"
+            intervals [107]:
+                xmin = 279.78
+                xmax = 280.34
+                text = " Llegó allá y escuchó atentamente"
+            intervals [108]:
+                xmin = 282.01
+                xmax = 283.12
+                text = " no se sentía el menor ruido"
+            intervals [109]:
+                xmin = 289.15
+                xmax = 289.16
+                text = " El coaticito"
+            intervals [110]:
+                xmin = 292.07
+                xmax = 292.96
+                text = " loco de alegría porque iba a comer cien"
+            intervals [111]:
+                xmin = 295.17
+                xmax = 296.0
+                text = " mil"
+            intervals [112]:
+                xmin = 297.35
+                xmax = 297.59
+                text = " dos mil huevos de gallina"
+            intervals [113]:
+                xmin = 305.45
+                xmax = 305.92
+                text = " entró en el gallinero"
+            intervals [114]:
+                xmin = 306.56
+                xmax = 306.57
+                text = " y lo primero que vio bien en la entrada fue un huevo que estaba solo en el suelo"
+            intervals [115]:
+                xmin = 308.72
+                xmax = 308.78
+                text = " Pensó un instante en dejarlo para el final"
+            intervals [116]:
+                xmin = 311.41
+                xmax = 311.73
+                text = " como postre"
+            intervals [117]:
+                xmin = 312.44
+                xmax = 313.58
+                text = " porque era un huevo muy grande"
+            intervals [118]:
+                xmin = 314.18
+                xmax = 314.26
+                text = " pero la boca se le hizo agua"
+            intervals [119]:
+                xmin = 318.4
+                xmax = 319.21
+                text = " y clavó los dientes en el huevo"
+            intervals [120]:
+                xmin = 320.05
+                xmax = 320.42
+                text = "          Apenas lo mordió"
+            intervals [121]:
+                xmin = 323.35
+                xmax = 323.53
+                text = "TRAC"
+            intervals [122]:
+                xmin = 327.17
+                xmax = 327.58
+                text = " un terrible golpe en la cara y un inmenso dolor en el hocico"
+            intervals [123]:
+                xmin = 330.21
+                xmax = 330.74
+                text = "Mamá"
+            intervals [124]:
+                xmin = 331.38
+                xmax = 331.49
+                text = " mamá"
+            intervals [125]:
+                xmin = 333.0
+                xmax = 334.28
+                text = "gritó"
+            intervals [126]:
+                xmin = 336.96
+                xmax = 337.5
+                text = " loco de dolor"
+            intervals [127]:
+                xmin = 338.92
+                xmax = 339.33
+                text = " saltando a todos lados"
+            intervals [128]:
+                xmin = 340.33
+                xmax = 340.66
+                text = " Pero estaba sujeto"
+            intervals [129]:
+                xmin = 342.41
+                xmax = 342.52
+                text = " y en ese momento oyó el ronco ladrido de un perro"
+            intervals [130]:
+                xmin = 344.41
+                xmax = 344.46
+                text = "          Mientras el coatí esperaba en la orilla del monte que cerrara bien la noche para ir al gallinero"
+            intervals [131]:
+                xmin = 346.43
+                xmax = 346.82
+                text = " el hombre de la casa jugaban sobre la gramilla con sus hijos"
+            intervals [132]:
+                xmin = 347.5
+                xmax = 347.59
+                text = " dos criaturas rubias de cinco y seis años"
+            intervals [133]:
+                xmin = 350.43
+                xmax = 350.84
+                text = " que corrían riendo"
+            intervals [134]:
+                xmin = 351.43
+                xmax = 351.45
+                text = " se caían"
+            intervals [135]:
+                xmin = 352.56
+                xmax = 353.12
+                text = " se levantaban riendo otra vez"
+            intervals [136]:
+                xmin = 354.38
+                xmax = 354.42
+                text = " y volvían a caerse"
+            intervals [137]:
+                xmin = 355.86
+                xmax = 356.21
+                text = " El padre se caía también"
+            intervals [138]:
+                xmin = 357.83
+                xmax = 357.88
+                text = " con gran alegría de los chicos"
+            intervals [139]:
+                xmin = 358.63
+                xmax = 358.67
+                text = " Dejaron por fin de jugar porque ya era de noche"
+            intervals [140]:
+                xmin = 360.25
+                xmax = 360.87
+                text = " y el hombre dijo entonces"
+            intervals [141]:
+                xmin = 361.39
+                xmax = 361.48
+                text = "Voy a poner la trampa para cazar a la comadreja que viene a matar los pollos y robar los huevos"
+            intervals [142]:
+                xmin = 363.78
+                xmax = 364.11
+                text = "          Y fue y armó la trampa"
+            intervals [143]:
+                xmin = 365.72
+                xmax = 365.77
+                text = " Después comieron y se acostaron"
+            intervals [144]:
+                xmin = 366.81
+                xmax = 367.0
+                text = " Pero las criaturas no tenían sueño"
+            intervals [145]:
+                xmin = 371.14
+                xmax = 371.24
+                text = " y saltaban de la cama del uno a la del otro y se enredaban en el camisón"
+            intervals [146]:
+                xmin = 372.93
+                xmax = 373.19
+                text = " El padre"
+            intervals [147]:
+                xmin = 373.7
+                xmax = 373.72
+                text = " que leía en el comedor"
+            intervals [148]:
+                xmin = 375.76
+                xmax = 375.77
+                text = " los dejaba hacer"
+            intervals [149]:
+                xmin = 377.44
+                xmax = 377.45
+                text = " Pero los chicos de repente se detuvieron en sus saltos y gritaron"
+            intervals [150]:
+                xmin = 379.18
+                xmax = 379.19
+                text = "Papá"
+            intervals [151]:
+                xmin = 381.14
+                xmax = 381.28
+                text = "Ha caído la comadreja en la trampa"
+            intervals [152]:
+                xmin = 382.85
+                xmax = 382.86
+                text = "Tuké esta ladrando"
+            intervals [153]:
+                xmin = 386.31
+                xmax = 386.64
+                text = "Nosotros también queremos ir"
+            intervals [154]:
+                xmin = 390.95
+                xmax = 391.24
+                text = " papá"
+            intervals [155]:
+                xmin = 392.08
+                xmax = 392.1
+                text = "          El padre consintió"
+            intervals [156]:
+                xmin = 394.35
+                xmax = 395.03
+                text = " pero no sin que las criaturas se pusieran las sandalias"
+            intervals [157]:
+                xmin = 396.78
+                xmax = 397.1
+                text = " pues nunca los dejaba andar descalzos de noche"
+            intervals [158]:
+                xmin = 398.19
+                xmax = 398.22
+                text = " por temor a las víboras"
+            intervals [159]:
+                xmin = 399.0
+                xmax = 399.35
+                text = "          Fueron"
+            intervals [160]:
+                xmin = 399.99
+                xmax = 400.57
+                text = "Qué vieron allí"
+            intervals [161]:
+                xmin = 402.63
+                xmax = 402.74
+                text = " Vieron a su padre que se agachaba"
+            intervals [162]:
+                xmin = 403.28
+                xmax = 403.47
+                text = " teniendo al perro con una mano"
+            intervals [163]:
+                xmin = 406.61
+                xmax = 406.66
+                text = " mientras con la otra levantaba por la cola a un coatí"
+            intervals [164]:
+                xmin = 408.45
+                xmax = 408.52
+                text = " un coaticito chico aún"
+            intervals [165]:
+                xmin = 409.46
+                xmax = 409.49
+                text = " que gritaba con un chillido rapidísimo y estridente"
+            intervals [166]:
+                xmin = 410.03
+                xmax = 410.1
+                text = " como un grillo"
+            intervals [167]:
+                xmin = 410.65
+                xmax = 410.85
+                text = "Papá"
+            intervals [168]:
+                xmin = 411.51
+                xmax = 411.96
+                text = " no lo mates"
+            intervals [169]:
+                xmin = 413.35
+                xmax = 413.37
+                text = "dijeron las criaturas"
+            intervals [170]:
+                xmin = 414.01
+                xmax = 414.9
+                text = "Es muy chiquito"
+            intervals [171]:
+                xmin = 415.91
+                xmax = 417.03
+                text = "Dánoslo para nosotros"
+            intervals [172]:
+                xmin = 418.8
+                xmax = 418.89
+                text = "Bueno"
+            intervals [173]:
+                xmin = 419.57
+                xmax = 419.62
+                text = " se los voy a dar "
+            intervals [174]:
+                xmin = 420.43
+                xmax = 420.77
+                text = "respondió el padre"
+            intervals [175]:
+                xmin = 421.63
+                xmax = 421.64
+                text = " Pero cuídenlo bien"
+            intervals [176]:
+                xmin = 423.79
+                xmax = 423.84
+                text = " y sobre todo no se olviden de que los coatís toman agua como ustedes"
+            intervals [177]:
+                xmin = 425.19
+                xmax = 425.22
+                text = "          Esto lo decía porque los chicos habían tenido una vez un gatito montés al cual a cada rato le llevaban carne"
+            intervals [178]:
+                xmin = 428.52
+                xmax = 428.63
+                text = " que sacaban de la fiambrera pero nunca le dieron agua"
+            intervals [179]:
+                xmin = 429.77
+                xmax = 429.79
+                text = " y se murió"
+            intervals [180]:
+                xmin = 431.22
+                xmax = 431.34
+                text = "          En consecuencia"
+            intervals [181]:
+                xmin = 431.93
+                xmax = 432.06
+                text = " pusieron al coatí en la misma jaula del gato montés"
+            intervals [182]:
+                xmin = 433.8
+                xmax = 433.88
+                text = " que estaba cerca del gallinero"
+            intervals [183]:
+                xmin = 435.22
+                xmax = 435.43
+                text = " y se acostaron todos otra vez"
+            intervals [184]:
+                xmin = 436.1
+                xmax = 436.73
+                text = "          Y cuando era más de medianoche y había un gran silencio"
+            intervals [185]:
+                xmin = 440.43
+                xmax = 441.19
+                text = " el coaticito"
+            intervals [186]:
+                xmin = 441.79
+                xmax = 441.8
+                text = " que sufría mucho por los dientes de la trampa"
+            intervals [187]:
+                xmin = 442.32
+                xmax = 442.36
+                text = " vio"
+            intervals [188]:
+                xmin = 443.52
+                xmax = 443.59
+                text = " a la luz de la luna"
+            intervals [189]:
+                xmin = 447.47
+                xmax = 447.51
+                text = " tres sombras que se acercaban con gran sigilo"
+            intervals [190]:
+                xmin = 448.28
+                xmax = 448.63
+                text = " El corazón le dio un vuelco al pobre coaticito al reconocer a su madre y sus dos hermanos que lo estaban buscando"
+            intervals [191]:
+                xmin = 451.96
+                xmax = 451.98
+                text = "Mamá"
+            intervals [192]:
+                xmin = 455.07
+                xmax = 455.12
+                text = " mamá"
+            intervals [193]:
+                xmin = 456.03
+                xmax = 456.33
+                text = "murmuró el prisionero en voz muy baja para no hacer ruido"
+            intervals [194]:
+                xmin = 458.22
+                xmax = 458.93
+                text = "Estoy aquí"
+            intervals [195]:
+                xmin = 460.33
+                xmax = 461.84
+                text = "Sáquenme de aquí"
+            intervals [196]:
+                xmin = 463.3
+                xmax = 463.81
+                text = "No quiero quedarme"
+            intervals [197]:
+                xmin = 465.93
+                xmax = 467.99
+                text = " ma"
+            intervals [198]:
+                xmin = 469.0
+                xmax = 469.53
+                text = " má"
+            intervals [199]:
+                xmin = 470.67
+                xmax = 470.72
+                text = "y lloraba desconsolado"
+            intervals [200]:
+                xmin = 471.27
+                xmax = 471.56
+                text = "          Pero a pesar de todo estaban contentos porque se habían encontrado"
+            intervals [201]:
+                xmin = 472.51
+                xmax = 472.6
+                text = " y se hacían mil caricias en el hocico"
+            intervals [202]:
+                xmin = 473.46
+                xmax = 474.46
+                text = "          Se trató en seguida de hacer salir al prisionero"
+            intervals [203]:
+                xmin = 475.44
+                xmax = 476.06
+                text = " Probaron primero cortar el alambre tejido"
+            intervals [204]:
+                xmin = 479.56
+                xmax = 479.76
+                text = " y los cuatro se pusieron a trabajar con los dientes"
+            intervals [205]:
+                xmin = 480.61
+                xmax = 480.7
+                text = " mas no conseguían nada"
+            intervals [206]:
+                xmin = 481.22
+                xmax = 481.29
+                text = " Entonces a la madre se le ocurrió de repente una idea"
+            intervals [207]:
+                xmin = 482.06
+                xmax = 482.49
+                text = " y dijo"
+            intervals [208]:
+                xmin = 484.2
+                xmax = 484.35
+                text = "Vamos a buscar las herramientas del hombre"
+            intervals [209]:
+                xmin = 489.14
+                xmax = 489.62
+                text = " Los hombres tienen herramientas para cortar fierro"
+            intervals [210]:
+                xmin = 490.19
+                xmax = 490.67
+                text = " Se llaman limas"
+            intervals [211]:
+                xmin = 491.83
+                xmax = 492.08
+                text = " Tienen tres lados como las víboras de cascabel"
+            intervals [212]:
+                xmin = 495.07
+                xmax = 495.09
+                text = " Se empuja y se retira"
+            intervals [213]:
+                xmin = 495.84
+                xmax = 495.85
+                text = "Vamos a buscarla"
+            intervals [214]:
+                xmin = 498.4
+                xmax = 498.42
+                text = "          Fueron al taller del hombre y volvieron con la lima"
+            intervals [215]:
+                xmin = 499.19
+                xmax = 499.35
+                text = " Creyendo que uno solo no tendría fuerzas bastantes"
+            intervals [216]:
+                xmin = 500.44
+                xmax = 500.48
+                text = " sujetaron la lima entre los tres y empezaron el trabajo"
+            intervals [217]:
+                xmin = 505.06
+                xmax = 506.32
+                text = " Y se entusiasmaron tanto"
+            intervals [218]:
+                xmin = 506.87
+                xmax = 507.27
+                text = " que al rato la jaula entera temblaba con las sacudidas y hacía un terrible ruido"
+            intervals [219]:
+                xmin = 508.25
+                xmax = 508.41
+                text = " Tal ruido hacía"
+            intervals [220]:
+                xmin = 508.95
+                xmax = 508.97
+                text = " que el perro se despertó"
+            intervals [221]:
+                xmin = 510.59
+                xmax = 510.66
+                text = " lanzando un ronco ladrido"
+            intervals [222]:
+                xmin = 511.33
+                xmax = 511.42
+                text = " Mas los coatís no esperaron a que el perro les pidiera cuenta de ese escándalo y dispararon al monte"
+            intervals [223]:
+                xmin = 512.04
+                xmax = 512.43
+                text = " dejando la lima tirada"
+            intervals [224]:
+                xmin = 514.74
+                xmax = 515.68
+                text = "          Al día siguiente"
+            intervals [225]:
+                xmin = 516.2
+                xmax = 516.62
+                text = " los chicos fueron temprano a ver a su nuevo huésped"
+            intervals [226]:
+                xmin = 519.33
+                xmax = 519.98
+                text = " que estaba muy triste"
+            intervals [227]:
+                xmin = 522.11
+                xmax = 522.69
+                text = "Qué nombre le pondremos"
+            intervals [228]:
+                xmin = 523.59
+                xmax = 524.22
+                text = "preguntó la nena a su hermano"
+            intervals [229]:
+                xmin = 527.53
+                xmax = 527.57
+                text = "Ya sé"
+            intervals [230]:
+                xmin = 530.29
+                xmax = 531.13
+                text = "respondió el varoncito"
+            intervals [231]:
+                xmin = 531.83
+                xmax = 531.85
+                text = "Le pondremos Diecisiete"
+            intervals [232]:
+                xmin = 533.19
+                xmax = 533.23
+                text = "Por qué Diecisiete"
+            intervals [233]:
+                xmin = 538.04
+                xmax = 539.61
+                text = " Nunca hubo bicho del monte con nombre más raro"
+            intervals [234]:
+                xmin = 541.01
+                xmax = 542.17
+                text = " Pero el varoncito estaba aprendiendo a contar"
+            intervals [235]:
+                xmin = 544.0
+                xmax = 544.59
+                text = " y tal vez le había llamado la atención aquel número"
+            intervals [236]:
+                xmin = 546.8
+                xmax = 546.84
+                text = "          El caso es que se llamó Diecisiete"
+            intervals [237]:
+                xmin = 548.89
+                xmax = 549.43
+                text = " Le dieron pan"
+            intervals [238]:
+                xmin = 550.18
+                xmax = 550.2
+                text = " uvas"
+            intervals [239]:
+                xmin = 550.85
+                xmax = 550.9
+                text = " chocolate"
+            intervals [240]:
+                xmin = 552.87
+                xmax = 553.14
+                text = " carne"
+            intervals [241]:
+                xmin = 555.8
+                xmax = 556.42
+                text = " langostas"
+            intervals [242]:
+                xmin = 557.25
+                xmax = 557.3
+                text = " huevos"
+            intervals [243]:
+                xmin = 557.99
+                xmax = 558.01
+                text = " riquísimos huevos de gallina"
+            intervals [244]:
+                xmin = 559.24
+                xmax = 559.25
+                text = " lograron que en un solo día se dejara rascar la cabeza"
+            intervals [245]:
+                xmin = 560.8
+                xmax = 561.44
+                text = " y tan grande es la sinceridad del cariño de las criaturas"
+            intervals [246]:
+                xmin = 563.94
+                xmax = 564.25
+                text = " que"
+            intervals [247]:
+                xmin = 565.42
+                xmax = 565.45
+                text = " al llegar la noche"
+            intervals [248]:
+                xmin = 566.3
+                xmax = 566.59
+                text = " el coatí estaba casi resignado con su cautiverio"
+            intervals [249]:
+                xmin = 568.95
+                xmax = 569.0
+                text = " Pensaba a cada momento en las cosas ricas que había para comer allí"
+            intervals [250]:
+                xmin = 570.39
+                xmax = 570.78
+                text = " y pensaba en aquellos rubios cachorritos de hombre que tan alegres y buenos eran"
+            intervals [251]:
+                xmin = 572.4
+                xmax = 573.13
+                text = "          Durante dos noches seguidas"
+            intervals [252]:
+                xmin = 573.83
+                xmax = 574.4
+                text = " el perro durmió tan cerca de la jaula"
+            intervals [253]:
+                xmin = 576.19
+                xmax = 576.73
+                text = " que la familia del prisionero no se atrevió a acercarse"
+            intervals [254]:
+                xmin = 577.6
+                xmax = 577.63
+                text = " con gran sentimiento"
+            intervals [255]:
+                xmin = 580.17
+                xmax = 581.33
+                text = " Cuando a la tercera noche llegaron de nuevo a buscar la lima para dar libertad al coaticito"
+            intervals [256]:
+                xmin = 582.19
+                xmax = 583.25
+                text = " éste les dijo"
+            intervals [257]:
+                xmin = 584.36
+                xmax = 584.57
+                text = "Mamá"
+            intervals [258]:
+                xmin = 585.72
+                xmax = 585.75
+                text = " yo no quiero irme más de aquí"
+            intervals [259]:
+                xmin = 586.64
+                xmax = 586.86
+                text = " Me dan huevos y son muy buenos conmigo"
+            intervals [260]:
+                xmin = 587.37
+                xmax = 587.82
+                text = " Hoy me dijeron que si me portaba bien me iban a dejar suelto muy pronto"
+            intervals [261]:
+                xmin = 589.32
+                xmax = 591.32
+                text = " son como nosotros son cachorritos también"
+            intervals [262]:
+                xmin = 592.43
+                xmax = 593.25
+                text = " y jugamos juntos"
+            intervals [263]:
+                xmin = 595.48
+                xmax = 597.12
+                text = "          Los coatís salvajes quedaron muy tristes"
+            intervals [264]:
+                xmin = 597.67
+                xmax = 598.91
+                text = " pero se resignaron"
+            intervals [265]:
+                xmin = 600.25
+                xmax = 600.27
+                text = " prometiendo al coaticito venir todas las noches a visitarlo"
+            intervals [266]:
+                xmin = 601.24
+                xmax = 602.22
+                text = "          Efectivamente"
+            intervals [267]:
+                xmin = 606.22
+                xmax = 606.26
+                text = " todas las noches"
+            intervals [268]:
+                xmin = 607.51
+                xmax = 608.13
+                text = " lloviera o no"
+            intervals [269]:
+                xmin = 611.32
+                xmax = 611.34
+                text = " su madre y sus hermanos iban a pasar un rato con él"
+            intervals [270]:
+                xmin = 613.99
+                xmax = 614.03
+                text = " El coaticito les daba pan por entre el tejido de alambre"
+            intervals [271]:
+                xmin = 617.98
+                xmax = 618.18
+                text = " y los coatís salvajes se sentaban a comer frente a la jaula"
+            intervals [272]:
+                xmin = 620.47
+                xmax = 620.93
+                text = "          Al cabo de quince días"
+            intervals [273]:
+                xmin = 622.03
+                xmax = 622.39
+                text = " el coaticito andaba suelto y él mismo se iba de noche a su jaula"
+            intervals [274]:
+                xmin = 624.14
+                xmax = 624.21
+                text = " Salvo algunos tirones de orejas que se llevaba por andar muy cerca del gallinero"
+            intervals [275]:
+                xmin = 625.61
+                xmax = 626.39
+                text = " todo marchaba bien"
+            intervals [276]:
+                xmin = 629.11
+                xmax = 630.22
+                text = " Él y las criaturas se querían mucho"
+            intervals [277]:
+                xmin = 632.12
+                xmax = 633.06
+                text = " y los mismos coatís salvajes"
+            intervals [278]:
+                xmin = 635.81
+                xmax = 636.6
+                text = " al ver lo buenos que eran aquellos cachorritos de hombre"
+            intervals [279]:
+                xmin = 639.41
+                xmax = 640.0
+                text = " habían concluido por tomar cariño a las dos criaturas"
+            intervals [280]:
+                xmin = 640.82
+                xmax = 641.0
+                text = "          Hasta que una noche muy oscura"
+            intervals [281]:
+                xmin = 642.65
+                xmax = 642.76
+                text = " en que hacía mucho calor y tronaba"
+            intervals [282]:
+                xmin = 643.77
+                xmax = 643.81
+                text = " los coatís salvajes llamaron al coaticito y nadie les respondió"
+            intervals [283]:
+                xmin = 644.83
+                xmax = 644.96
+                text = " Se acercaron muy inquietos y vieron entonces"
+            intervals [284]:
+                xmin = 646.74
+                xmax = 646.85
+                text = " en el momento en que casi la pisaban"
+            intervals [285]:
+                xmin = 648.41
+                xmax = 649.1
+                text = " una enorme víbora que estaba enroscada en la entrada de la jaula"
+            intervals [286]:
+                xmin = 649.73
+                xmax = 649.76
+                text = " Los coatís comprendieron en seguida que el coaticito había sido mordido al entrar"
+            intervals [287]:
+                xmin = 652.6
+                xmax = 653.62
+                text = " y no había respondido a su llamado porque acaso estaba ya muerto"
+            intervals [288]:
+                xmin = 654.33
+                xmax = 654.34
+                text = " Pero lo iban a vengar bien"
+            intervals [289]:
+                xmin = 656.53
+                xmax = 657.24
+                text = " En un segundo"
+            intervals [290]:
+                xmin = 657.91
+                xmax = 657.97
+                text = " entre los tres"
+            intervals [291]:
+                xmin = 658.74
+                xmax = 658.82
+                text = " enloquecieron a la serpiente de cascabel"
+            intervals [292]:
+                xmin = 659.4
+                xmax = 659.44
+                text = " saltando de aquí para allá"
+            intervals [293]:
+                xmin = 662.55
+                xmax = 663.69
+                text = " y en otro segundo"
+            intervals [294]:
+                xmin = 665.13
+                xmax = 665.44
+                text = " cayeron sobre ella"
+            intervals [295]:
+                xmin = 666.27
+                xmax = 666.29
+                text = " deshaciéndole la cabeza a mordiscones"
+            intervals [296]:
+                xmin = 667.95
+                xmax = 669.37
+                text = "          Corrieron entonces adentro"
+            intervals [297]:
+                xmin = 674.23
+                xmax = 674.67
+                text = " y allí estaba en efecto el coaticito"
+            intervals [298]:
+                xmin = 675.25
+                xmax = 675.26
+                text = " tendido"
+            intervals [299]:
+                xmin = 675.95
+                xmax = 676.5
+                text = " hinchado"
+            intervals [300]:
+                xmin = 678.36
+                xmax = 678.91
+                text = " con las patas temblando y muriéndose"
+            intervals [301]:
+                xmin = 680.26
+                xmax = 680.28
+                text = " En balde los coatís salvajes lo movieron"
+            intervals [302]:
+                xmin = 684.2
+                xmax = 684.88
+                text = " lo lamieron en balde por todo el cuerpo durante un cuarto de hora"
+            intervals [303]:
+                xmin = 685.44
+                xmax = 685.47
+                text = " El coaticito abrió por fin la boca y dejó de respirar"
+            intervals [304]:
+                xmin = 686.36
+                xmax = 686.37
+                text = " porque estaba muerto"
+            intervals [305]:
+                xmin = 687.4
+                xmax = 688.1
+                text = "          Los coatís son casi refractarios como se dice"
+            intervals [306]:
+                xmin = 689.03
+                xmax = 689.04
+                text = " al veneno de las víboras"
+            intervals [307]:
+                xmin = 693.38
+                xmax = 693.95
+                text = " No les hace casi nada el veneno"
+            intervals [308]:
+                xmin = 698.48
+                xmax = 698.74
+                text = " y hay otros animales"
+            intervals [309]:
+                xmin = 699.99
+                xmax = 700.01
+                text = " como la mangosta que resisten muy bien el veneno de las víboras"
+            intervals [310]:
+                xmin = 700.89
+                xmax = 701.22
+                text = " Con toda seguridad el coaticito había sido mordido en una arteria o una vena porque entonces la sangre se envenena en seguida"
+            intervals [311]:
+                xmin = 705.31
+                xmax = 705.32
+                text = " y el animal muere"
+            intervals [312]:
+                xmin = 707.04
+                xmax = 707.06
+                text = " Esto le había pasado al coaticito"
+            intervals [313]:
+                xmin = 709.67
+                xmax = 710.23
+                text = "          Al verlo así"
+            intervals [314]:
+                xmin = 712.41
+                xmax = 712.72
+                text = " su madre y sus hermanos lloraron un largo rato"
+            intervals [315]:
+                xmin = 713.97
+                xmax = 714.97
+                text = " Después"
+            intervals [316]:
+                xmin = 716.23
+                xmax = 716.27
+                text = " como nada más tenían que hacer allí"
+            intervals [317]:
+                xmin = 719.33
+                xmax = 719.79
+                text = " salieron de la jaula"
+            intervals [318]:
+                xmin = 720.62
+                xmax = 721.38
+                text = " se dieron vuelta para mirar por última vez la casa donde tan feliz había sido el coaticito"
+            intervals [319]:
+                xmin = 721.91
+                xmax = 722.26
+                text = " y se fueron otra vez al monte"
+            intervals [320]:
+                xmin = 723.11
+                xmax = 723.38
+                text = "          Pero los tres coatís"
+            intervals [321]:
+                xmin = 727.73
+                xmax = 728.87
+                text = " sin embargo"
+            intervals [322]:
+                xmin = 729.38
+                xmax = 729.39
+                text = " iban muy preocupados"
+            intervals [323]:
+                xmin = 730.06
+                xmax = 730.15
+                text = " y su preocupación era ésta"
+            intervals [324]:
+                xmin = 731.62
+                xmax = 731.75
+                text = "qué iban a decir los chicos"
+            intervals [325]:
+                xmin = 732.46
+                xmax = 732.47
+                text = " cuando"
+            intervals [326]:
+                xmin = 736.67
+                xmax = 737.08
+                text = " al día siguiente"
+            intervals [327]:
+                xmin = 737.71
+                xmax = 737.73
+                text = " vieran muerto a su querido coaticito"
+            intervals [328]:
+                xmin = 738.43
+                xmax = 738.7
+                text = " Los chicos le querían muchísimo"
+            intervals [329]:
+                xmin = 740.66
+                xmax = 740.76
+                text = " y ellos"
+            intervals [330]:
+                xmin = 743.29
+                xmax = 743.72
+                text = " los coatís"
+            intervals [331]:
+                xmin = 744.46
+                xmax = 744.64
+                text = " querían también a los cachorritos rubios"
+            intervals [332]:
+                xmin = 745.57
+                xmax = 746.64
+                text = " Así es que los tres coatís tenían el mismo pensamiento"
+            intervals [333]:
+                xmin = 748.12
+                xmax = 748.24
+                text = " y era evitarles ese gran dolor a los chicos"
+            intervals [334]:
+                xmin = 750.38
+                xmax = 751.41
+                text = "          Hablaron un largo rato y al fin decidieron lo siguiente"
+            intervals [335]:
+                xmin = 753.59
+                xmax = 753.76
+                text = " el segundo de los coatís"
+            intervals [336]:
+                xmin = 755.72
+                xmax = 757.07
+                text = " que se parecía muchísimo al menor en cuerpo y en modo de ser"
+            intervals [337]:
+                xmin = 759.05
+                xmax = 759.1
+                text = " iba a quedarse en la jaula en vez del difunto"
+            intervals [338]:
+                xmin = 759.69
+                xmax = 759.73
+                text = " Como estaban enterados de muchos secretos de la casa"
+            intervals [339]:
+                xmin = 764.42
+                xmax = 764.6
+                text = " por los cuentos del coaticito"
+            intervals [340]:
+                xmin = 766.06
+                xmax = 766.11
+                text = " los chicos no desconocerían nada"
+            intervals [341]:
+                xmin = 767.47
+                xmax = 768.45
+                text = " extrañarían un poco algunas cosas"
+            intervals [342]:
+                xmin = 770.04
+                xmax = 770.88
+                text = " pero nada más"
+            intervals [343]:
+                xmin = 777.91
+                xmax = 779.7
+                text = "          Y así pasó en efecto"
+            intervals [344]:
+                xmin = 780.33
+                xmax = 783.34
+                text = " Volvieron a la casa"
+            intervals [345]:
+                xmin = 785.09
+                xmax = 785.43
+                text = " y un nuevo coaticito "
+            intervals [346]:
+                xmin = 786.17
+                xmax = 786.25
+                text = " reemplazó al primero"
+            intervals [347]:
+                xmin = 786.92
+                xmax = 787.61
+                text = " mientras la madre y el otro hermano se llevaban sujetos a los dientes el cadáver del menor"
+            intervals [348]:
+                xmin = 788.14
+                xmax = 788.4
+                text = " Lo llevaron despacio al monte"
+            intervals [349]:
+                xmin = 789.12
+                xmax = 789.22
+                text = " y la cabeza colgaba"
+            intervals [350]:
+                xmin = 789.84
+                xmax = 789.89
+                text = " balanceándose"
+            intervals [351]:
+                xmin = 790.64
+                xmax = 791.33
+                text = " y la cola iba arrastrando por el suelo"
+            intervals [352]:
+                xmin = 792.07
+                xmax = 792.45
+                text = "          Al día siguiente los chicos extrañaron"
+            intervals [353]:
+                xmin = 793.13
+                xmax = 793.59
+                text = " efectivamente"
+            intervals [354]:
+                xmin = 795.85
+                xmax = 797.22
+                text = " algunas costumbres raras del coaticito"
+            intervals [355]:
+                xmin = 798.38
+                xmax = 800.0
+                text = " Pero como éste era tan bueno y cariñoso como el otro"
+            intervals [356]:
+                xmin = 800.64
+                xmax = 801.44
+                text = " las criaturas no tuvieron la menor sospecha"
+            intervals [357]:
+                xmin = 802.2
+                xmax = 802.51
+                text = " Formaron la misma familia de cachorritos de antes"
+            intervals [358]:
+                xmin = 803.71
+                xmax = 805.11
+                text = " y"
+            intervals [359]:
+                xmin = 805.82
+                xmax = 806.45
+                text = " como antes"
+            intervals [360]:
+                xmin = 807.07
+                xmax = 807.32
+                text = " los coatís salvajes venían noche a noche a visitar al coaticito civilizado"
+            intervals [361]:
+                xmin = 808.38
+                xmax = 808.97
+                text = " y se sentaban a su lado a comer pedacitos de huevos duros que él les guardaba"
+            intervals [362]:
+                xmin = 811.9
+                xmax = 812.98
+                text = " mientras ellos le contaban la vida de la selva"

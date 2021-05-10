@@ -1,0 +1,630 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 497.4
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_27_1"
+        xmin = 0
+        xmax = 497.4
+        intervals: size = 154
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.42
+                text = " El sol se había puesto"
+            intervals [2]:
+                xmin = 2.13
+                xmax = 5.12
+                text = " las nubes"
+            intervals [3]:
+                xmin = 5.78
+                xmax = 8.98
+                text = " que cruzaban hechas jirones sobre mi cabeza"
+            intervals [4]:
+                xmin = 10.24
+                xmax = 14.46
+                text = " iban a amontonarse unas sobre otras en el horizonte lejano"
+            intervals [5]:
+                xmin = 15.74
+                xmax = 17.38
+                text = " El viento frío de las tardes de otoño arremolinaba las hojas secas a mis pies"
+            intervals [6]:
+                xmin = 18.05
+                xmax = 19.93
+                text = " Yo estaba sentado al borde de un camino"
+            intervals [7]:
+                xmin = 21.45
+                xmax = 22.48
+                text = " por donde siempre vuelven menos de los que van"
+            intervals [8]:
+                xmin = 23.05
+                xmax = 24.29
+                text = " No sé en qué pensaba"
+            intervals [9]:
+                xmin = 24.89
+                xmax = 25.13
+                text = " si en efecto pensaba entonces en alguna cosa"
+            intervals [10]:
+                xmin = 26.28
+                xmax = 28.7
+                text = " Mi alma temblaba a punto de lanzarse al espacio"
+            intervals [11]:
+                xmin = 29.31
+                xmax = 33.09
+                text = " como el pájaro tiembla y agita ligeramente las alas antes de levantar el vuelo"
+            intervals [12]:
+                xmin = 34.7
+                xmax = 37.72
+                text = " Hay momentos en que"
+            intervals [13]:
+                xmin = 38.49
+                xmax = 40.77
+                text = " merced a una serie de abstracciones"
+            intervals [14]:
+                xmin = 41.41
+                xmax = 47.15
+                text = " el espíritu se sustrae a cuanto le rodea"
+            intervals [15]:
+                xmin = 49.03
+                xmax = 50.76
+                text = " y replegándose en sí mismo analiza y comprende todos los misteriosos fenómenos de la vida interna del hombre"
+            intervals [16]:
+                xmin = 51.42
+                xmax = 54.81
+                text = " Hay otros en que se desliga de la carne"
+            intervals [17]:
+                xmin = 55.85
+                xmax = 59.23
+                text = " pierde su personalidad y se confunde con los elementos de la Naturaleza"
+            intervals [18]:
+                xmin = 60.58
+                xmax = 62.26
+                text = " se relaciona con su modo de ser y traduce su incomprensible lenguaje"
+            intervals [19]:
+                xmin = 62.93
+                xmax = 65.16
+                text = " Yo me hallaba en uno de estos últimos momentos"
+            intervals [20]:
+                xmin = 65.74
+                xmax = 66.75
+                text = " cuando solo y en medio de la escueta llanura oí hablar cerca de mí"
+            intervals [21]:
+                xmin = 67.89
+                xmax = 69.44
+                text = " Eran dos hojas secas las que hablaban"
+            intervals [22]:
+                xmin = 70.11
+                xmax = 70.48
+                text = " y éste"
+            intervals [23]:
+                xmin = 71.34
+                xmax = 72.84
+                text = " poco más o menos"
+            intervals [24]:
+                xmin = 74.34
+                xmax = 75.21
+                text = " su extraño diálogo"
+            intervals [25]:
+                xmin = 76.24
+                xmax = 77.62
+                text = "De dónde vienes"
+            intervals [26]:
+                xmin = 78.47
+                xmax = 80.75
+                text = " hermana"
+            intervals [27]:
+                xmin = 81.61
+                xmax = 81.73
+                text = "Vengo de rodar con el torbellino"
+            intervals [28]:
+                xmin = 82.5
+                xmax = 84.16
+                text = " envuelta en la nube de polvo y de las hojas secas nuestras compañeras"
+            intervals [29]:
+                xmin = 85.72
+                xmax = 85.8
+                text = " a lo largo de la interminable llanura"
+            intervals [30]:
+                xmin = 87.37
+                xmax = 89.21
+                text = "Y tú"
+            intervals [31]:
+                xmin = 89.92
+                xmax = 92.4
+                text = "Yo he se guido algún tiempo la corriente del río"
+            intervals [32]:
+                xmin = 92.93
+                xmax = 93.7
+                text = " hasta que el vendaval me arrancó de entre el légamo y los juncos de la orilla"
+            intervals [33]:
+                xmin = 94.62
+                xmax = 95.07
+                text = "Y adónde vas"
+            intervals [34]:
+                xmin = 96.12
+                xmax = 96.43
+                text = "No lo sé"
+            intervals [35]:
+                xmin = 97.38
+                xmax = 98.92
+                text = "lo sabe acaso el viento que me empuja"
+            intervals [36]:
+                xmin = 99.93
+                xmax = 100.07
+                text = "Ay"
+            intervals [37]:
+                xmin = 100.81
+                xmax = 107.47
+                text = "Quién diría que habíamos de acabar amarillas y secas arrastrándonos por la tierra"
+            intervals [38]:
+                xmin = 108.2
+                xmax = 109.01
+                text = " nosotras que vivimos vestidas de color y de luz meciéndonos en el aire"
+            intervals [39]:
+                xmin = 110.21
+                xmax = 112.17
+                text = "Te acuerdas de los hermosos días en que brotamos"
+            intervals [40]:
+                xmin = 113.18
+                xmax = 114.78
+                text = " de aquella apacible mañana en que"
+            intervals [41]:
+                xmin = 115.49
+                xmax = 122.12
+                text = " roto el hinchado botón que nos servía de cuna"
+            intervals [42]:
+                xmin = 123.39
+                xmax = 123.55
+                text = " nos desplegamos al templado beso del sol como un abanico de esmeraldas"
+            intervals [43]:
+                xmin = 124.16
+                xmax = 127.36
+                text = "Oh"
+            intervals [44]:
+                xmin = 128.02
+                xmax = 130.26
+                text = "Qué dulce era sentirse balanceada por la brisa a aquella altura"
+            intervals [45]:
+                xmin = 131.6
+                xmax = 131.75
+                text = " bebiendo por todos los poros el aire y la luz"
+            intervals [46]:
+                xmin = 132.44
+                xmax = 138.17
+                text = "Oh"
+            intervals [47]:
+                xmin = 139.38
+                xmax = 143.02
+                text = "Qué hermoso era ver correr el agua del río que lamía las retorcidas raíces del añoso tronco que nos sustentaba"
+            intervals [48]:
+                xmin = 143.88
+                xmax = 147.43
+                text = " aquel agua limpia y transparente que copiaba como un espejo el azul del cielo"
+            intervals [49]:
+                xmin = 149.01
+                xmax = 154.74
+                text = " de modo que creíamos vivir suspendidas entre dos abismos azules"
+            intervals [50]:
+                xmin = 155.74
+                xmax = 160.32
+                text = "Con qué placer nos asomábamos por cima de las verdes frondas para vernos retratadas en la temblorosa corriente"
+            intervals [51]:
+                xmin = 161.72
+                xmax = 166.26
+                text = "Cómo cantábamos juntas imitando el rumor de la brisa y siguiendo el ritmo de las ondas"
+            intervals [52]:
+                xmin = 167.62
+                xmax = 170.11
+                text = "Los insectos brillantes revoloteaban desplegando sus alas de gasa a nuestro alrededor"
+            intervals [53]:
+                xmin = 170.64
+                xmax = 172.53
+                text = "Y las mariposas blancas y las libélulas azules"
+            intervals [54]:
+                xmin = 173.07
+                xmax = 175.54
+                text = " que giran por el aire en extraños círculos"
+            intervals [55]:
+                xmin = 176.12
+                xmax = 178.24
+                text = " se paraban un momento en nuestros dentellados bordes a contarse los secretos de ese misterioso amor que dura un instante y les consume la vida"
+            intervals [56]:
+                xmin = 178.84
+                xmax = 179.73
+                text = "Cada cual de nosotras era una nota en el concierto de los bosques"
+            intervals [57]:
+                xmin = 180.37
+                xmax = 180.79
+                text = "Cada cual de nosotras era un tono en la armonía de su color"
+            intervals [58]:
+                xmin = 182.17
+                xmax = 184.88
+                text = "En las noches de luna"
+            intervals [59]:
+                xmin = 186.08
+                xmax = 188.89
+                text = " cuando su plateada luz resbalaba sobre la cima de los montes"
+            intervals [60]:
+                xmin = 190.07
+                xmax = 194.34
+                text = "te acuerdas cómo charlábamos en voz baja entre las diáfanas sombras"
+            intervals [61]:
+                xmin = 195.11
+                xmax = 198.43
+                text = "Y referíamos con un blando susurro las historias de los silfos que se columpian en los hilos de oro que cuelgan las arañas entre los árboles"
+            intervals [62]:
+                xmin = 199.7
+                xmax = 206.75
+                text = "Hasta que suspendíamos nuestra monótona charla para oír embebecidas las quejas del ruiseñor"
+            intervals [63]:
+                xmin = 208.27
+                xmax = 212.71
+                text = " que había escogido nuestro tronco por escabel"
+            intervals [64]:
+                xmin = 213.86
+                xmax = 216.0
+                text = "Y eran tan tristes y tan suaves sus lamentos que"
+            intervals [65]:
+                xmin = 217.44
+                xmax = 221.88
+                text = " aunque llenas de gozo al oírle"
+            intervals [66]:
+                xmin = 222.52
+                xmax = 223.27
+                text = " nos amanecía llorando"
+            intervals [67]:
+                xmin = 224.39
+                xmax = 224.56
+                text = "Oh"
+            intervals [68]:
+                xmin = 225.16
+                xmax = 228.73
+                text = "Qué dulces eran aquellas lágrimas que nos prestaba el rocío de la noche y que resplandecían con todos los colores del iris a la primera luz de la aurora"
+            intervals [69]:
+                xmin = 229.34
+                xmax = 233.7
+                text = "Después vino la alegre banda de jilgueros a llenar de vida y de ruidos el bosque con la alborozada y confusa algarabía de sus cantos"
+            intervals [70]:
+                xmin = 235.17
+                xmax = 236.96
+                text = "Y una enamorada pareja colgó junto a nosotras su redondo nido de aristas y de plumas"
+            intervals [71]:
+                xmin = 237.58
+                xmax = 241.36
+                text = "Nosotras servíamos de abrigo a los pequeñuelos contra las molestas gotas de la lluvia en las tempestades de verano"
+            intervals [72]:
+                xmin = 241.95
+                xmax = 243.25
+                text = "Nosotras les servíamos de dosel y los defendíamos de los importunos rayos del sol"
+            intervals [73]:
+                xmin = 244.82
+                xmax = 249.14
+                text = "Nuestra vida pasaba como un sueño de oro"
+            intervals [74]:
+                xmin = 250.35
+                xmax = 254.39
+                text = " del que no sospechábamos que se podría despertar"
+            intervals [75]:
+                xmin = 255.09
+                xmax = 255.78
+                text = "Una hermosa tarde en que todo parecía sonreír a nuestro alrededor"
+            intervals [76]:
+                xmin = 257.08
+                xmax = 258.8
+                text = " en que el sol poniente encendía el ocaso y arrebolaba las nubes"
+            intervals [77]:
+                xmin = 259.38
+                xmax = 261.76
+                text = " y de la tierra ligeramente húmeda se levantaban efluvios de vida y perfumes de flores"
+            intervals [78]:
+                xmin = 263.19
+                xmax = 265.0
+                text = " dos amantes se detuvieron a la orilla del agua y al pie del tronco que nos sostenía"
+            intervals [79]:
+                xmin = 265.69
+                xmax = 266.9
+                text = "Nunca se borrará ese recuerdo de mi memoria"
+            intervals [80]:
+                xmin = 267.56
+                xmax = 268.32
+                text = " Ella era joven"
+            intervals [81]:
+                xmin = 269.65
+                xmax = 272.68
+                text = " casi una niña"
+            intervals [82]:
+                xmin = 273.31
+                xmax = 275.65
+                text = " hermosa y pálida"
+            intervals [83]:
+                xmin = 276.82
+                xmax = 283.16
+                text = " Él le decía con ternura"
+            intervals [84]:
+                xmin = 283.88
+                xmax = 287.42
+                text = "Por qué lloras"
+            intervals [85]:
+                xmin = 289.66
+                xmax = 291.38
+                text = "Perdona este involuntario sentimiento de egoísmo "
+            intervals [86]:
+                xmin = 293.05
+                xmax = 294.68
+                text = "le respondió ella enjugándose una lágrima"
+            intervals [87]:
+                xmin = 295.33
+                xmax = 296.01
+                text = " lloro por mí"
+            intervals [88]:
+                xmin = 297.04
+                xmax = 297.83
+                text = " Lloro la vida que me huye"
+            intervals [89]:
+                xmin = 298.89
+                xmax = 299.23
+                text = " cuando el cielo se corona de rayos de luz"
+            intervals [90]:
+                xmin = 300.81
+                xmax = 303.18
+                text = " y la tierra se viste de verdura y de flores"
+            intervals [91]:
+                xmin = 304.14
+                xmax = 304.35
+                text = " y el viento trae perfumes y cantos de pájaros y armonías distantes"
+            intervals [92]:
+                xmin = 305.0
+                xmax = 305.71
+                text = " y se ama y se siente una amada"
+            intervals [93]:
+                xmin = 306.96
+                xmax = 307.49
+                text = "la vida es buena"
+            intervals [94]:
+                xmin = 308.56
+                xmax = 309.7
+                text = "Y por qué no has de vivir"
+            intervals [95]:
+                xmin = 310.56
+                xmax = 312.4
+                text = "insistió él estrechándole las manos conmovido"
+            intervals [96]:
+                xmin = 312.94
+                xmax = 315.03
+                text = "Porque es imposible"
+            intervals [97]:
+                xmin = 315.56
+                xmax = 317.67
+                text = " Cuando caigan secas esas hojas que murmuran armoniosas sobre nuestras cabezas"
+            intervals [98]:
+                xmin = 318.24
+                xmax = 319.41
+                text = " yo moriré también"
+            intervals [99]:
+                xmin = 320.36
+                xmax = 323.11
+                text = " y el viento llevará algún día su polvo y el mío "
+            intervals [100]:
+                xmin = 324.24
+                xmax = 327.48
+                text = "quién sabe adónde"
+            intervals [101]:
+                xmin = 329.21
+                xmax = 329.72
+                text = " Yo lo oí y tú lo oíste"
+            intervals [102]:
+                xmin = 330.84
+                xmax = 333.84
+                text = " y nos estremecimos y callamos"
+            intervals [103]:
+                xmin = 334.49
+                xmax = 334.58
+                text = "Debíamos secarnos"
+            intervals [104]:
+                xmin = 335.43
+                xmax = 335.96
+                text = "Debíamos morir y girar arrastradas por los remolinos del viento"
+            intervals [105]:
+                xmin = 337.08
+                xmax = 339.25
+                text = " Mudas y llenas de terror permanecíamos aún cuando llegó la noche"
+            intervals [106]:
+                xmin = 340.34
+                xmax = 340.51
+                text = "Oh"
+            intervals [107]:
+                xmin = 342.16
+                xmax = 342.54
+                text = "Qué noche tan horrible"
+            intervals [108]:
+                xmin = 343.16
+                xmax = 343.7
+                text = "Por la primera vez faltó a su cita el enamorado ruiseñor que la encantaba con sus quejas"
+            intervals [109]:
+                xmin = 344.23
+                xmax = 345.76
+                text = "A poco volaron los pájaros"
+            intervals [110]:
+                xmin = 346.76
+                xmax = 347.53
+                text = " y con ellos sus pequeñuelos ya vestidos de plumas"
+            intervals [111]:
+                xmin = 348.26
+                xmax = 351.57
+                text = " y quedó el nido solo"
+            intervals [112]:
+                xmin = 353.06
+                xmax = 356.04
+                text = " columpiándose lentamente y triste como la cuna vacía de un niño muerto"
+            intervals [113]:
+                xmin = 357.3
+                xmax = 358.5
+                text = "  Y huyeron las mariposas blancas y las libélulas azules"
+            intervals [114]:
+                xmin = 360.03
+                xmax = 362.87
+                text = " dejando su lugar a los insectos oscuros que venían a roer nuestras fibras y a depositar en nuestro seno sus asquerosas larvas"
+            intervals [115]:
+                xmin = 363.72
+                xmax = 364.94
+                text = "Oh"
+            intervals [116]:
+                xmin = 366.46
+                xmax = 367.5
+                text = "Y cómo nos estremecíamos encogidas al helado contacto de las escarchas de la noche"
+            intervals [117]:
+                xmin = 368.08
+                xmax = 370.3
+                text = "Perdimos el color y la frescura"
+            intervals [118]:
+                xmin = 371.13
+                xmax = 371.87
+                text = "Perdimos la suavidad y la forma"
+            intervals [119]:
+                xmin = 372.79
+                xmax = 375.99
+                text = " y lo que antes al tocarnos era como rumor de besos"
+            intervals [120]:
+                xmin = 378.15
+                xmax = 380.8
+                text = " como murmullo de palabras de enamorados"
+            intervals [121]:
+                xmin = 381.35
+                xmax = 385.05
+                text = " luego se convirtió en áspero ruido"
+            intervals [122]:
+                xmin = 385.64
+                xmax = 386.98
+                text = " seco"
+            intervals [123]:
+                xmin = 387.52
+                xmax = 388.03
+                text = " desagradable y triste"
+            intervals [124]:
+                xmin = 389.83
+                xmax = 394.77
+                text = "Y al fin volamos desprendidas"
+            intervals [125]:
+                xmin = 396.03
+                xmax = 397.54
+                text = "Hollada bajo el pie del indiferente pasajero"
+            intervals [126]:
+                xmin = 398.47
+                xmax = 399.76
+                text = " sin cesar arrastrada de un punto a otro entre el polvo y el fango"
+            intervals [127]:
+                xmin = 401.05
+                xmax = 403.78
+                text = " me he juzgado dichosa cuando podía reposar un instante en el profundo surco de un camino"
+            intervals [128]:
+                xmin = 404.75
+                xmax = 406.15
+                text = "Yo he dado vueltas sin cesar"
+            intervals [129]:
+                xmin = 406.82
+                xmax = 408.5
+                text = " arrastrada por la turbia corriente"
+            intervals [130]:
+                xmin = 409.11
+                xmax = 409.18
+                text = " y en mi larga peregrinación vi"
+            intervals [131]:
+                xmin = 409.95
+                xmax = 410.75
+                text = " solo"
+            intervals [132]:
+                xmin = 412.19
+                xmax = 413.39
+                text = " enlutado y sombrío"
+            intervals [133]:
+                xmin = 414.69
+                xmax = 417.24
+                text = " contemplando con una mirada distraída las aguas que pasaban y las hojas secas que marcaban su movimiento"
+            intervals [134]:
+                xmin = 417.76
+                xmax = 421.2
+                text = " a uno de los dos amantes cuyas palabras nos hicieron presentir la muerte"
+            intervals [135]:
+                xmin = 422.69
+                xmax = 427.05
+                text = "Ella también se desprendió de la vida y acaso dormirá en una fosa reciente"
+            intervals [136]:
+                xmin = 428.75
+                xmax = 429.93
+                text = " sobre la que yo me detuve un momento"
+            intervals [137]:
+                xmin = 430.45
+                xmax = 434.7
+                text = "Ay"
+            intervals [138]:
+                xmin = 435.38
+                xmax = 436.52
+                text = " Ella duerme y reposa al fin"
+            intervals [139]:
+                xmin = 437.18
+                xmax = 443.4
+                text = " pero nosotras"
+            intervals [140]:
+                xmin = 443.97
+                xmax = 446.49
+                text = "cuándo acabaremos este largo viaje"
+            intervals [141]:
+                xmin = 447.05
+                xmax = 447.08
+                text = "Nunca"
+            intervals [142]:
+                xmin = 448.59
+                xmax = 450.19
+                text = " Ya el viento que nos dejó reposar un punto vuelve a soplar"
+            intervals [143]:
+                xmin = 450.9
+                xmax = 454.45
+                text = " y ya me siento estremecida para levantarme de la tierra y seguir con él"
+            intervals [144]:
+                xmin = 456.15
+                xmax = 456.32
+                text = "Adiós"
+            intervals [145]:
+                xmin = 457.17
+                xmax = 459.61
+                text = " hermana"
+            intervals [146]:
+                xmin = 460.13
+                xmax = 461.72
+                text = "Adiós"
+            intervals [147]:
+                xmin = 462.77
+                xmax = 463.09
+                text = " Silbó el aire"
+            intervals [148]:
+                xmin = 464.03
+                xmax = 466.71
+                text = " que había permanecido un momento callado"
+            intervals [149]:
+                xmin = 467.46
+                xmax = 470.43
+                text = " y las hojas se levantaron en confuso remolino"
+            intervals [150]:
+                xmin = 471.86
+                xmax = 472.1
+                text = " perdiéndose a lo lejos entre las tinieblas de la noche"
+            intervals [151]:
+                xmin = 473.36
+                xmax = 473.53
+                text = " Y yo pensé entonces algo que no puedo recordar"
+            intervals [152]:
+                xmin = 475.28
+                xmax = 476.88
+                text = " y que"
+            intervals [153]:
+                xmin = 477.41
+                xmax = 477.71
+                text = " aunque lo recordase"
+            intervals [154]:
+                xmin = 478.42
+                xmax = 480.21
+                text = " no encontraría palabras para decirlo"

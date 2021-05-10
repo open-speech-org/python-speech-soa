@@ -1,0 +1,62 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 50.01
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_73_1"
+        xmin = 0
+        xmax = 50.01
+        intervals: size = 12
+            intervals [1]:
+                xmin = 0.0
+                xmax = 0.87
+                text = " Sentía el camello envidia por los cuernos del toro"
+            intervals [2]:
+                xmin = 2.7
+                xmax = 2.91
+                text = " y quiso obtener los suyos propios"
+            intervals [3]:
+                xmin = 3.82
+                xmax = 3.83
+                text = " Para esto fue a ver a Zeus"
+            intervals [4]:
+                xmin = 6.49
+                xmax = 6.5
+                text = " pidiéndole le regalara a él unos semejantes"
+            intervals [5]:
+                xmin = 7.56
+                xmax = 7.58
+                text = " Pero Zeus"
+            intervals [6]:
+                xmin = 16.27
+                xmax = 16.28
+                text = " indignado de que no se contentara de su gran tamaño y fuerza"
+            intervals [7]:
+                xmin = 18.88
+                xmax = 18.89
+                text = " no sólo le negó el darle los cuernos"
+            intervals [8]:
+                xmin = 26.56
+                xmax = 26.7
+                text = " sino que además le cortó una parte de las orejas"
+            intervals [9]:
+                xmin = 28.63
+                xmax = 29.2
+                text = " La envidia no es buena consejera"
+            intervals [10]:
+                xmin = 32.0
+                xmax = 32.02
+                text = " Cuando quieras mejorar en algo"
+            intervals [11]:
+                xmin = 32.6
+                xmax = 33.04
+                text = " hazlo con tu esfuerzo y por tu deseo de progresar"
+            intervals [12]:
+                xmin = 35.7
+                xmax = 35.71
+                text = " no porque tu vecino lo tenga"

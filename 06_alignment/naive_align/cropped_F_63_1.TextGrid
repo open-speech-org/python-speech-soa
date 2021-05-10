@@ -1,0 +1,542 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 453.96
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_63_1"
+        xmin = 0
+        xmax = 453.96
+        intervals: size = 132
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.4
+                text = " A JEHOVA llamé estando en angustia"
+            intervals [2]:
+                xmin = 4.11
+                xmax = 4.99
+                text = " Y él me respondió"
+            intervals [3]:
+                xmin = 6.6
+                xmax = 8.09
+                text = " Libra mi alma"
+            intervals [4]:
+                xmin = 8.97
+                xmax = 9.57
+                text = " oh Jehová"
+            intervals [5]:
+                xmin = 11.32
+                xmax = 11.59
+                text = " de labio mentiroso"
+            intervals [6]:
+                xmin = 13.29
+                xmax = 13.75
+                text = " De la lengua fraudulenta"
+            intervals [7]:
+                xmin = 14.62
+                xmax = 15.08
+                text = "Qué te dará"
+            intervals [8]:
+                xmin = 16.12
+                xmax = 16.26
+                text = " ó qué te aprovechará"
+            intervals [9]:
+                xmin = 19.11
+                xmax = 19.95
+                text = " Oh lengua engañosa"
+            intervals [10]:
+                xmin = 21.26
+                xmax = 21.79
+                text = " Agudas saetas de valiente"
+            intervals [11]:
+                xmin = 23.24
+                xmax = 24.33
+                text = " Con brasas de enebro"
+            intervals [12]:
+                xmin = 24.91
+                xmax = 24.92
+                text = "Ay de mí"
+            intervals [13]:
+                xmin = 26.21
+                xmax = 26.26
+                text = " que peregrino en Mesech"
+            intervals [14]:
+                xmin = 29.59
+                xmax = 30.27
+                text = " Y habito entre las tiendas de Kedar"
+            intervals [15]:
+                xmin = 31.9
+                xmax = 31.96
+                text = " Mucho se detiene mi alma Con los que aborrecen la paz"
+            intervals [16]:
+                xmin = 32.71
+                xmax = 32.77
+                text = " Yo soy pacífico"
+            intervals [17]:
+                xmin = 34.04
+                xmax = 34.06
+                text = " Mas ellos"
+            intervals [18]:
+                xmin = 34.98
+                xmax = 35.36
+                text = " así que hablo"
+            intervals [19]:
+                xmin = 36.75
+                xmax = 37.25
+                text = " me hacen guerra"
+            intervals [20]:
+                xmin = 37.86
+                xmax = 38.39
+                text = " Salmos 121"
+            intervals [21]:
+                xmin = 38.9
+                xmax = 39.55
+                text = " ALZARÉ mis ojos á los montes"
+            intervals [22]:
+                xmin = 41.56
+                xmax = 43.15
+                text = " De donde vendrá mi socorro"
+            intervals [23]:
+                xmin = 43.92
+                xmax = 44.49
+                text = " Mi socorro viene de Jehová"
+            intervals [24]:
+                xmin = 45.61
+                xmax = 46.86
+                text = " Que hizo los cielos y la tierra"
+            intervals [25]:
+                xmin = 47.56
+                xmax = 48.05
+                text = " No dará tu pie al resbaladero"
+            intervals [26]:
+                xmin = 48.87
+                xmax = 50.16
+                text = " Ni se dormirá el que te guarda"
+            intervals [27]:
+                xmin = 51.02
+                xmax = 52.63
+                text = " He aquí"
+            intervals [28]:
+                xmin = 53.35
+                xmax = 55.11
+                text = " no se adormecerá ni dormirá El que guarda á Israel"
+            intervals [29]:
+                xmin = 56.06
+                xmax = 58.02
+                text = " Jehová es tu guardador"
+            intervals [30]:
+                xmin = 59.06
+                xmax = 60.05
+                text = " Jehová es tu sombra á tu mano derecha"
+            intervals [31]:
+                xmin = 60.66
+                xmax = 60.78
+                text = " El sol no te fatigará de día"
+            intervals [32]:
+                xmin = 62.64
+                xmax = 64.87
+                text = " Ni la luna de noche"
+            intervals [33]:
+                xmin = 65.51
+                xmax = 65.53
+                text = " Jehová te guardará de todo mal"
+            intervals [34]:
+                xmin = 67.12
+                xmax = 67.35
+                text = " El guardará tu alma"
+            intervals [35]:
+                xmin = 69.22
+                xmax = 70.55
+                text = " Jehová guardará tu salida y tu entrada"
+            intervals [36]:
+                xmin = 71.73
+                xmax = 71.96
+                text = " Desde ahora y para siempre"
+            intervals [37]:
+                xmin = 73.04
+                xmax = 73.06
+                text = " Salmos 122"
+            intervals [38]:
+                xmin = 75.07
+                xmax = 75.49
+                text = " YO me alegré con los que me decían"
+            intervals [39]:
+                xmin = 76.07
+                xmax = 76.88
+                text = " A la casa de Jehová iremos"
+            intervals [40]:
+                xmin = 77.68
+                xmax = 77.7
+                text = " Nuestros pies estuvieron En tus puertas"
+            intervals [41]:
+                xmin = 81.71
+                xmax = 81.98
+                text = " oh Jerusalem"
+            intervals [42]:
+                xmin = 86.86
+                xmax = 87.41
+                text = " Jerusalem"
+            intervals [43]:
+                xmin = 88.19
+                xmax = 88.73
+                text = " que se ha edificado Como una ciudad que está bien unida entre sí"
+            intervals [44]:
+                xmin = 89.86
+                xmax = 89.91
+                text = " Y allá subieron las tribus"
+            intervals [45]:
+                xmin = 91.63
+                xmax = 91.67
+                text = " las tribus de JAH"
+            intervals [46]:
+                xmin = 92.91
+                xmax = 94.05
+                text = " Conforme al testimonio dado á Israel"
+            intervals [47]:
+                xmin = 94.96
+                xmax = 95.65
+                text = " Para alabar el nombre de Jehová"
+            intervals [48]:
+                xmin = 96.4
+                xmax = 96.56
+                text = " Porque allá están las sillas del juicio"
+            intervals [49]:
+                xmin = 97.91
+                xmax = 99.86
+                text = " Las sillas de la casa de David"
+            intervals [50]:
+                xmin = 100.74
+                xmax = 102.36
+                text = " Pedid la paz de Jerusalem"
+            intervals [51]:
+                xmin = 103.68
+                xmax = 105.26
+                text = " Sean prosperados los que te aman"
+            intervals [52]:
+                xmin = 105.96
+                xmax = 105.97
+                text = " Haya paz en tu antemuro"
+            intervals [53]:
+                xmin = 106.6
+                xmax = 106.65
+                text = " Y descanso en tus palacios"
+            intervals [54]:
+                xmin = 108.06
+                xmax = 108.35
+                text = " Por amor de mis hermanos y mis compañeros Hablaré ahora paz de ti"
+            intervals [55]:
+                xmin = 109.07
+                xmax = 109.55
+                text = " A causa de la casa de Jehová nuestro Dios"
+            intervals [56]:
+                xmin = 110.26
+                xmax = 110.79
+                text = " Buscaré bien para ti"
+            intervals [57]:
+                xmin = 112.22
+                xmax = 112.7
+                text = " Salmo 123"
+            intervals [58]:
+                xmin = 113.52
+                xmax = 113.97
+                text = " A TI que habitas en los cielos"
+            intervals [59]:
+                xmin = 115.82
+                xmax = 116.15
+                text = " Alcé mis ojos"
+            intervals [60]:
+                xmin = 118.41
+                xmax = 118.44
+                text = " He aquí como los ojos de los siervos miran á la mano de sus señores"
+            intervals [61]:
+                xmin = 119.68
+                xmax = 120.07
+                text = " Y como los ojos de la sierva á la mano de su señora"
+            intervals [62]:
+                xmin = 120.97
+                xmax = 122.14
+                text = " Así nuestros ojos miran á Jehová nuestro Dios"
+            intervals [63]:
+                xmin = 123.66
+                xmax = 124.81
+                text = " Hasta que haya misericordia de nosotros"
+            intervals [64]:
+                xmin = 126.74
+                xmax = 127.91
+                text = " Ten misericordia de nosotros"
+            intervals [65]:
+                xmin = 130.9
+                xmax = 131.13
+                text = " oh Jehová"
+            intervals [66]:
+                xmin = 131.94
+                xmax = 131.97
+                text = " ten misericordia de nosotros"
+            intervals [67]:
+                xmin = 133.39
+                xmax = 134.48
+                text = " Porque estamos muy hartos de menosprecio"
+            intervals [68]:
+                xmin = 136.06
+                xmax = 136.18
+                text = " Muy harta está nuestra alma Del escarnio de los holgados"
+            intervals [69]:
+                xmin = 136.97
+                xmax = 137.18
+                text = " Y del menosprecio de los soberbios"
+            intervals [70]:
+                xmin = 137.69
+                xmax = 137.73
+                text = " Salmo 124"
+            intervals [71]:
+                xmin = 139.97
+                xmax = 140.44
+                text = " A NO haber estado Jehová por nosotros"
+            intervals [72]:
+                xmin = 142.58
+                xmax = 142.59
+                text = " Diga ahora Israel"
+            intervals [73]:
+                xmin = 145.41
+                xmax = 145.92
+                text = " A no haber estado Jehová por nosotros"
+            intervals [74]:
+                xmin = 146.59
+                xmax = 146.69
+                text = " Cuando se levantaron contra nosotros los hombres"
+            intervals [75]:
+                xmin = 147.53
+                xmax = 147.55
+                text = " Vivos nos habrían entonces tragado"
+            intervals [76]:
+                xmin = 148.47
+                xmax = 149.61
+                text = " Cuando se encendió su furor en nosotros"
+            intervals [77]:
+                xmin = 152.23
+                xmax = 154.49
+                text = " Entonces nos habrían inundado las aguas"
+            intervals [78]:
+                xmin = 155.51
+                xmax = 156.13
+                text = " Sobre nuestra alma hubiera pasado el torrente"
+            intervals [79]:
+                xmin = 158.87
+                xmax = 159.79
+                text = " Hubieran entonces pasado sobre nuestra alma las aguas soberbias"
+            intervals [80]:
+                xmin = 161.58
+                xmax = 162.17
+                text = " Bendito Jehová"
+            intervals [81]:
+                xmin = 163.66
+                xmax = 164.41
+                text = " Que no nos dió por presa á sus dientes"
+            intervals [82]:
+                xmin = 164.92
+                xmax = 165.61
+                text = " Nuestra alma escapó cual ave del lazo de los cazadores"
+            intervals [83]:
+                xmin = 167.85
+                xmax = 169.7
+                text = " Quebróse el lazo"
+            intervals [84]:
+                xmin = 170.43
+                xmax = 170.45
+                text = " y escapamos nosotros"
+            intervals [85]:
+                xmin = 174.03
+                xmax = 174.64
+                text = " Nuestro socorro es en el nombre de Jehová"
+            intervals [86]:
+                xmin = 175.35
+                xmax = 175.38
+                text = " Que hizo el cielo y la tierra"
+            intervals [87]:
+                xmin = 175.95
+                xmax = 176.19
+                text = " Salmo 125"
+            intervals [88]:
+                xmin = 176.99
+                xmax = 177.01
+                text = " LOS que confían en Jehová Son como el monte de Sión que no deslizará"
+            intervals [89]:
+                xmin = 178.82
+                xmax = 179.43
+                text = " estará para siempre"
+            intervals [90]:
+                xmin = 180.02
+                xmax = 180.05
+                text = " Como Jerusalem tiene montes alrededor de ella"
+            intervals [91]:
+                xmin = 180.67
+                xmax = 180.69
+                text = " Así Jehová alrededor de su pueblo Desde ahora y para siempre"
+            intervals [92]:
+                xmin = 181.5
+                xmax = 181.52
+                text = " Porque no reposará la vara de la impiedad sobre la suerte de los justos"
+            intervals [93]:
+                xmin = 182.39
+                xmax = 183.09
+                text = " Porque no extiendan los justos sus manos á la iniquidad"
+            intervals [94]:
+                xmin = 183.88
+                xmax = 183.94
+                text = " Haz bien"
+            intervals [95]:
+                xmin = 186.97
+                xmax = 187.02
+                text = " oh Jehová"
+            intervals [96]:
+                xmin = 188.3
+                xmax = 188.69
+                text = " á los buenos"
+            intervals [97]:
+                xmin = 189.79
+                xmax = 190.15
+                text = " Y á los que son rectos en sus corazones"
+            intervals [98]:
+                xmin = 191.85
+                xmax = 192.5
+                text = " Mas á los que se apartan tras sus perversidades"
+            intervals [99]:
+                xmin = 193.07
+                xmax = 193.16
+                text = " Jehová los llevará con los que obran iniquidad"
+            intervals [100]:
+                xmin = 196.4
+                xmax = 196.87
+                text = " Y paz sea sobre Israel"
+            intervals [101]:
+                xmin = 198.9
+                xmax = 198.92
+                text = " Salmo 126"
+            intervals [102]:
+                xmin = 201.84
+                xmax = 201.91
+                text = " CUANDO Jehová hiciere tornar la cautividad de Sión"
+            intervals [103]:
+                xmin = 206.37
+                xmax = 206.58
+                text = " Seremos como los que sueñan"
+            intervals [104]:
+                xmin = 209.89
+                xmax = 210.09
+                text = " Entonces nuestra boca se henchirá de risa"
+            intervals [105]:
+                xmin = 210.91
+                xmax = 210.96
+                text = " Y nuestra lengua de alabanza"
+            intervals [106]:
+                xmin = 212.48
+                xmax = 215.1
+                text = " Entonces dirán entre las gentes"
+            intervals [107]:
+                xmin = 216.06
+                xmax = 216.61
+                text = " Grandes cosas ha hecho Jehová con éstos"
+            intervals [108]:
+                xmin = 218.23
+                xmax = 218.8
+                text = " Grandes cosas ha hecho Jehová con nosotros"
+            intervals [109]:
+                xmin = 219.73
+                xmax = 219.78
+                text = " Estaremos alegres"
+            intervals [110]:
+                xmin = 220.36
+                xmax = 220.4
+                text = " Haz volver nuestra cautividad oh Jehová"
+            intervals [111]:
+                xmin = 221.89
+                xmax = 224.03
+                text = " Como los arroyos en el austro"
+            intervals [112]:
+                xmin = 225.84
+                xmax = 226.58
+                text = " Los que sembraron con lágrimas"
+            intervals [113]:
+                xmin = 227.47
+                xmax = 227.5
+                text = " con regocijo segarán"
+            intervals [114]:
+                xmin = 229.19
+                xmax = 229.59
+                text = " Irá andando y llorando el que lleva la preciosa simiente"
+            intervals [115]:
+                xmin = 230.17
+                xmax = 230.2
+                text = " Mas volverá á venir con regocijo"
+            intervals [116]:
+                xmin = 230.72
+                xmax = 230.98
+                text = " trayendo sus gavillas"
+            intervals [117]:
+                xmin = 233.53
+                xmax = 233.59
+                text = " Salmo 127"
+            intervals [118]:
+                xmin = 234.1
+                xmax = 234.42
+                text = " SI Jehová no edificare la casa"
+            intervals [119]:
+                xmin = 235.13
+                xmax = 235.28
+                text = " En vano trabajan los que la edifican"
+            intervals [120]:
+                xmin = 236.92
+                xmax = 238.29
+                text = " Si Jehová no guardare la ciudad"
+            intervals [121]:
+                xmin = 238.83
+                xmax = 239.34
+                text = " En vano vela la guarda"
+            intervals [122]:
+                xmin = 241.8
+                xmax = 243.28
+                text = " Por demás os es el madrugar á levantaros"
+            intervals [123]:
+                xmin = 243.79
+                xmax = 243.91
+                text = " el veniros tarde á reposar"
+            intervals [124]:
+                xmin = 244.45
+                xmax = 244.46
+                text = " El comer pan de dolores"
+            intervals [125]:
+                xmin = 245.35
+                xmax = 245.59
+                text = " Pues que á su amado dará Dios el sueño"
+            intervals [126]:
+                xmin = 247.84
+                xmax = 249.87
+                text = " He aquí"
+            intervals [127]:
+                xmin = 250.55
+                xmax = 250.93
+                text = " heredad de Jehová son los hijos"
+            intervals [128]:
+                xmin = 252.98
+                xmax = 253.62
+                text = " Cosa de estima el fruto del vientre"
+            intervals [129]:
+                xmin = 254.33
+                xmax = 254.43
+                text = " Como saetas en mano del valiente"
+            intervals [130]:
+                xmin = 255.31
+                xmax = 256.31
+                text = " Así son los hijos habidos en la juventud"
+            intervals [131]:
+                xmin = 256.89
+                xmax = 256.91
+                text = " Bienaventurado el hombre que hinchió su aljaba de ellos"
+            intervals [132]:
+                xmin = 258.72
+                xmax = 259.71
+                text = " No será avergonzado Cuando hablare con los enemigos en la puerta"

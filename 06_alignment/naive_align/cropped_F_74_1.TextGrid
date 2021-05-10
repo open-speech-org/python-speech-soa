@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 61.03
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_74_1"
+        xmin = 0
+        xmax = 61.03
+        intervals: size = 16
+            intervals [1]:
+                xmin = 0.0
+                xmax = 3.66
+                text = " La tortuga de oro camina por la alfombra"
+            intervals [2]:
+                xmin = 4.54
+                xmax = 7.21
+                text = " y traza por la alfombra un misterioso estigma"
+            intervals [3]:
+                xmin = 8.59
+                xmax = 10.76
+                text = " sobre su carapacho hay grabado un enigma"
+            intervals [4]:
+                xmin = 12.38
+                xmax = 15.37
+                text = " y círculo enigmático se dibuja en su sombra"
+            intervals [5]:
+                xmin = 16.86
+                xmax = 20.16
+                text = " Esos signos nos dicen al Dios que no se nombra"
+            intervals [6]:
+                xmin = 20.87
+                xmax = 23.46
+                text = " y ponen en nosotros su autoritario estigma"
+            intervals [7]:
+                xmin = 24.58
+                xmax = 27.18
+                text = " ese círculo encierra la clave del enigma"
+            intervals [8]:
+                xmin = 28.26
+                xmax = 31.38
+                text = " que a Minotauro mata y a la Medusa asombra"
+            intervals [9]:
+                xmin = 32.66
+                xmax = 33.6
+                text = " Ramo de sueños"
+            intervals [10]:
+                xmin = 34.19
+                xmax = 36.04
+                text = " mazo de ideas florecidas"
+            intervals [11]:
+                xmin = 36.86
+                xmax = 40.17
+                text = " en explosión de cantos y en floración de vidas"
+            intervals [12]:
+                xmin = 41.17
+                xmax = 42.7
+                text = " sois mi pecho suave"
+            intervals [13]:
+                xmin = 43.24
+                xmax = 44.54
+                text = " mi pensamiento parco"
+            intervals [14]:
+                xmin = 45.83
+                xmax = 49.1
+                text = " Y cuando hayan pasado las sedas de la fiesta"
+            intervals [15]:
+                xmin = 49.67
+                xmax = 52.55
+                text = " decidme los sutiles efluvios de la orquesta"
+            intervals [16]:
+                xmin = 54.08
+                xmax = 55.51
+                text = " y lo que está suspenso entre el violín y el arco"

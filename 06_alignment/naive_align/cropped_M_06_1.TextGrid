@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 70.74
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_06_1"
+        xmin = 0
+        xmax = 70.74
+        intervals: size = 15
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.72
+                text = " Una zorra a la cual un cepo le había cortado la cola"
+            intervals [2]:
+                xmin = 2.5
+                xmax = 3.89
+                text = " estaba tan avergonzada"
+            intervals [3]:
+                xmin = 4.59
+                xmax = 6.05
+                text = " que consideraba su vida horrorosa y humillante"
+            intervals [4]:
+                xmin = 6.93
+                xmax = 7.39
+                text = " por lo cual decidió que la solución sería aconsejar a las demás hermanas cortarse también la cola"
+            intervals [5]:
+                xmin = 8.17
+                xmax = 9.29
+                text = " para así disimular con la igualdad general"
+            intervals [6]:
+                xmin = 9.93
+                xmax = 11.18
+                text = " su defecto personal"
+            intervals [7]:
+                xmin = 11.98
+                xmax = 13.48
+                text = " Reunió entonces a todas sus compañeras"
+            intervals [8]:
+                xmin = 15.01
+                xmax = 15.74
+                text = " diciéndoles que la cola no sólo era un feo agregado"
+            intervals [9]:
+                xmin = 16.37
+                xmax = 19.75
+                text = " sino además una carga sin razón"
+            intervals [10]:
+                xmin = 20.56
+                xmax = 23.46
+                text = " Pero una de ellas tomó la palabra y dijo"
+            intervals [11]:
+                xmin = 24.74
+                xmax = 27.62
+                text = " Oye hermana"
+            intervals [12]:
+                xmin = 28.27
+                xmax = 28.63
+                text = " si no fuera por tu conveniencia de ahora"
+            intervals [13]:
+                xmin = 31.29
+                xmax = 34.0
+                text = " nos darías en realidad este consejo "
+            intervals [14]:
+                xmin = 35.11
+                xmax = 35.85
+                text = " Cuídate de los que dan consejo en busca de su propio beneficio"
+            intervals [15]:
+                xmin = 36.53
+                xmax = 39.51
+                text = " y no por hacer realmente un bien"

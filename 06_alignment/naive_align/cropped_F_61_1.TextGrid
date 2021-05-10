@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 65.42
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_61_1"
+        xmin = 0
+        xmax = 65.42
+        intervals: size = 16
+            intervals [1]:
+                xmin = 0.0
+                xmax = 0.95
+                text = " No queda más lustroso y cristalino"
+            intervals [2]:
+                xmin = 1.68
+                xmax = 5.43
+                text = " por altas sierras el arroyo helado"
+            intervals [3]:
+                xmin = 6.17
+                xmax = 12.37
+                text = " ni está más negro el ébano labrado"
+            intervals [4]:
+                xmin = 12.88
+                xmax = 17.97
+                text = " ni más azul la flor del verde lino"
+            intervals [5]:
+                xmin = 18.96
+                xmax = 22.53
+                text = " más rubio el oro que de Oriente vino"
+            intervals [6]:
+                xmin = 23.37
+                xmax = 35.73
+                text = " ni más puro"
+            intervals [7]:
+                xmin = 36.92
+                xmax = 37.78
+                text = " lascivo y regalado"
+            intervals [8]:
+                xmin = 38.37
+                xmax = 45.27
+                text = " espira olor el ámbar estimado"
+            intervals [9]:
+                xmin = 45.85
+                xmax = 49.01
+                text = " ni está en la concha el carmesí más fino"
+            intervals [10]:
+                xmin = 50.04
+                xmax = 53.15
+                text = " que frente"
+            intervals [11]:
+                xmin = 54.0
+                xmax = 55.43
+                text = " cejas"
+            intervals [12]:
+                xmin = 56.21
+                xmax = 57.99
+                text = " ojos y cabellos"
+            intervals [13]:
+                xmin = 58.61
+                xmax = 60.35
+                text = " aliento y boca de mi ninfa bella"
+            intervals [14]:
+                xmin = 61.01
+                xmax = 61.44
+                text = " angélica figura en vista humana"
+            intervals [15]:
+                xmin = 62.04
+                xmax = 64.67
+                text = " que puesto que ella se parece a ellos"
+            intervals [16]:
+                xmin = 65.42
+                xmax = 72.14469387755102
+                text = " vivos están allá"

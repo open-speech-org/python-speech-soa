@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 52.45
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_04_1"
+        xmin = 0
+        xmax = 52.45
+        intervals: size = 15
+            intervals [1]:
+                xmin = 0.0
+                xmax = 3.42
+                text = " Un lobo fue elegido rey entre sus congéneres y decretó una ley ordenando que lo que cada uno capturase en la caza"
+            intervals [2]:
+                xmin = 4.15
+                xmax = 7.95
+                text = " lo pusiera en común y lo repartiese por partes iguales entre todos"
+            intervals [3]:
+                xmin = 8.74
+                xmax = 12.32
+                text = " de esta manera ya no tendrían los lobos que devorarse unos a otros en épocas de hambre"
+            intervals [4]:
+                xmin = 13.23
+                xmax = 13.93
+                text = " Pero en eso lo escuchó un asno que estaba por ahí cerca"
+            intervals [5]:
+                xmin = 14.44
+                xmax = 17.27
+                text = " y moviendo sus orejas le dijo"
+            intervals [6]:
+                xmin = 19.45
+                xmax = 22.21
+                text = " Magnífica idea ha brotado de tu corazón"
+            intervals [7]:
+                xmin = 23.06
+                xmax = 24.37
+                text = " pero "
+            intervals [8]:
+                xmin = 25.68
+                xmax = 27.97
+                text = " Por qué has escondido todo tu botín en tu cueva "
+            intervals [9]:
+                xmin = 29.08
+                xmax = 32.08
+                text = " Llévalo a tu comunidad y repártelo también"
+            intervals [10]:
+                xmin = 33.04
+                xmax = 36.23
+                text = " como lo has decretado"
+            intervals [11]:
+                xmin = 37.8
+                xmax = 39.88
+                text = " El lobo"
+            intervals [12]:
+                xmin = 40.39
+                xmax = 40.93
+                text = " descubierto y confundido"
+            intervals [13]:
+                xmin = 42.82
+                xmax = 45.22
+                text = " derogó su ley"
+            intervals [14]:
+                xmin = 46.01
+                xmax = 48.43
+                text = " Si alguna vez llegas a tener poder de legislar"
+            intervals [15]:
+                xmin = 50.97
+                xmax = 51.58
+                text = " sé el primero en cumplir tus propias leyes"

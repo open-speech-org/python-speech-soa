@@ -1,0 +1,198 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 91.09
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_50_1"
+        xmin = 0
+        xmax = 91.09
+        intervals: size = 46
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.88
+                text = " Por el mes era de mayo"
+            intervals [2]:
+                xmin = 2.41
+                xmax = 3.02
+                text = " cuando hace la calor"
+            intervals [3]:
+                xmin = 4.41
+                xmax = 5.98
+                text = " cuando canta la calandria"
+            intervals [4]:
+                xmin = 6.59
+                xmax = 7.33
+                text = " y responde el ruiseñor"
+            intervals [5]:
+                xmin = 8.63
+                xmax = 9.7
+                text = " cuando los enamorados	 5"
+            intervals [6]:
+                xmin = 10.29
+                xmax = 10.65
+                text = " van a servir al amor"
+            intervals [7]:
+                xmin = 11.93
+                xmax = 12.54
+                text = " sino yo"
+            intervals [8]:
+                xmin = 13.32
+                xmax = 14.13
+                text = " triste cuitado"
+            intervals [9]:
+                xmin = 14.79
+                xmax = 15.67
+                text = " que vivo en esta prisión"
+            intervals [10]:
+                xmin = 16.75
+                xmax = 18.17
+                text = " que ni sé cuándo es de día"
+            intervals [11]:
+                xmin = 18.74
+                xmax = 19.54
+                text = " ni cuándo las noches son"
+            intervals [12]:
+                xmin = 20.88
+                xmax = 20.89
+                text = "	 10"
+            intervals [13]:
+                xmin = 21.51
+                xmax = 22.09
+                text = " sino por una avecilla"
+            intervals [14]:
+                xmin = 22.67
+                xmax = 22.71
+                text = " que me cantaba al albor"
+            intervals [15]:
+                xmin = 24.74
+                xmax = 26.02
+                text = " Matómela un ballestero"
+            intervals [16]:
+                xmin = 26.7
+                xmax = 27.16
+                text = "Dele Dios mal galardón"
+            intervals [17]:
+                xmin = 29.43
+                xmax = 30.48
+                text = " Cabellos de mi cabeza	 15"
+            intervals [18]:
+                xmin = 31.32
+                xmax = 32.52
+                text = " lléganme al corvejón"
+            intervals [19]:
+                xmin = 33.37
+                xmax = 34.6
+                text = " los cabellos de mi barba"
+            intervals [20]:
+                xmin = 35.25
+                xmax = 36.5
+                text = " por manteles tengo yo"
+            intervals [21]:
+                xmin = 37.52
+                xmax = 38.87
+                text = " las uñas de las mis manos"
+            intervals [22]:
+                xmin = 39.71
+                xmax = 40.22
+                text = " por cuchillo tajador"
+            intervals [23]:
+                xmin = 41.93
+                xmax = 43.23
+                text = "	 20"
+            intervals [24]:
+                xmin = 44.05
+                xmax = 44.85
+                text = " Si lo hacía el buen rey"
+            intervals [25]:
+                xmin = 45.72
+                xmax = 47.09
+                text = " hácelo como señor"
+            intervals [26]:
+                xmin = 47.9
+                xmax = 48.58
+                text = " si lo hace el carcelero"
+            intervals [27]:
+                xmin = 49.75
+                xmax = 51.05
+                text = " hácelo como traidor"
+            intervals [28]:
+                xmin = 52.0
+                xmax = 52.77
+                text = " Mas quien ahora me diese	 25"
+            intervals [29]:
+                xmin = 53.38
+                xmax = 54.69
+                text = " un pájaro hablador"
+            intervals [30]:
+                xmin = 55.57
+                xmax = 57.36
+                text = " siquiera fuese calandria"
+            intervals [31]:
+                xmin = 58.11
+                xmax = 58.62
+                text = " o tordico"
+            intervals [32]:
+                xmin = 59.2
+                xmax = 59.25
+                text = " o ruiseñor"
+            intervals [33]:
+                xmin = 59.97
+                xmax = 60.63
+                text = " criado fuese entre damas"
+            intervals [34]:
+                xmin = 61.82
+                xmax = 63.3
+                text = " y avezado a la razón"
+            intervals [35]:
+                xmin = 63.99
+                xmax = 64.01
+                text = "	 30"
+            intervals [36]:
+                xmin = 65.19
+                xmax = 65.26
+                text = " que me lleve una embajada"
+            intervals [37]:
+                xmin = 66.13
+                xmax = 66.2
+                text = " a mi esposa Leonor"
+            intervals [38]:
+                xmin = 66.75
+                xmax = 66.76
+                text = " que me envíe una empanada"
+            intervals [39]:
+                xmin = 67.34
+                xmax = 67.4
+                text = " no de trucha"
+            intervals [40]:
+                xmin = 68.46
+                xmax = 70.09
+                text = " ni salmón"
+            intervals [41]:
+                xmin = 70.78
+                xmax = 72.04
+                text = " sino de una lima sorda	 35"
+            intervals [42]:
+                xmin = 72.95
+                xmax = 73.75
+                text = " y de un pico tajador"
+            intervals [43]:
+                xmin = 74.84
+                xmax = 76.29
+                text = " la lima para los hierros"
+            intervals [44]:
+                xmin = 76.98
+                xmax = 77.08
+                text = " y el pico para el torreón"
+            intervals [45]:
+                xmin = 77.64
+                xmax = 78.31
+                text = " Oídolo había el rey"
+            intervals [46]:
+                xmin = 79.28
+                xmax = 80.41
+                text = " mandóle quitar la prisión"

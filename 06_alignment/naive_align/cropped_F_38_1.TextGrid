@@ -1,0 +1,806 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 898.89
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_38_1"
+        xmin = 0
+        xmax = 898.89
+        intervals: size = 198
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.19
+                text = " Preámbulo"
+            intervals [2]:
+                xmin = 2.33
+                xmax = 19.18
+                text = " Considerando que la libertad"
+            intervals [3]:
+                xmin = 19.96
+                xmax = 24.5
+                text = " la justicia y la paz en el mundo tienen por base el reconocimiento de la dignidad intrínseca y de los derechos iguales e inalienables de todos los miembros de la familia humana"
+            intervals [4]:
+                xmin = 25.42
+                xmax = 29.42
+                text = " Considerando que el desconocimiento y el menosprecio de los derechos humanos han originado actos de barbarie ultrajantes para la conciencia de la humanidad"
+            intervals [5]:
+                xmin = 30.06
+                xmax = 32.99
+                text = " y que se ha proclamado"
+            intervals [6]:
+                xmin = 33.7
+                xmax = 35.78
+                text = " como la aspiración más elevada del hombre"
+            intervals [7]:
+                xmin = 36.35
+                xmax = 40.31
+                text = " el advenimiento de un mundo en que los seres humanos"
+            intervals [8]:
+                xmin = 41.14
+                xmax = 46.23
+                text = " liberados del temor y de la miseria"
+            intervals [9]:
+                xmin = 47.13
+                xmax = 53.11
+                text = " disfruten de la libertad de palabra y de la libertad de creencias"
+            intervals [10]:
+                xmin = 54.8
+                xmax = 60.3
+                text = " Considerando esencial que los derechos humanos sean protegidos por un régimen de Derecho"
+            intervals [11]:
+                xmin = 61.51
+                xmax = 68.6
+                text = " a fin de que el hombre no se vea compelido al supremo recurso de la rebelión contra la tiranía y la opresión"
+            intervals [12]:
+                xmin = 69.54
+                xmax = 75.03
+                text = " Considerando también esencial promover el desarrollo de relaciones amistosas entre las naciones"
+            intervals [13]:
+                xmin = 75.94
+                xmax = 79.35
+                text = " Considerando que los pueblos de las Naciones Unidas han reafirmado en la Carta su fe en los derechos fundamentales del hombre"
+            intervals [14]:
+                xmin = 79.92
+                xmax = 84.08
+                text = " en la dignidad y el valor de la persona humana y en la igualdad de derechos de hombres y mujeres"
+            intervals [15]:
+                xmin = 86.01
+                xmax = 93.24
+                text = " y se han declarado resueltos a promover el progreso social y a elevar el nivel de vida dentro de un concepto más amplio de la libertad"
+            intervals [16]:
+                xmin = 93.89
+                xmax = 98.81
+                text = " Considerando que los Estados Miembros se han comprometido a asegurar"
+            intervals [17]:
+                xmin = 99.55
+                xmax = 108.77
+                text = " en cooperación con la Organización de las Naciones Unidas"
+            intervals [18]:
+                xmin = 109.48
+                xmax = 131.77
+                text = " el respeto universal y efectivo a los derechos y libertades fundamentales del hombre"
+            intervals [19]:
+                xmin = 132.52
+                xmax = 144.36
+                text = " y"
+            intervals [20]:
+                xmin = 144.91
+                xmax = 148.79
+                text = " Considerando que una concepción común de estos derechos y libertades es de la mayor importancia para el pleno cumplimiento de dicho compromiso"
+            intervals [21]:
+                xmin = 150.81
+                xmax = 151.67
+                text = " LA ASAMBLEA GENERAL proclama la presente DECLARACIÓN UNIVERSAL DE DERECHOS HUMANOS como ideal común por el que todos los pueblos y naciones deben esforzarse"
+            intervals [22]:
+                xmin = 153.22
+                xmax = 157.3
+                text = " a fin de que tanto los individuos como las instituciones"
+            intervals [23]:
+                xmin = 158.2
+                xmax = 160.61
+                text = " inspirándose constantemente en ella"
+            intervals [24]:
+                xmin = 161.13
+                xmax = 164.67
+                text = " promuevan"
+            intervals [25]:
+                xmin = 165.43
+                xmax = 166.27
+                text = " mediante la enseñanza y la educación"
+            intervals [26]:
+                xmin = 167.88
+                xmax = 172.25
+                text = " el respeto a estos derechos y libertades"
+            intervals [27]:
+                xmin = 173.03
+                xmax = 175.0
+                text = " y aseguren"
+            intervals [28]:
+                xmin = 175.67
+                xmax = 175.95
+                text = " por medidas progresivas de carácter nacional e internacional"
+            intervals [29]:
+                xmin = 176.91
+                xmax = 177.29
+                text = " su reconocimiento y aplicación universales y efectivos"
+            intervals [30]:
+                xmin = 178.13
+                xmax = 178.51
+                text = " tanto entre los pueblos de los Estados Miembros como entre los de los territorios colocados bajo su jurisdicción"
+            intervals [31]:
+                xmin = 179.29
+                xmax = 179.98
+                text = " Artículo 1"
+            intervals [32]:
+                xmin = 180.66
+                xmax = 185.66
+                text = " Todos los seres humanos nacen libres e iguales en dignidad y derechos y"
+            intervals [33]:
+                xmin = 186.37
+                xmax = 187.45
+                text = " dotados como están de razón y conciencia"
+            intervals [34]:
+                xmin = 188.0
+                xmax = 188.69
+                text = " deben comportarse fraternalmente los unos con los otros"
+            intervals [35]:
+                xmin = 189.21
+                xmax = 190.6
+                text = " Artículo 2"
+            intervals [36]:
+                xmin = 191.41
+                xmax = 201.51
+                text = " Toda persona tiene todos los derechos y libertades proclamados en esta Declaración"
+            intervals [37]:
+                xmin = 202.44
+                xmax = 204.66
+                text = " sin distinción alguna de raza"
+            intervals [38]:
+                xmin = 205.45
+                xmax = 208.11
+                text = " color"
+            intervals [39]:
+                xmin = 208.67
+                xmax = 212.64
+                text = " sexo"
+            intervals [40]:
+                xmin = 213.42
+                xmax = 214.16
+                text = " idioma"
+            intervals [41]:
+                xmin = 215.38
+                xmax = 217.41
+                text = " religión"
+            intervals [42]:
+                xmin = 217.96
+                xmax = 218.65
+                text = " opinión política o de cualquier otra índole"
+            intervals [43]:
+                xmin = 219.35
+                xmax = 220.91
+                text = " origen nacional o social"
+            intervals [44]:
+                xmin = 222.43
+                xmax = 223.41
+                text = " posición económica"
+            intervals [45]:
+                xmin = 223.99
+                xmax = 226.96
+                text = " nacimiento o cualquier otra condición"
+            intervals [46]:
+                xmin = 227.79
+                xmax = 231.96
+                text = " Además"
+            intervals [47]:
+                xmin = 233.57
+                xmax = 234.52
+                text = " no se hará distinción alguna fundada en la condición política"
+            intervals [48]:
+                xmin = 236.02
+                xmax = 241.75
+                text = " jurídica o internacional del país o territorio de cuya jurisdicción dependa una persona"
+            intervals [49]:
+                xmin = 243.11
+                xmax = 243.93
+                text = " tanto si se trata de un país independiente"
+            intervals [50]:
+                xmin = 244.83
+                xmax = 250.56
+                text = " como de un territorio bajo administración fiduciaria"
+            intervals [51]:
+                xmin = 252.32
+                xmax = 253.24
+                text = " no autónomo o sometido a cualquier otra limitación de soberanía"
+            intervals [52]:
+                xmin = 253.75
+                xmax = 257.48
+                text = " Artículo 3"
+            intervals [53]:
+                xmin = 258.0
+                xmax = 259.65
+                text = " Todo individuo tiene derecho a la vida"
+            intervals [54]:
+                xmin = 260.63
+                xmax = 269.06
+                text = " a la libertad y a la seguridad de su persona"
+            intervals [55]:
+                xmin = 270.31
+                xmax = 271.2
+                text = " Artículo 4"
+            intervals [56]:
+                xmin = 272.37
+                xmax = 277.52
+                text = " Nadie estará sometido a esclavitud ni a servidumbre"
+            intervals [57]:
+                xmin = 278.13
+                xmax = 284.73
+                text = " la esclavitud y la trata de esclavos están prohibidas en todas sus formas"
+            intervals [58]:
+                xmin = 286.67
+                xmax = 287.54
+                text = " Artículo 5"
+            intervals [59]:
+                xmin = 288.62
+                xmax = 291.12
+                text = " Nadie será sometido a torturas ni a penas o tratos crueles"
+            intervals [60]:
+                xmin = 291.65
+                xmax = 292.79
+                text = " inhumanos o degradantes"
+            intervals [61]:
+                xmin = 294.56
+                xmax = 295.36
+                text = " Artículo 6"
+            intervals [62]:
+                xmin = 296.27
+                xmax = 302.8
+                text = " Todo ser humano tiene derecho"
+            intervals [63]:
+                xmin = 303.41
+                xmax = 306.01
+                text = " en todas partes"
+            intervals [64]:
+                xmin = 306.58
+                xmax = 312.76
+                text = " al reconocimiento de su personalidad jurídica"
+            intervals [65]:
+                xmin = 314.67
+                xmax = 315.73
+                text = " Artículo 7"
+            intervals [66]:
+                xmin = 316.68
+                xmax = 323.84
+                text = " Todos son iguales ante la ley y tienen"
+            intervals [67]:
+                xmin = 324.7
+                xmax = 330.74
+                text = " sin distinción"
+            intervals [68]:
+                xmin = 332.19
+                xmax = 340.5
+                text = " derecho a igual protección de la ley"
+            intervals [69]:
+                xmin = 341.69
+                xmax = 346.63
+                text = " Todos tienen derecho a igual protección contra toda discriminación que infrinja esta Declaración y contra toda provocación a tal discriminación"
+            intervals [70]:
+                xmin = 347.98
+                xmax = 348.79
+                text = " Artículo 8"
+            intervals [71]:
+                xmin = 349.8
+                xmax = 353.21
+                text = " Toda persona tiene derecho a un recurso efectivo ante los tribunales nacionales competentes"
+            intervals [72]:
+                xmin = 354.03
+                xmax = 354.52
+                text = " que la ampare contra actos que violen sus derechos fundamentales reconocidos por la constitución o por la ley"
+            intervals [73]:
+                xmin = 355.27
+                xmax = 357.2
+                text = " Artículo 9"
+            intervals [74]:
+                xmin = 358.1
+                xmax = 360.6
+                text = " Nadie podrá ser arbitrariamente detenido"
+            intervals [75]:
+                xmin = 361.62
+                xmax = 366.56
+                text = " preso ni desterrado"
+            intervals [76]:
+                xmin = 368.42
+                xmax = 369.29
+                text = " Artículo 10"
+            intervals [77]:
+                xmin = 370.89
+                xmax = 376.29
+                text = " Toda persona tiene derecho"
+            intervals [78]:
+                xmin = 377.01
+                xmax = 379.85
+                text = " en condiciones de plena igualdad"
+            intervals [79]:
+                xmin = 380.47
+                xmax = 383.0
+                text = " a ser oída públicamente y con justicia por un tribunal independiente e imparcial"
+            intervals [80]:
+                xmin = 384.25
+                xmax = 385.25
+                text = " para la determinación de sus derechos y obligaciones o para el examen de cualquier acusación contra ella en materia penal"
+            intervals [81]:
+                xmin = 385.87
+                xmax = 392.47
+                text = " Artículo 11"
+            intervals [82]:
+                xmin = 393.31
+                xmax = 404.01
+                text = " 1"
+            intervals [83]:
+                xmin = 405.49
+                xmax = 406.38
+                text = " Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se pruebe su culpabilidad"
+            intervals [84]:
+                xmin = 407.23
+                xmax = 410.11
+                text = " conforme a la ley y en juicio público en el que se le hayan asegurado todas las garantías necesarias para su defensa"
+            intervals [85]:
+                xmin = 411.32
+                xmax = 416.8
+                text = " 2"
+            intervals [86]:
+                xmin = 418.08
+                xmax = 419.14
+                text = " Nadie será condenado por actos u omisiones que en el momento de cometerse no fueron delictivos según el Derecho nacional o internacional"
+            intervals [87]:
+                xmin = 420.19
+                xmax = 427.3
+                text = " Tampoco se impondrá pena más grave que la aplicable en el momento de la comisión del delito"
+            intervals [88]:
+                xmin = 427.87
+                xmax = 429.35
+                text = " Artículo 12"
+            intervals [89]:
+                xmin = 429.88
+                xmax = 431.57
+                text = " Nadie será objeto de injerencias arbitrarias en su vida privada"
+            intervals [90]:
+                xmin = 432.6
+                xmax = 435.56
+                text = " su familia"
+            intervals [91]:
+                xmin = 436.13
+                xmax = 437.55
+                text = " su domicilio o su correspondencia"
+            intervals [92]:
+                xmin = 438.2
+                xmax = 440.49
+                text = " ni de ataques a su honra o a su reputación"
+            intervals [93]:
+                xmin = 441.76
+                xmax = 445.68
+                text = " Toda persona tiene derecho a la protección de la ley contra tales injerencias o ataques"
+            intervals [94]:
+                xmin = 446.44
+                xmax = 448.33
+                text = " Artículo 13"
+            intervals [95]:
+                xmin = 449.27
+                xmax = 452.96
+                text = " 1"
+            intervals [96]:
+                xmin = 453.59
+                xmax = 457.3
+                text = " Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de un Estado"
+            intervals [97]:
+                xmin = 458.35
+                xmax = 459.52
+                text = " 2"
+            intervals [98]:
+                xmin = 460.41
+                xmax = 464.55
+                text = " Toda persona tiene derecho a salir de cualquier país"
+            intervals [99]:
+                xmin = 465.15
+                xmax = 468.02
+                text = " incluso del propio"
+            intervals [100]:
+                xmin = 469.3
+                xmax = 470.45
+                text = " y a regresar a su país"
+            intervals [101]:
+                xmin = 471.45
+                xmax = 476.53
+                text = " Artículo 14"
+            intervals [102]:
+                xmin = 477.43
+                xmax = 481.15
+                text = " 1"
+            intervals [103]:
+                xmin = 481.93
+                xmax = 487.76
+                text = " En caso de persecución"
+            intervals [104]:
+                xmin = 488.33
+                xmax = 494.72
+                text = " toda persona tiene derecho a buscar asilo"
+            intervals [105]:
+                xmin = 497.06
+                xmax = 498.15
+                text = " y a disfrutar de él"
+            intervals [106]:
+                xmin = 499.15
+                xmax = 502.87
+                text = " en cualquier país"
+            intervals [107]:
+                xmin = 503.83
+                xmax = 507.8
+                text = " 2"
+            intervals [108]:
+                xmin = 508.79
+                xmax = 512.23
+                text = " Este derecho no podrá ser invocado contra una acción judicial realmente originada por delitos comunes o por actos opuestos a los propósitos y principios de las Naciones Unidas"
+            intervals [109]:
+                xmin = 512.77
+                xmax = 515.32
+                text = " Artículo 15"
+            intervals [110]:
+                xmin = 515.85
+                xmax = 517.73
+                text = " 1"
+            intervals [111]:
+                xmin = 519.36
+                xmax = 520.32
+                text = " Toda persona tiene derecho a una nacionalidad"
+            intervals [112]:
+                xmin = 521.46
+                xmax = 526.16
+                text = " 2"
+            intervals [113]:
+                xmin = 527.16
+                xmax = 530.36
+                text = " A nadie se privará arbitrariamente de su nacionalidad ni del derecho a cambiar de nacionalidad"
+            intervals [114]:
+                xmin = 532.11
+                xmax = 533.41
+                text = " Artículo 16"
+            intervals [115]:
+                xmin = 534.65
+                xmax = 538.32
+                text = " 1"
+            intervals [116]:
+                xmin = 538.88
+                xmax = 543.35
+                text = " Los hombres y las mujeres"
+            intervals [117]:
+                xmin = 544.67
+                xmax = 548.75
+                text = " a partir de la edad núbil"
+            intervals [118]:
+                xmin = 549.37
+                xmax = 551.24
+                text = " tienen derecho"
+            intervals [119]:
+                xmin = 551.95
+                xmax = 555.82
+                text = " sin restricción alguna por motivos de raza"
+            intervals [120]:
+                xmin = 557.15
+                xmax = 566.1
+                text = " nacionalidad o religión"
+            intervals [121]:
+                xmin = 566.64
+                xmax = 572.19
+                text = " a casarse y fundar una familia"
+            intervals [122]:
+                xmin = 573.48
+                xmax = 574.52
+                text = " y disfrutarán de iguales derechos en cuanto al matrimonio"
+            intervals [123]:
+                xmin = 575.81
+                xmax = 576.52
+                text = " durante el matrimonio y en caso de disolución del matrimonio"
+            intervals [124]:
+                xmin = 577.06
+                xmax = 578.42
+                text = " 2"
+            intervals [125]:
+                xmin = 579.04
+                xmax = 585.67
+                text = " Sólo mediante libre y pleno consentimiento de los futuros esposos podrá contraerse el matrimonio"
+            intervals [126]:
+                xmin = 586.23
+                xmax = 589.87
+                text = " 3"
+            intervals [127]:
+                xmin = 591.48
+                xmax = 597.41
+                text = " La familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección de la sociedad y del Estado"
+            intervals [128]:
+                xmin = 598.09
+                xmax = 600.28
+                text = " Artículo 17"
+            intervals [129]:
+                xmin = 601.83
+                xmax = 602.91
+                text = " 1"
+            intervals [130]:
+                xmin = 603.76
+                xmax = 605.88
+                text = " Toda persona tiene derecho a la propiedad"
+            intervals [131]:
+                xmin = 606.51
+                xmax = 608.29
+                text = " individual y colectivamente"
+            intervals [132]:
+                xmin = 608.97
+                xmax = 611.89
+                text = " 2"
+            intervals [133]:
+                xmin = 612.41
+                xmax = 614.15
+                text = " Nadie será privado arbitrariamente de su propiedad"
+            intervals [134]:
+                xmin = 615.22
+                xmax = 617.02
+                text = " Artículo 18"
+            intervals [135]:
+                xmin = 617.59
+                xmax = 618.99
+                text = " Toda persona tiene derecho a la libertad de pensamiento"
+            intervals [136]:
+                xmin = 619.67
+                xmax = 621.84
+                text = " de conciencia y de religión"
+            intervals [137]:
+                xmin = 623.17
+                xmax = 628.03
+                text = " este derecho incluye la libertad de cambiar de religión o de creencia"
+            intervals [138]:
+                xmin = 628.7
+                xmax = 630.9
+                text = " así como la libertad de manifestar su religión o su creencia"
+            intervals [139]:
+                xmin = 631.51
+                xmax = 634.43
+                text = " individual y colectivamente"
+            intervals [140]:
+                xmin = 634.96
+                xmax = 636.19
+                text = " tanto en público como en privado"
+            intervals [141]:
+                xmin = 636.76
+                xmax = 637.82
+                text = " por la enseñanza"
+            intervals [142]:
+                xmin = 638.51
+                xmax = 641.39
+                text = " la práctica"
+            intervals [143]:
+                xmin = 642.82
+                xmax = 648.47
+                text = " el culto y la observancia"
+            intervals [144]:
+                xmin = 649.9
+                xmax = 651.05
+                text = " Artículo 19"
+            intervals [145]:
+                xmin = 652.38
+                xmax = 662.61
+                text = " Todo individuo tiene derecho a la libertad de opinión y de expresión"
+            intervals [146]:
+                xmin = 664.31
+                xmax = 665.56
+                text = " este derecho incluye el de no ser molestado a causa de sus opiniones"
+            intervals [147]:
+                xmin = 666.31
+                xmax = 674.13
+                text = " el de investigar y recibir informaciones y opiniones"
+            intervals [148]:
+                xmin = 674.72
+                xmax = 676.42
+                text = " y el de difundirlas"
+            intervals [149]:
+                xmin = 677.04
+                xmax = 677.66
+                text = " sin limitación de fronteras"
+            intervals [150]:
+                xmin = 678.51
+                xmax = 679.17
+                text = " por cualquier medio de expresión"
+            intervals [151]:
+                xmin = 679.92
+                xmax = 683.27
+                text = " Artículo 20"
+            intervals [152]:
+                xmin = 684.25
+                xmax = 687.53
+                text = " 1"
+            intervals [153]:
+                xmin = 688.13
+                xmax = 688.82
+                text = " Toda persona tiene derecho a la libertad de reunión y de asociación pacíficas"
+            intervals [154]:
+                xmin = 689.57
+                xmax = 690.1
+                text = " 2"
+            intervals [155]:
+                xmin = 691.19
+                xmax = 691.51
+                text = " Nadie podrá ser obligado a pertenecer a una asociación"
+            intervals [156]:
+                xmin = 692.51
+                xmax = 692.93
+                text = " Artículo 21"
+            intervals [157]:
+                xmin = 693.61
+                xmax = 700.0
+                text = " 1"
+            intervals [158]:
+                xmin = 701.18
+                xmax = 705.19
+                text = " Toda persona tiene derecho a participar en el gobierno de su país"
+            intervals [159]:
+                xmin = 706.18
+                xmax = 710.27
+                text = " directamente o por medio de representantes libremente escogidos"
+            intervals [160]:
+                xmin = 710.88
+                xmax = 713.13
+                text = " 2"
+            intervals [161]:
+                xmin = 714.09
+                xmax = 715.18
+                text = " Toda persona tiene el derecho de acceso"
+            intervals [162]:
+                xmin = 716.43
+                xmax = 718.61
+                text = " en condiciones de igualdad"
+            intervals [163]:
+                xmin = 719.37
+                xmax = 724.61
+                text = " a las funciones públicas de su país"
+            intervals [164]:
+                xmin = 725.69
+                xmax = 728.05
+                text = " 3"
+            intervals [165]:
+                xmin = 729.43
+                xmax = 733.08
+                text = " La voluntad del pueblo es la base de la autoridad del poder público"
+            intervals [166]:
+                xmin = 734.15
+                xmax = 737.57
+                text = " esta voluntad se expresará mediante elecciones auténticas que habrán de celebrarse periódicamente"
+            intervals [167]:
+                xmin = 738.09
+                xmax = 740.07
+                text = " por sufragio universal e igual y por voto secreto u otro procedimiento equivalente que garantice la libertad del voto"
+            intervals [168]:
+                xmin = 741.09
+                xmax = 751.56
+                text = " Artículo 22"
+            intervals [169]:
+                xmin = 752.64
+                xmax = 761.22
+                text = " Toda persona"
+            intervals [170]:
+                xmin = 761.82
+                xmax = 767.23
+                text = " como miembro de la sociedad"
+            intervals [171]:
+                xmin = 768.01
+                xmax = 773.7
+                text = " tiene derecho a la seguridad social"
+            intervals [172]:
+                xmin = 774.8
+                xmax = 775.96
+                text = " y a obtener"
+            intervals [173]:
+                xmin = 776.75
+                xmax = 781.83
+                text = " mediante el esfuerzo nacional y la cooperación internacional"
+            intervals [174]:
+                xmin = 782.48
+                xmax = 788.63
+                text = " habida cuenta de la organización y los recursos de cada Estado"
+            intervals [175]:
+                xmin = 789.24
+                xmax = 796.92
+                text = " la satisfacción de los derechos económicos"
+            intervals [176]:
+                xmin = 797.9
+                xmax = 800.76
+                text = " sociales y culturales"
+            intervals [177]:
+                xmin = 802.04
+                xmax = 803.23
+                text = " indispensables a su dignidad y al libre desarrollo de su personalidad"
+            intervals [178]:
+                xmin = 804.11
+                xmax = 808.97
+                text = " Artículo 23"
+            intervals [179]:
+                xmin = 809.57
+                xmax = 815.08
+                text = " 1"
+            intervals [180]:
+                xmin = 817.15
+                xmax = 818.18
+                text = " Toda persona tiene derecho al trabajo"
+            intervals [181]:
+                xmin = 819.2
+                xmax = 822.14
+                text = " a la libre elección de su trabajo"
+            intervals [182]:
+                xmin = 822.74
+                xmax = 827.66
+                text = " a condiciones equitativas y satisfactorias de trabajo y a la protección contra el desempleo"
+            intervals [183]:
+                xmin = 828.54
+                xmax = 832.43
+                text = " 2"
+            intervals [184]:
+                xmin = 833.16
+                xmax = 838.11
+                text = " Toda persona tiene derecho"
+            intervals [185]:
+                xmin = 839.05
+                xmax = 844.4
+                text = " sin discriminación alguna"
+            intervals [186]:
+                xmin = 845.12
+                xmax = 852.92
+                text = " a igual salario por trabajo igual"
+            intervals [187]:
+                xmin = 854.85
+                xmax = 860.17
+                text = " 3"
+            intervals [188]:
+                xmin = 860.7
+                xmax = 863.57
+                text = " Toda persona que trabaja tiene derecho a una remuneración equitativa y satisfactoria"
+            intervals [189]:
+                xmin = 865.63
+                xmax = 866.62
+                text = " que le asegure"
+            intervals [190]:
+                xmin = 868.06
+                xmax = 875.08
+                text = " así como a su familia"
+            intervals [191]:
+                xmin = 875.74
+                xmax = 876.4
+                text = " una existencia conforme a la dignidad humana y que será completada"
+            intervals [192]:
+                xmin = 876.94
+                xmax = 877.85
+                text = " en caso necesario"
+            intervals [193]:
+                xmin = 878.47
+                xmax = 880.91
+                text = " por cualesquiera otros medios de protección social"
+            intervals [194]:
+                xmin = 881.47
+                xmax = 889.07
+                text = " 4"
+            intervals [195]:
+                xmin = 890.26
+                xmax = 892.93
+                text = " Toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus intereses"
+            intervals [196]:
+                xmin = 893.89
+                xmax = 896.04
+                text = " Artículo 24"
+            intervals [197]:
+                xmin = 897.41
+                xmax = 898.03
+                text = " Toda persona tiene derecho al descanso"
+            intervals [198]:
+                xmin = 898.89
+                xmax = 907.3711564625851
+                text = " al disfrute del tiempo libre"

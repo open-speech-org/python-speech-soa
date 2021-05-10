@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 61.69181405895691
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "F_73_1"
+        xmin = 0
+        xmax = 61.69181405895691
+        intervals: size = 13
+            intervals [1]:
+                xmin = 0.0
+                xmax = 4.973015873015871
+                text = "1"
+            intervals [2]:
+                xmin = 4.973015873015871
+                xmax = 8.390068027210884
+                text = "2"
+            intervals [3]:
+                xmin = 8.390068027210884
+                xmax = 11.174603174603174
+                text = "3"
+            intervals [4]:
+                xmin = 11.174603174603174
+                xmax = 15.435124716553283
+                text = "4"
+            intervals [5]:
+                xmin = 15.435124716553283
+                xmax = 17.234693877551017
+                text = "5"
+            intervals [6]:
+                xmin = 17.234693877551017
+                xmax = 23.016780045351467
+                text = "6"
+            intervals [7]:
+                xmin = 23.016780045351467
+                xmax = 26.26977324263038
+                text = "7"
+            intervals [8]:
+                xmin = 26.26977324263038
+                xmax = 30.060385487528343
+                text = "8"
+            intervals [9]:
+                xmin = 30.060385487528343
+                xmax = 34.402426303854874
+                text = "9"
+            intervals [10]:
+                xmin = 34.402426303854874
+                xmax = 37.34551020408163
+                text = "10"
+            intervals [11]:
+                xmin = 37.34551020408163
+                xmax = 42.29770975056689
+                text = "11"
+            intervals [12]:
+                xmin = 42.29770975056689
+                xmax = 45.91498866213152
+                text = "12"
+            intervals [13]:
+                xmin = 45.91498866213152
+                xmax = 61.69181405895691
+                text = ""

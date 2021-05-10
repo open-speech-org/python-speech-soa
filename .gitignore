@@ -5,3 +5,8 @@
 03_formants/all_spanish_letters_recordings/aphasia
 03_formants/all_spanish_letters_recordings/aphasia_wav
 03_formants/words_annotations/wav
+
+04_silence_segmentation/transformed_audios
+04_silence_segmentation/cropped_audios
+
+06_alignment/cropped_audios

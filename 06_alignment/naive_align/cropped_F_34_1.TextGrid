@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 137.95
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_34_1"
+        xmin = 0
+        xmax = 137.95
+        intervals: size = 23
+            intervals [1]:
+                xmin = 0.0
+                xmax = 4.95
+                text = " Con diez cañones por banda"
+            intervals [2]:
+                xmin = 5.52
+                xmax = 6.08
+                text = " viento en popa"
+            intervals [3]:
+                xmin = 7.25
+                xmax = 12.12
+                text = " á toda vela"
+            intervals [4]:
+                xmin = 13.47
+                xmax = 14.71
+                text = " no corta el mar"
+            intervals [5]:
+                xmin = 15.3
+                xmax = 19.14
+                text = " sino vuela"
+            intervals [6]:
+                xmin = 20.38
+                xmax = 24.51
+                text = " mi velero bergantín"
+            intervals [7]:
+                xmin = 25.02
+                xmax = 26.68
+                text = " Bajel pirata que llaman"
+            intervals [8]:
+                xmin = 27.41
+                xmax = 34.55
+                text = " por su bravura"
+            intervals [9]:
+                xmin = 35.71
+                xmax = 38.18
+                text = " el Temido"
+            intervals [10]:
+                xmin = 38.76
+                xmax = 41.56
+                text = " en todo mar conocido"
+            intervals [11]:
+                xmin = 42.08
+                xmax = 48.44
+                text = " del uno al otro confin"
+            intervals [12]:
+                xmin = 49.19
+                xmax = 57.5
+                text = " La luna en el mar riela"
+            intervals [13]:
+                xmin = 58.09
+                xmax = 70.85
+                text = " en la lona gime el viento"
+            intervals [14]:
+                xmin = 71.64
+                xmax = 76.05
+                text = " y alza en blando movimiento"
+            intervals [15]:
+                xmin = 76.6
+                xmax = 79.11
+                text = " olas de plata y azul"
+            intervals [16]:
+                xmin = 79.79
+                xmax = 91.61
+                text = " y ve el capitán pirata"
+            intervals [17]:
+                xmin = 92.28
+                xmax = 106.97
+                text = " cantando alegre en la popa"
+            intervals [18]:
+                xmin = 107.49
+                xmax = 110.14
+                text = " Asia á un lado"
+            intervals [19]:
+                xmin = 110.69
+                xmax = 113.83
+                text = " al otro Europa"
+            intervals [20]:
+                xmin = 114.6
+                xmax = 122.36
+                text = " y allá a su frente Stambul[1]"
+            intervals [21]:
+                xmin = 122.94
+                xmax = 129.19
+                text = "Navega"
+            intervals [22]:
+                xmin = 129.71
+                xmax = 136.45
+                text = " velero mio"
+            intervals [23]:
+                xmin = 137.95
+                xmax = 146.82253968253968
+                text = " sin temor"

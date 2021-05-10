@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 59.7
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_21_1"
+        xmin = 0
+        xmax = 59.7
+        intervals: size = 21
+            intervals [1]:
+                xmin = 0.0
+                xmax = 3.37
+                text = " Yo vi del rojo sol la luz serena"
+            intervals [2]:
+                xmin = 4.14
+                xmax = 4.28
+                text = " Turbarse"
+            intervals [3]:
+                xmin = 5.57
+                xmax = 7.86
+                text = " y que en un punto desparece"
+            intervals [4]:
+                xmin = 9.2
+                xmax = 9.81
+                text = " Su alegre faz"
+            intervals [5]:
+                xmin = 10.53
+                xmax = 11.49
+                text = " y en torno se oscurece"
+            intervals [6]:
+                xmin = 12.28
+                xmax = 14.2
+                text = " El cielo con tiniebla de horror llena"
+            intervals [7]:
+                xmin = 16.18
+                xmax = 19.1
+                text = " El Austro proceloso airado suena"
+            intervals [8]:
+                xmin = 19.88
+                xmax = 22.82
+                text = " Crece su furia"
+            intervals [9]:
+                xmin = 23.63
+                xmax = 24.79
+                text = " y la tormenta crece"
+            intervals [10]:
+                xmin = 25.33
+                xmax = 27.0
+                text = " Y en los hombros de Atlante se estremece"
+            intervals [11]:
+                xmin = 27.69
+                xmax = 28.02
+                text = " El alto Olimpo y con espanto truena"
+            intervals [12]:
+                xmin = 28.57
+                xmax = 28.6
+                text = " Mas luego vi romperse el negro velo"
+            intervals [13]:
+                xmin = 29.5
+                xmax = 30.93
+                text = " Deshecho en agua"
+            intervals [14]:
+                xmin = 32.89
+                xmax = 33.61
+                text = " y a su luz primera"
+            intervals [15]:
+                xmin = 34.77
+                xmax = 38.05
+                text = " Restituirse alegre el claro día"
+            intervals [16]:
+                xmin = 38.79
+                xmax = 39.09
+                text = " Y de nuevo esplendor ornado el cielo"
+            intervals [17]:
+                xmin = 40.13
+                xmax = 40.17
+                text = " Miré"
+            intervals [18]:
+                xmin = 41.3
+                xmax = 42.39
+                text = " y dije"
+            intervals [19]:
+                xmin = 43.12
+                xmax = 43.66
+                text = "Quién sabe si le espera"
+            intervals [20]:
+                xmin = 45.43
+                xmax = 47.17
+                text = " Igual mudanza a la fortuna mía"
+            intervals [21]:
+                xmin = 47.69
+                xmax = 47.77
+                text = " ♥"

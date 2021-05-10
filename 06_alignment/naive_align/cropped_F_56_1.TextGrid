@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 57.89
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_56_1"
+        xmin = 0
+        xmax = 57.89
+        intervals: size = 15
+            intervals [1]:
+                xmin = 0.0
+                xmax = 4.25
+                text = " Intentaban los lobos sorprender a un rebaño de carneros"
+            intervals [2]:
+                xmin = 5.78
+                xmax = 7.89
+                text = " Pero gracias a los perros guardianes"
+            intervals [3]:
+                xmin = 8.57
+                xmax = 9.74
+                text = " no podían conseguirlo"
+            intervals [4]:
+                xmin = 11.42
+                xmax = 13.75
+                text = " Entonces decidieron emplear su astucia"
+            intervals [5]:
+                xmin = 15.45
+                xmax = 17.82
+                text = " Enviaron unos delegados a los carneros para pedirles que les entregaran a sus perros diciéndoles"
+            intervals [6]:
+                xmin = 18.84
+                xmax = 22.14
+                text = " Los perros son los causantes de que haya enemistad entre ustedes y nosotros"
+            intervals [7]:
+                xmin = 24.18
+                xmax = 28.36
+                text = " Sólo tienen que entregarnóslos y la paz reinará entre nosotros"
+            intervals [8]:
+                xmin = 30.22
+                xmax = 34.07
+                text = " Y los ingenuos carneros"
+            intervals [9]:
+                xmin = 36.13
+                xmax = 37.66
+                text = " sin sospechar lo que sucedería"
+            intervals [10]:
+                xmin = 38.33
+                xmax = 40.11
+                text = " les entregaron los perros"
+            intervals [11]:
+                xmin = 41.16
+                xmax = 42.66
+                text = " y los lobos"
+            intervals [12]:
+                xmin = 43.29
+                xmax = 43.93
+                text = " ya libres de los perros"
+            intervals [13]:
+                xmin = 44.55
+                xmax = 45.83
+                text = " se apoderaron sin problemas del rebaño"
+            intervals [14]:
+                xmin = 46.42
+                xmax = 48.71
+                text = " Nunca le entregues a los enemigos"
+            intervals [15]:
+                xmin = 50.37
+                xmax = 52.25
+                text = " a los que te dan el apoyo y protección"

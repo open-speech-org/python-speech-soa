@@ -1,0 +1,490 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 842.48
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_63_1"
+        xmin = 0
+        xmax = 842.48
+        intervals: size = 119
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.27
+                text = " En el vasto salón del Prado aún no había gente"
+            intervals [2]:
+                xmin = 1.91
+                xmax = 5.32
+                text = " Era temprano"
+            intervals [3]:
+                xmin = 6.02
+                xmax = 6.73
+                text = " las cinco y media nada más"
+            intervals [4]:
+                xmin = 7.24
+                xmax = 9.59
+                text = " A falta de personas formales los niños tomaban posesión del paseo"
+            intervals [5]:
+                xmin = 10.21
+                xmax = 11.85
+                text = " utilizándolo para los juegos del aro"
+            intervals [6]:
+                xmin = 12.37
+                xmax = 24.97
+                text = " de la cuerda"
+            intervals [7]:
+                xmin = 25.77
+                xmax = 27.18
+                text = " de la pelota"
+            intervals [8]:
+                xmin = 27.69
+                xmax = 29.18
+                text = " pío campo"
+            intervals [9]:
+                xmin = 29.7
+                xmax = 32.09
+                text = " escondite"
+            intervals [10]:
+                xmin = 32.7
+                xmax = 39.8
+                text = " y otros no menos respetables"
+            intervals [11]:
+                xmin = 40.31
+                xmax = 44.17
+                text = " tan respetables"
+            intervals [12]:
+                xmin = 44.68
+                xmax = 46.89
+                text = " por lo menos"
+            intervals [13]:
+                xmin = 47.46
+                xmax = 53.8
+                text = " y por de cantado más saludables"
+            intervals [14]:
+                xmin = 54.34
+                xmax = 55.71
+                text = " que los del ajedrez"
+            intervals [15]:
+                xmin = 56.34
+                xmax = 57.15
+                text = " tresillo"
+            intervals [16]:
+                xmin = 57.7
+                xmax = 60.61
+                text = " ruleta y siete y media con que los hombres se divierten"
+            intervals [17]:
+                xmin = 61.25
+                xmax = 62.86
+                text = " Y si no temiera ofender las instituciones"
+            intervals [18]:
+                xmin = 63.5
+                xmax = 70.05
+                text = " me atrevería a ponerlos en parangón con los del salón de conferencias del Congreso y de la Bolsa"
+            intervals [19]:
+                xmin = 70.72
+                xmax = 73.82
+                text = " seguro de que tampoco habían de desmerecer"
+            intervals [20]:
+                xmin = 74.42
+                xmax = 74.66
+                text = " El sol aún seguía bañando una parte no insignificante del paseo"
+            intervals [21]:
+                xmin = 75.19
+                xmax = 79.14
+                text = " Los chiquillos resaltaban sobre la arena como un enjambre de mosquitos en una mesa de mármol"
+            intervals [22]:
+                xmin = 79.78
+                xmax = 94.29
+                text = " Las niñeras"
+            intervals [23]:
+                xmin = 94.8
+                xmax = 115.53
+                text = " guardianas fieles de aquel rebaño"
+            intervals [24]:
+                xmin = 116.04
+                xmax = 138.66
+                text = " con sus cofias blancas y rizadas"
+            intervals [25]:
+                xmin = 139.17
+                xmax = 173.49
+                text = " las trenzas del cabello sueltas"
+            intervals [26]:
+                xmin = 174.0
+                xmax = 187.58
+                text = " las manos coloradas y las mejillas rebosando una salud"
+            intervals [27]:
+                xmin = 188.1
+                xmax = 192.45
+                text = " que yo para mí deseo"
+            intervals [28]:
+                xmin = 193.03
+                xmax = 198.63
+                text = " se agrupaban a la sombra sentadas en algún banco"
+            intervals [29]:
+                xmin = 199.17
+                xmax = 213.65
+                text = " desahogando con placer sus respectivos pechos henchidos de secretos domésticos"
+            intervals [30]:
+                xmin = 214.18
+                xmax = 229.52
+                text = " sin que por eso perdiesen de vista un momento "
+            intervals [31]:
+                xmin = 230.08
+                xmax = 241.55
+                text = "dicho sea en honor suyo"
+            intervals [32]:
+                xmin = 242.09
+                xmax = 255.8
+                text = " los inquietos y menudos objetos de su vigilancia"
+            intervals [33]:
+                xmin = 256.33
+                xmax = 266.56
+                text = " Tal vez que otra se levantaban corriendo para ir a socorrer a algún mosquito infeliz que se había caído boca abajo y que se revolcaba en la arena con horrísonos chillidos"
+            intervals [34]:
+                xmin = 267.24
+                xmax = 298.35
+                text = " otras veces llamaban imperiosamente al que se desmandaba y le residenciaban ante el consejo de doncellas y amas de cría"
+            intervals [35]:
+                xmin = 298.87
+                xmax = 311.17
+                text = " amonestándole suavemente o recriminándole con dureza y administrándole algún leve correctivo en la parte posterior"
+            intervals [36]:
+                xmin = 311.75
+                xmax = 317.25
+                text = " según el sistema y el temperamento de cada juez"
+            intervals [37]:
+                xmin = 317.87
+                xmax = 352.39
+                text = " Esperando la llegada de la gente"
+            intervals [38]:
+                xmin = 353.01
+                xmax = 364.08
+                text = " me senté en una silla metálica de las que dividen el paseo"
+            intervals [39]:
+                xmin = 364.68
+                xmax = 365.58
+                text = " y me puse a contemplar con ojos distraídos el juego de los chicos"
+            intervals [40]:
+                xmin = 366.22
+                xmax = 372.96
+                text = " Detrás de mí estaban sentadas dos niñas de once a doce años de edad"
+            intervals [41]:
+                xmin = 373.48
+                xmax = 378.14
+                text = " cuyos perfiles"
+            intervals [42]:
+                xmin = 378.68
+                xmax = 380.99
+                text = "lo único que veía de ellas"
+            intervals [43]:
+                xmin = 381.62
+                xmax = 391.39
+                text = "eran de una corrección y pureza encantadoras"
+            intervals [44]:
+                xmin = 392.03
+                xmax = 393.0
+                text = " Ambas rubias y ambas vestidas con singular gracia y elegancia"
+            intervals [45]:
+                xmin = 393.78
+                xmax = 394.61
+                text = " en Madrid esto último no tiene nada de extraordinario porque las mamás"
+            intervals [46]:
+                xmin = 395.2
+                xmax = 397.09
+                text = " que han renunciado a ser coquetas para sí"
+            intervals [47]:
+                xmin = 397.74
+                xmax = 398.84
+                text = " lo continúan siendo en sus hijas y han convenido en hacerse una competencia poco favorable a los bolsillos de los papás"
+            intervals [48]:
+                xmin = 399.41
+                xmax = 412.57
+                text = " Me llamó la atención desde luego la gravedad que las dos mostraban y el poco o ningún efecto que les causaba la alegría de los demás muchachos"
+            intervals [49]:
+                xmin = 413.17
+                xmax = 420.9
+                text = " Al principio creí que aquella circunspección procedía de considerarse ya demasiado formales para corretear"
+            intervals [50]:
+                xmin = 421.65
+                xmax = 423.5
+                text = " y me pareció cómica"
+            intervals [51]:
+                xmin = 424.04
+                xmax = 424.32
+                text = " pero observando mejor"
+            intervals [52]:
+                xmin = 424.83
+                xmax = 430.69
+                text = " me convencí de que algo serio pasaba entre ellas"
+            intervals [53]:
+                xmin = 431.33
+                xmax = 436.23
+                text = " y como no tenía otra cosa que hacer"
+            intervals [54]:
+                xmin = 436.84
+                xmax = 445.36
+                text = " cambié de silla disimuladamente y me acerqué cuanto pude a fin de averiguarlo"
+            intervals [55]:
+                xmin = 446.08
+                xmax = 448.41
+                text = " La una estaba pálida y tenía la vista fija constantemente en el suelo"
+            intervals [56]:
+                xmin = 448.96
+                xmax = 452.65
+                text = " la otra la miraba de vez en cuando con inquietud y tristeza"
+            intervals [57]:
+                xmin = 453.34
+                xmax = 476.33
+                text = " Cuando me acerqué guardaban silencio"
+            intervals [58]:
+                xmin = 476.87
+                xmax = 479.48
+                text = " pero no tardó en romperlo la primera exclamando en voz baja y con acento melancólico"
+            intervals [59]:
+                xmin = 480.0
+                xmax = 483.1
+                text = "Si lo hubiera sabido"
+            intervals [60]:
+                xmin = 483.79
+                xmax = 484.11
+                text = " no saldría hoy a paseo"
+            intervals [61]:
+                xmin = 484.63
+                xmax = 496.81
+                text = "Por qué"
+            intervals [62]:
+                xmin = 497.43
+                xmax = 500.3
+                text = "repuso la segunda"
+            intervals [63]:
+                xmin = 500.87
+                xmax = 507.63
+                text = "De todos modos algún día os habíais de encontrar"
+            intervals [64]:
+                xmin = 508.2
+                xmax = 508.51
+                text = " La primera no replicó nada a esta observación y callaron un buen rato"
+            intervals [65]:
+                xmin = 509.06
+                xmax = 530.65
+                text = " Al cabo la segunda dijo poniéndole una mano sobre el hombro"
+            intervals [66]:
+                xmin = 531.35
+                xmax = 543.95
+                text = "Sabes lo que estoy pensando"
+            intervals [67]:
+                xmin = 544.59
+                xmax = 547.86
+                text = " Asunción"
+            intervals [68]:
+                xmin = 548.61
+                xmax = 558.34
+                text = "Qué"
+            intervals [69]:
+                xmin = 558.91
+                xmax = 562.74
+                text = "Que debías decírselo todo"
+            intervals [70]:
+                xmin = 563.28
+                xmax = 577.26
+                text = " Lola es buena niña"
+            intervals [71]:
+                xmin = 577.78
+                xmax = 582.37
+                text = " aunque tenga el genio vivo"
+            intervals [72]:
+                xmin = 582.91
+                xmax = 587.33
+                text = "No te acuerdas cuando nos pegamos y nos arañamos porque le quité de ser la mamá"
+            intervals [73]:
+                xmin = 587.91
+                xmax = 595.85
+                text = " Ya ves que le pasó en seguida"
+            intervals [74]:
+                xmin = 596.47
+                xmax = 597.37
+                text = "Sí"
+            intervals [75]:
+                xmin = 597.94
+                xmax = 625.91
+                text = " pero esto es muy distinto"
+            intervals [76]:
+                xmin = 626.47
+                xmax = 626.76
+                text = "Ya lo sé que es distinto"
+            intervals [77]:
+                xmin = 627.32
+                xmax = 637.6
+                text = " pero debes decírselo"
+            intervals [78]:
+                xmin = 638.16
+                xmax = 642.57
+                text = "Ay"
+            intervals [79]:
+                xmin = 643.14
+                xmax = 644.96
+                text = " No me mandes eso"
+            intervals [80]:
+                xmin = 645.48
+                xmax = 658.64
+                text = " por Dios"
+            intervals [81]:
+                xmin = 659.31
+                xmax = 660.08
+                text = " Luisa"
+            intervals [82]:
+                xmin = 660.64
+                xmax = 661.07
+                text = " de seguro no me vuelve a decir adiós"
+            intervals [83]:
+                xmin = 661.68
+                xmax = 663.38
+                text = " y se lo cuenta en seguida a sus papás"
+            intervals [84]:
+                xmin = 663.89
+                xmax = 667.23
+                text = "Y no será peor que se lo cuente otra persona"
+            intervals [85]:
+                xmin = 667.84
+                xmax = 668.41
+                text = "Hay niñas más mal intencionadas"
+            intervals [86]:
+                xmin = 669.06
+                xmax = 670.45
+                text = " Elvira lo sabe ya"
+            intervals [87]:
+                xmin = 671.02
+                xmax = 678.58
+                text = " no sé quién se lo ha dicho"
+            intervals [88]:
+                xmin = 679.15
+                xmax = 686.35
+                text = " Profunda debió ser la impresión que esta noticia causó en el ánimo de Asunción"
+            intervals [89]:
+                xmin = 686.97
+                xmax = 689.09
+                text = " porque no volvió a despegar los labios y siguió escuchando consternada las razones de su amiga"
+            intervals [90]:
+                xmin = 689.66
+                xmax = 692.42
+                text = " que las amontonaba de un modo incoherente"
+            intervals [91]:
+                xmin = 693.07
+                xmax = 711.94
+                text = " pero con resolución"
+            intervals [92]:
+                xmin = 712.49
+                xmax = 714.05
+                text = " El paseo se iba poblando poco a poco"
+            intervals [93]:
+                xmin = 714.65
+                xmax = 715.81
+                text = " El sol no se enseñoreaba ya sino de uno de los ángulos del salón"
+            intervals [94]:
+                xmin = 716.34
+                xmax = 722.42
+                text = " al retirarse dejaba claro y nítido el ambiente"
+            intervals [95]:
+                xmin = 722.93
+                xmax = 725.37
+                text = " en el cual resaltaban con admirable pureza el obelisco del Dos de Mayo y las agujas del museo de Artillería y de San Jerónimo"
+            intervals [96]:
+                xmin = 726.05
+                xmax = 742.2
+                text = " Los pequeños retrocedían ante la invasión de los grandes a los parajes más apartados"
+            intervals [97]:
+                xmin = 742.8
+                xmax = 743.91
+                text = " donde establecían nuevamente sus juegos"
+            intervals [98]:
+                xmin = 744.74
+                xmax = 758.37
+                text = " Un chico rubio"
+            intervals [99]:
+                xmin = 758.94
+                xmax = 761.95
+                text = " vestido de marinero"
+            intervals [100]:
+                xmin = 762.5
+                xmax = 767.77
+                text = " con cara de desvergonzado"
+            intervals [101]:
+                xmin = 768.29
+                xmax = 773.42
+                text = " se quedó fijo delante de nuestras niñas contemplándolas con insistencia"
+            intervals [102]:
+                xmin = 774.24
+                xmax = 782.36
+                text = " y no hallando al parecer conveniente la gravedad que mostraban"
+            intervals [103]:
+                xmin = 782.9
+                xmax = 783.49
+                text = " se puso a hacerlas muecas en son de menosprecio"
+            intervals [104]:
+                xmin = 784.01
+                xmax = 785.83
+                text = " Luisa"
+            intervals [105]:
+                xmin = 786.44
+                xmax = 788.34
+                text = " al verse interrumpida en su discurso"
+            intervals [106]:
+                xmin = 788.95
+                xmax = 791.01
+                text = " se levantó furiosa y le tiró por los cabellos"
+            intervals [107]:
+                xmin = 791.61
+                xmax = 791.99
+                text = " El chico se alejó llorando"
+            intervals [108]:
+                xmin = 792.52
+                xmax = 794.83
+                text = " Al cabo de un rato"
+            intervals [109]:
+                xmin = 795.45
+                xmax = 796.38
+                text = " cuando ya me disponía a dejar la silla para dar algunas vueltas"
+            intervals [110]:
+                xmin = 797.06
+                xmax = 808.07
+                text = " oí exclamar a Luisa"
+            intervals [111]:
+                xmin = 808.58
+                xmax = 811.71
+                text = "Calla"
+            intervals [112]:
+                xmin = 812.4
+                xmax = 816.2
+                text = " calla"
+            intervals [113]:
+                xmin = 816.81
+                xmax = 819.95
+                text = " me parece que ahí viene Lola"
+            intervals [114]:
+                xmin = 820.68
+                xmax = 824.03
+                text = " Asunción se estremeció y levantó la cabeza vivamente"
+            intervals [115]:
+                xmin = 824.58
+                xmax = 825.93
+                text = "Sí"
+            intervals [116]:
+                xmin = 826.51
+                xmax = 832.94
+                text = " sí"
+            intervals [117]:
+                xmin = 833.5
+                xmax = 839.37
+                text = " es ella"
+            intervals [118]:
+                xmin = 840.54
+                xmax = 840.95
+                text = "continuó Luisa"
+            intervals [119]:
+                xmin = 842.48
+                xmax = 848.7043083900227
+                text = "Viene con Pepita y con Concha y Eugenia"

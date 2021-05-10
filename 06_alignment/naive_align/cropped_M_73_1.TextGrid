@@ -1,0 +1,38 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 36.77
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_73_1"
+        xmin = 0
+        xmax = 36.77
+        intervals: size = 6
+            intervals [1]:
+                xmin = 0.0
+                xmax = 2.06
+                text = " Se introdujo una comadreja en el taller de un herrero y se puso a lamer una lima que ahí se encontraba"
+            intervals [2]:
+                xmin = 2.76
+                xmax = 4.21
+                text = " Al cabo de un rato su lengua arrojaba sangre en abundancia"
+            intervals [3]:
+                xmin = 5.06
+                xmax = 9.02
+                text = " y la comadreja se puso muy feliz pensando que había arrancado algo al hierro"
+            intervals [4]:
+                xmin = 10.28
+                xmax = 11.28
+                text = " hasta que acabó por perder su propia lengua"
+            intervals [5]:
+                xmin = 12.06
+                xmax = 13.29
+                text = " Piensa siempre que si haces un daño"
+            intervals [6]:
+                xmin = 13.97
+                xmax = 14.89
+                text = " tarde o temprano éste regresará contra tí"

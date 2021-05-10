@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 58.52
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_69_1"
+        xmin = 0
+        xmax = 58.52
+        intervals: size = 21
+            intervals [1]:
+                xmin = 0.0
+                xmax = 3.14
+                text = "Dime"
+            intervals [2]:
+                xmin = 3.65
+                xmax = 3.99
+                text = " Padre común"
+            intervals [3]:
+                xmin = 5.63
+                xmax = 7.97
+                text = " pues eres justo"
+            intervals [4]:
+                xmin = 8.71
+                xmax = 10.67
+                text = "Por qué ha de permitir tu providencia"
+            intervals [5]:
+                xmin = 11.98
+                xmax = 13.49
+                text = " Que"
+            intervals [6]:
+                xmin = 16.3
+                xmax = 18.03
+                text = " arrastrando prisiones la inocencia"
+            intervals [7]:
+                xmin = 19.16
+                xmax = 21.52
+                text = " Suba la fraude a tribunal augusto"
+            intervals [8]:
+                xmin = 22.53
+                xmax = 24.41
+                text = "Quién da fuerzas al brazo que robusto"
+            intervals [9]:
+                xmin = 25.57
+                xmax = 27.37
+                text = " Hace a tus leyes firme resistencia"
+            intervals [10]:
+                xmin = 30.34
+                xmax = 31.44
+                text = " Y que el celo"
+            intervals [11]:
+                xmin = 32.21
+                xmax = 32.4
+                text = " que más la reverencia"
+            intervals [12]:
+                xmin = 34.15
+                xmax = 35.01
+                text = " Gima a los pies del vencedor injusto"
+            intervals [13]:
+                xmin = 35.67
+                xmax = 36.59
+                text = "Vemos que vibran victoriosas palmas"
+            intervals [14]:
+                xmin = 37.91
+                xmax = 40.1
+                text = " Manos inicuas"
+            intervals [15]:
+                xmin = 43.03
+                xmax = 43.77
+                text = " la virtud gimiendo"
+            intervals [16]:
+                xmin = 45.17
+                xmax = 47.6
+                text = " De triunfo en el injusto regocijo"
+            intervals [17]:
+                xmin = 48.32
+                xmax = 48.36
+                text = " Esto decía yo"
+            intervals [18]:
+                xmin = 49.73
+                xmax = 50.15
+                text = " cuando riendo"
+            intervals [19]:
+                xmin = 50.78
+                xmax = 52.72
+                text = " Celestial ninfa apareció"
+            intervals [20]:
+                xmin = 55.36
+                xmax = 57.76
+                text = " y me dijo"
+            intervals [21]:
+                xmin = 58.52
+                xmax = 65.06798185941044
+                text = "Ciego"

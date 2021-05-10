@@ -1,0 +1,350 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 290.48
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_38_1"
+        xmin = 0
+        xmax = 290.48
+        intervals: size = 84
+            intervals [1]:
+                xmin = 0.0
+                xmax = 2.98
+                text = " La Edad de Oro se despide hoy con pena de sus amigos"
+            intervals [2]:
+                xmin = 6.38
+                xmax = 6.44
+                text = " Se puso a escribir largo el hombre de La Edad de Oro"
+            intervals [3]:
+                xmin = 12.74
+                xmax = 12.87
+                text = " como quien escribe una carta de cariño para persona a quien quiere mucho"
+            intervals [4]:
+                xmin = 13.99
+                xmax = 14.25
+                text = " y sucedió que escribió más de lo que cabía en las treinta y dos páginas"
+            intervals [5]:
+                xmin = 15.2
+                xmax = 15.23
+                text = " Treinta y dos páginas es de veras poco para conversar con los niños queridos"
+            intervals [6]:
+                xmin = 19.7
+                xmax = 20.29
+                text = " con los que han de ser mañana hábiles como Meñique"
+            intervals [7]:
+                xmin = 20.93
+                xmax = 21.1
+                text = " y valientes como Bolívar"
+            intervals [8]:
+                xmin = 25.3
+                xmax = 25.31
+                text = " poetas como Homero ya no podrán ser"
+            intervals [9]:
+                xmin = 27.24
+                xmax = 27.63
+                text = " porque estos tiempos no son como los de antes"
+            intervals [10]:
+                xmin = 31.61
+                xmax = 31.64
+                text = " y los aedas de ahora no han de cantar guerras bárbaras de pueblo con pueblo para ver cuál puede más"
+            intervals [11]:
+                xmin = 33.35
+                xmax = 33.64
+                text = " ni peleas de hombre con hombre para ver quién es más fuerte"
+            intervals [12]:
+                xmin = 34.68
+                xmax = 34.72
+                text = " lo que ha de hacer el poeta de ahora es aconsejar a los hombres que se quieran bien"
+            intervals [13]:
+                xmin = 37.0
+                xmax = 37.01
+                text = " y pintar todo lo hermoso del mundo de manera que se vea en los versos como si estuviera pintado con colores"
+            intervals [14]:
+                xmin = 40.88
+                xmax = 40.96
+                text = " y castigar con la poesía"
+            intervals [15]:
+                xmin = 42.13
+                xmax = 42.51
+                text = " como con un látigo"
+            intervals [16]:
+                xmin = 43.87
+                xmax = 44.01
+                text = " a los que quieran quitar a los hombres su libertad"
+            intervals [17]:
+                xmin = 44.85
+                xmax = 44.87
+                text = " o roben con leyes pícaras el dinero de los pueblos"
+            intervals [18]:
+                xmin = 46.19
+                xmax = 46.3
+                text = " o quieran que los hombres de su país les obedezcan como ovejas y les laman la mano como perros"
+            intervals [19]:
+                xmin = 48.37
+                xmax = 49.49
+                text = " Los versos no se han de hacer para decir que se está contento o se está triste"
+            intervals [20]:
+                xmin = 52.4
+                xmax = 52.93
+                text = " sino para ser útil al mundo"
+            intervals [21]:
+                xmin = 54.56
+                xmax = 55.39
+                text = " enseñándole que la naturaleza es hermosa"
+            intervals [22]:
+                xmin = 57.32
+                xmax = 58.4
+                text = " que la vida es un deber"
+            intervals [23]:
+                xmin = 64.48
+                xmax = 64.54
+                text = " que la muerte no es fea"
+            intervals [24]:
+                xmin = 67.81
+                xmax = 67.82
+                text = " que nadie debe estar triste ni acobardarse mientras haya libros en las librerías"
+            intervals [25]:
+                xmin = 69.37
+                xmax = 69.56
+                text = " y luz en el cielo"
+            intervals [26]:
+                xmin = 73.29
+                xmax = 73.58
+                text = " y amigos"
+            intervals [27]:
+                xmin = 74.34
+                xmax = 74.74
+                text = " y madres"
+            intervals [28]:
+                xmin = 75.51
+                xmax = 75.66
+                text = " El que tenga penas"
+            intervals [29]:
+                xmin = 81.52
+                xmax = 81.58
+                text = " lea las Vidas Paralelas de Plutarco"
+            intervals [30]:
+                xmin = 82.61
+                xmax = 82.64
+                text = " que dan deseos de ser como aquellos hombres de antes"
+            intervals [31]:
+                xmin = 83.52
+                xmax = 83.57
+                text = " y mejor"
+            intervals [32]:
+                xmin = 85.76
+                xmax = 85.82
+                text = " porque ahora la tierra ha vivido más"
+            intervals [33]:
+                xmin = 87.47
+                xmax = 88.19
+                text = " y se puede ser hombre de más amor y delicadeza"
+            intervals [34]:
+                xmin = 92.98
+                xmax = 93.49
+                text = " Antes todo se hacía con los puños"
+            intervals [35]:
+                xmin = 96.46
+                xmax = 96.72
+                text = " ahora"
+            intervals [36]:
+                xmin = 99.17
+                xmax = 100.81
+                text = " la fuerza está en el saber"
+            intervals [37]:
+                xmin = 101.72
+                xmax = 101.76
+                text = " más que en los puñetazos"
+            intervals [38]:
+                xmin = 102.39
+                xmax = 102.49
+                text = " aunque es bueno aprender a defenderse"
+            intervals [39]:
+                xmin = 107.88
+                xmax = 107.89
+                text = " porque siempre hay gente bestial en el mundo"
+            intervals [40]:
+                xmin = 108.55
+                xmax = 108.63
+                text = " y porque la fuerza da salud"
+            intervals [41]:
+                xmin = 109.85
+                xmax = 109.94
+                text = " y porque se ha de estar pronto a pelear"
+            intervals [42]:
+                xmin = 110.78
+                xmax = 111.56
+                text = " para cuando un pueblo ladrón quiera venir a robarnos nuestro pueblo"
+            intervals [43]:
+                xmin = 115.39
+                xmax = 115.4
+                text = " Para eso es bueno ser fuerte de cuerpo"
+            intervals [44]:
+                xmin = 118.66
+                xmax = 118.68
+                text = " pero para lo demás de la vida"
+            intervals [45]:
+                xmin = 120.44
+                xmax = 120.76
+                text = " la fuerza está en saber mucho"
+            intervals [46]:
+                xmin = 121.37
+                xmax = 121.8
+                text = " como dice Meñique"
+            intervals [47]:
+                xmin = 122.32
+                xmax = 122.34
+                text = " En los mismos tiempos de Homero"
+            intervals [48]:
+                xmin = 123.87
+                xmax = 123.92
+                text = " el que ganó por fin el sitio"
+            intervals [49]:
+                xmin = 125.19
+                xmax = 125.3
+                text = " y entró en Troya"
+            intervals [50]:
+                xmin = 126.53
+                xmax = 126.64
+                text = " no fue Ajax el del escudo"
+            intervals [51]:
+                xmin = 128.42
+                xmax = 128.47
+                text = " ni Aquiles el de la lanza"
+            intervals [52]:
+                xmin = 129.35
+                xmax = 129.6
+                text = " ni Diómedes el del carro"
+            intervals [53]:
+                xmin = 130.36
+                xmax = 130.57
+                text = " sino Ulises"
+            intervals [54]:
+                xmin = 132.75
+                xmax = 134.52
+                text = " que era el hombre de ingenio"
+            intervals [55]:
+                xmin = 136.32
+                xmax = 136.51
+                text = " y ponía en paz a los envidiosos"
+            intervals [56]:
+                xmin = 137.31
+                xmax = 137.35
+                text = " y pensaba pronto lo que no les ocurría a los demás"
+            intervals [57]:
+                xmin = 138.24
+                xmax = 138.27
+                text = " Con esta última página está sucediendo lo que con el primer número de La Edad de Oro"
+            intervals [58]:
+                xmin = 138.79
+                xmax = 138.85
+                text = " que no va a caber lo que el amigo de los niños les quería decir"
+            intervals [59]:
+                xmin = 139.46
+                xmax = 139.52
+                text = " y es que en el número de agosto se publicará una “Historia del hombre"
+            intervals [60]:
+                xmin = 140.72
+                xmax = 141.72
+                text = " contada por sus casas” que no cupo esta vez"
+            intervals [61]:
+                xmin = 142.88
+                xmax = 144.33
+                text = " historia muy curiosa"
+            intervals [62]:
+                xmin = 146.24
+                xmax = 146.35
+                text = " donde se cuenta cómo ha vivido el hombre"
+            intervals [63]:
+                xmin = 147.4
+                xmax = 149.26
+                text = " desde su primera habitación en la tierra"
+            intervals [64]:
+                xmin = 150.72
+                xmax = 151.09
+                text = " que fue una cueva en la montaña"
+            intervals [65]:
+                xmin = 152.29
+                xmax = 152.34
+                text = " hasta los palacios en que vive ahora"
+            intervals [66]:
+                xmin = 153.3
+                xmax = 153.38
+                text = " Ni cupo tampoco una explicación muy entretenida del modo de fabricar Un cubierto de mesa"
+            intervals [67]:
+                xmin = 158.0
+                xmax = 158.65
+                text = " Porque es necesario que los niños no vean"
+            intervals [68]:
+                xmin = 160.38
+                xmax = 160.79
+                text = " no toquen"
+            intervals [69]:
+                xmin = 161.33
+                xmax = 162.19
+                text = " no piensen en nada que no sepan explicar"
+            intervals [70]:
+                xmin = 162.84
+                xmax = 162.98
+                text = " Para eso se publica La Edad de Oro"
+            intervals [71]:
+                xmin = 163.73
+                xmax = 164.08
+                text = " Y para todo lo que quieran preguntar"
+            intervals [72]:
+                xmin = 166.43
+                xmax = 166.64
+                text = " aquí está el amigo"
+            intervals [73]:
+                xmin = 167.31
+                xmax = 167.9
+                text = " Estas últimas páginas serán como el cuarto de confianza de La Edad de Oro"
+            intervals [74]:
+                xmin = 170.0
+                xmax = 170.26
+                text = " donde conversaremos como si estuviésemos en familia"
+            intervals [75]:
+                xmin = 172.51
+                xmax = 173.18
+                text = " Aquí publicaremos las cartas de nuestras amiguitas"
+            intervals [76]:
+                xmin = 174.33
+                xmax = 174.61
+                text = " aquí responderemos a las preguntas de los niños"
+            intervals [77]:
+                xmin = 175.91
+                xmax = 175.92
+                text = " aquí tendremos la Bolsa de Sellos"
+            intervals [78]:
+                xmin = 176.82
+                xmax = 176.89
+                text = " donde el que tenga sellos que mandar"
+            intervals [79]:
+                xmin = 178.26
+                xmax = 178.36
+                text = " o los quiera comprar"
+            intervals [80]:
+                xmin = 184.51
+                xmax = 184.58
+                text = " o quiera hacer colección"
+            intervals [81]:
+                xmin = 187.87
+                xmax = 187.89
+                text = " o preguntar sobre sellos algo que le interese"
+            intervals [82]:
+                xmin = 191.19
+                xmax = 191.76
+                text = " no tiene más que escribir para lograr lo que desea"
+            intervals [83]:
+                xmin = 194.48
+                xmax = 194.53
+                text = " Y de cuando en cuando nos hará aquí una visita El Abuelo Andrés‚ que tiene una caja maravillosa con muchas cosas raras"
+            intervals [84]:
+                xmin = 196.2
+                xmax = 196.21
+                text = " y nos va a enseñar todo lo que tiene en La Caja de las Maravillas"

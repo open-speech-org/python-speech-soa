@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 186.45
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_60_1"
+        xmin = 0
+        xmax = 186.45
+        intervals: size = 23
+            intervals [1]:
+                xmin = 0.0
+                xmax = 0.64
+                text = " Vivo sin vivir en mí"
+            intervals [2]:
+                xmin = 5.51
+                xmax = 5.57
+                text = " y tan alta vida espero"
+            intervals [3]:
+                xmin = 23.94
+                xmax = 23.95
+                text = " que muero porque no muero"
+            intervals [4]:
+                xmin = 29.73
+                xmax = 29.76
+                text = " Vivo ya fuera de mí"
+            intervals [5]:
+                xmin = 38.36
+                xmax = 38.39
+                text = " después que muero de amor"
+            intervals [6]:
+                xmin = 43.28
+                xmax = 43.29
+                text = " porque vivo en el Señor"
+            intervals [7]:
+                xmin = 49.98
+                xmax = 49.99
+                text = " que me quiso para sí"
+            intervals [8]:
+                xmin = 55.0
+                xmax = 55.01
+                text = " cuando el corazón le di"
+            intervals [9]:
+                xmin = 62.6
+                xmax = 62.64
+                text = " puso en él este letrero"
+            intervals [10]:
+                xmin = 63.65
+                xmax = 63.91
+                text = " que muero porque no muero"
+            intervals [11]:
+                xmin = 79.66
+                xmax = 79.73
+                text = " Esta divina prisión"
+            intervals [12]:
+                xmin = 81.19
+                xmax = 81.2
+                text = " del amor en que yo vivo"
+            intervals [13]:
+                xmin = 93.8
+                xmax = 93.83
+                text = " ha hecho a Dios mi cautivo"
+            intervals [14]:
+                xmin = 97.05
+                xmax = 97.06
+                text = " y libre mi corazón"
+            intervals [15]:
+                xmin = 104.31
+                xmax = 104.38
+                text = " y causa en mí tal pasión"
+            intervals [16]:
+                xmin = 111.74
+                xmax = 111.85
+                text = " ver a Dios mi prisionero"
+            intervals [17]:
+                xmin = 135.66
+                xmax = 135.69
+                text = " que muero porque no muero"
+            intervals [18]:
+                xmin = 137.21
+                xmax = 137.35
+                text = "Ay"
+            intervals [19]:
+                xmin = 149.18
+                xmax = 149.39
+                text = " qué larga es esta vida"
+            intervals [20]:
+                xmin = 160.74
+                xmax = 160.86
+                text = "Qué duros estos destierros"
+            intervals [21]:
+                xmin = 175.04
+                xmax = 175.1
+                text = " esta cárcel"
+            intervals [22]:
+                xmin = 179.18
+                xmax = 179.21
+                text = " estos hierros"
+            intervals [23]:
+                xmin = 186.45
+                xmax = 235.8677097505669
+                text = " en que el alma está metida"

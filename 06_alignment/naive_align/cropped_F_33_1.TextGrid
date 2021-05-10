@@ -1,0 +1,1130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 761.5
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_33_1"
+        xmin = 0
+        xmax = 761.5
+        intervals: size = 279
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.86
+                text = " En todo el barrio del Pacífico era conocido aquel endiablado carretero"
+            intervals [2]:
+                xmin = 2.51
+                xmax = 3.63
+                text = " que alborotaba las calles con sus gritos y los furiosos chasquidos de su tralla"
+            intervals [3]:
+                xmin = 4.34
+                xmax = 4.35
+                text = " Los vecinos de la gran casa en cuyo bajo vivía"
+            intervals [4]:
+                xmin = 5.21
+                xmax = 5.29
+                text = " habían contribuido a formar su mala reputación… "
+            intervals [5]:
+                xmin = 5.81
+                xmax = 6.96
+                text = "Hombre más atroz y mal hablado"
+            intervals [6]:
+                xmin = 8.02
+                xmax = 9.27
+                text = "… "
+            intervals [7]:
+                xmin = 10.15
+                xmax = 10.24
+                text = "Y luego dicen los periódicos que la Policía detiene por blasfemos"
+            intervals [8]:
+                xmin = 11.49
+                xmax = 12.04
+                text = " Pepe el carretero hacia méritos diariamente"
+            intervals [9]:
+                xmin = 12.64
+                xmax = 12.73
+                text = " según algunos vecinos"
+            intervals [10]:
+                xmin = 13.37
+                xmax = 13.67
+                text = " para que le cortaran la lengua y le llenasen la boca de plomo ardiendo"
+            intervals [11]:
+                xmin = 14.67
+                xmax = 16.19
+                text = " como en los mejores tiempos del Santo Oficio"
+            intervals [12]:
+                xmin = 16.72
+                xmax = 16.74
+                text = " Nada dejaba en paz"
+            intervals [13]:
+                xmin = 18.54
+                xmax = 20.37
+                text = " ni humano ni divino"
+            intervals [14]:
+                xmin = 21.45
+                xmax = 21.63
+                text = " Se sabía de memoria todos los nombres venerables del almanaque"
+            intervals [15]:
+                xmin = 22.29
+                xmax = 23.09
+                text = " únicamente por el gusto de faltarles"
+            intervals [16]:
+                xmin = 24.17
+                xmax = 24.7
+                text = " y así que se enfadaba con sus bestias y levantaba el látigo"
+            intervals [17]:
+                xmin = 26.39
+                xmax = 26.85
+                text = " no quedaba santo"
+            intervals [18]:
+                xmin = 27.38
+                xmax = 28.81
+                text = " por arrinconado que estuviese en alguna de las casillas del mes"
+            intervals [19]:
+                xmin = 31.48
+                xmax = 34.92
+                text = " al que no profanase con las más sucias expresiones"
+            intervals [20]:
+                xmin = 36.25
+                xmax = 36.39
+                text = " En fin"
+            intervals [21]:
+                xmin = 37.31
+                xmax = 37.33
+                text = "un horror"
+            intervals [22]:
+                xmin = 39.29
+                xmax = 40.29
+                text = " y lo más censurable era que"
+            intervals [23]:
+                xmin = 43.22
+                xmax = 45.49
+                text = " al encararse con sus tozudos animales"
+            intervals [24]:
+                xmin = 47.11
+                xmax = 49.06
+                text = " azuzándolos con blasfemias mejor que con latigazos"
+            intervals [25]:
+                xmin = 50.17
+                xmax = 52.13
+                text = " los chiquillos del barrio acudían para escucharle por perversa intención"
+            intervals [26]:
+                xmin = 52.72
+                xmax = 53.55
+                text = " regodeándose ante la fecundidad inagotable del maestro"
+            intervals [27]:
+                xmin = 54.15
+                xmax = 56.54
+                text = " Los vecinos"
+            intervals [28]:
+                xmin = 57.06
+                xmax = 57.13
+                text = " molestados a todas horas por aquella interminable sarta de maldiciones"
+            intervals [29]:
+                xmin = 59.31
+                xmax = 60.9
+                text = " no sabían cómo librarse de ellas"
+            intervals [30]:
+                xmin = 63.87
+                xmax = 63.98
+                text = " Acudían al del piso principal"
+            intervals [31]:
+                xmin = 65.22
+                xmax = 66.07
+                text = " un viejo avaro que había alquilado la cochera a Pepe"
+            intervals [32]:
+                xmin = 66.79
+                xmax = 67.34
+                text = " no encontrando mejor inquilino"
+            intervals [33]:
+                xmin = 68.52
+                xmax = 68.91
+                text = "No hagan ustedes caso "
+            intervals [34]:
+                xmin = 69.57
+                xmax = 69.62
+                text = "contestaba"
+            intervals [35]:
+                xmin = 70.28
+                xmax = 70.6
+                text = " Consideren que es un carretero"
+            intervals [36]:
+                xmin = 71.84
+                xmax = 71.92
+                text = " y que para este oficio no se exigen exámenes de urbanidad"
+            intervals [37]:
+                xmin = 73.03
+                xmax = 74.02
+                text = " Tiene mala lengua"
+            intervals [38]:
+                xmin = 74.54
+                xmax = 74.78
+                text = " eso sí"
+            intervals [39]:
+                xmin = 75.3
+                xmax = 76.39
+                text = " pero es hombre muy formal y paga sin retrasarse un solo día"
+            intervals [40]:
+                xmin = 76.94
+                xmax = 77.06
+                text = " Un poco de caridad"
+            intervals [41]:
+                xmin = 77.77
+                xmax = 78.6
+                text = " señores"
+            intervals [42]:
+                xmin = 79.51
+                xmax = 80.19
+                text = " A la mujer del maldito blasfemo la compadecían en toda la casa"
+            intervals [43]:
+                xmin = 82.3
+                xmax = 82.41
+                text = "No lo crean ustedes "
+            intervals [44]:
+                xmin = 83.95
+                xmax = 85.2
+                text = "decía"
+            intervals [45]:
+                xmin = 86.47
+                xmax = 86.54
+                text = " riendo"
+            intervals [46]:
+                xmin = 87.42
+                xmax = 87.49
+                text = " la pobre mujer"
+            intervals [47]:
+                xmin = 88.43
+                xmax = 89.67
+                text = " no sufro nada de él"
+            intervals [48]:
+                xmin = 91.47
+                xmax = 92.61
+                text = "Criatura más buena"
+            intervals [49]:
+                xmin = 93.22
+                xmax = 93.35
+                text = " Tiene su geniecillo"
+            intervals [50]:
+                xmin = 94.18
+                xmax = 94.53
+                text = " pero"
+            intervals [51]:
+                xmin = 95.6
+                xmax = 95.62
+                text = "ay hija"
+            intervals [52]:
+                xmin = 96.3
+                xmax = 96.37
+                text = " Dios nos libre del agua mansa… Es de oro"
+            intervals [53]:
+                xmin = 97.13
+                xmax = 98.25
+                text = " alguna copita para tomar fuerzas"
+            intervals [54]:
+                xmin = 100.05
+                xmax = 100.27
+                text = " pero nada de ser como otros"
+            intervals [55]:
+                xmin = 100.93
+                xmax = 101.02
+                text = " que se pasan el día como estacas frente al mostrador de la taberna"
+            intervals [56]:
+                xmin = 102.05
+                xmax = 102.18
+                text = " No se queda ni un céntimo de lo que gana"
+            intervals [57]:
+                xmin = 102.83
+                xmax = 106.09
+                text = " y eso que no tenemos familia"
+            intervals [58]:
+                xmin = 106.87
+                xmax = 106.92
+                text = " que es lo que más le gustaría"
+            intervals [59]:
+                xmin = 108.77
+                xmax = 110.02
+                text = " Pero la pobre mujer no lograba convencer a nadie de la bondad de su Pepe"
+            intervals [60]:
+                xmin = 111.05
+                xmax = 113.8
+                text = " Bastaba verle"
+            intervals [61]:
+                xmin = 115.72
+                xmax = 115.99
+                text = "Vaya una cara"
+            intervals [62]:
+                xmin = 116.5
+                xmax = 116.61
+                text = " En presidio las había mejores"
+            intervals [63]:
+                xmin = 118.49
+                xmax = 122.2
+                text = " Era nervudo"
+            intervals [64]:
+                xmin = 123.49
+                xmax = 124.46
+                text = " cuadrado"
+            intervals [65]:
+                xmin = 125.24
+                xmax = 125.33
+                text = " velloso como una fiera"
+            intervals [66]:
+                xmin = 125.86
+                xmax = 126.07
+                text = " la cara cobriza"
+            intervals [67]:
+                xmin = 127.38
+                xmax = 128.21
+                text = " con rudas protuberancias y profundos surcos"
+            intervals [68]:
+                xmin = 129.33
+                xmax = 130.24
+                text = " los ojos sanguinolentos y la nariz aplastada"
+            intervals [69]:
+                xmin = 131.38
+                xmax = 131.55
+                text = " granujienta"
+            intervals [70]:
+                xmin = 133.11
+                xmax = 134.28
+                text = " veteada de azul"
+            intervals [71]:
+                xmin = 135.04
+                xmax = 135.27
+                text = " con manojos de cerdas"
+            intervals [72]:
+                xmin = 136.63
+                xmax = 137.12
+                text = " que asomaban como tentáculos de un erizo que dentro de su cráneo ocupase el lugar del cerebro"
+            intervals [73]:
+                xmin = 137.94
+                xmax = 142.56
+                text = " A nada concedía respeto"
+            intervals [74]:
+                xmin = 143.15
+                xmax = 143.16
+                text = " Trataba de reverendos a los machos que le ayudaban a ganar el pan"
+            intervals [75]:
+                xmin = 143.73
+                xmax = 143.78
+                text = " y cuando en los ratos de descanso se sentaba a la puerta de la cochera"
+            intervals [76]:
+                xmin = 144.75
+                xmax = 144.84
+                text = " deletreaba penosamente"
+            intervals [77]:
+                xmin = 145.4
+                xmax = 145.41
+                text = " con vozarrón que se oía hasta en los últimos pisos"
+            intervals [78]:
+                xmin = 146.95
+                xmax = 147.97
+                text = " sus periódicos favoritos"
+            intervals [79]:
+                xmin = 148.83
+                xmax = 148.92
+                text = " los papeles más abominables que se publicaban en Madrid y que algunas señoras miraban desde arriba con el mismo tenor que si fuesen máquinas explosivas"
+            intervals [80]:
+                xmin = 149.89
+                xmax = 151.07
+                text = " Aquel hombre que ansiaba cataclismos y que soñaba con la gorda"
+            intervals [81]:
+                xmin = 152.21
+                xmax = 152.22
+                text = " pero muy gorda"
+            intervals [82]:
+                xmin = 152.85
+                xmax = 152.92
+                text = " vivía"
+            intervals [83]:
+                xmin = 154.29
+                xmax = 156.09
+                text = " por ironía"
+            intervals [84]:
+                xmin = 157.17
+                xmax = 157.19
+                text = " en el barrio del Pacífico"
+            intervals [85]:
+                xmin = 159.13
+                xmax = 159.73
+                text = " La más leve cuestión de su mujer con las criadas le ponía fuera de si"
+            intervals [86]:
+                xmin = 160.42
+                xmax = 161.05
+                text = " y abriendo el saco de las amenazas prometía subir para degollar a todos los vecinos y pegar fuego a la casa"
+            intervals [87]:
+                xmin = 162.05
+                xmax = 162.97
+                text = " cuatro gotas que cayesen en su patio desde las galenas bastaban para que de su boca infecta saliese la triste procesión de santos profanados"
+            intervals [88]:
+                xmin = 164.48
+                xmax = 165.97
+                text = " con acompañamiento de horripilantes profecías"
+            intervals [89]:
+                xmin = 166.56
+                xmax = 167.46
+                text = " para el día en que las cosas fuesen rectas y los pobres subiesen encima"
+            intervals [90]:
+                xmin = 168.4
+                xmax = 170.67
+                text = " ocupando el lugar que les corresponde"
+            intervals [91]:
+                xmin = 171.33
+                xmax = 171.78
+                text = " Pero su odio sólo se limitaba a los mayores"
+            intervals [92]:
+                xmin = 172.83
+                xmax = 173.23
+                text = " a los que le temían"
+            intervals [93]:
+                xmin = 173.77
+                xmax = 173.78
+                text = " pues si algún muchacho de la vecindad pasaba cerca de él"
+            intervals [94]:
+                xmin = 174.68
+                xmax = 175.79
+                text = " acogíalo con una sonrisa semejante al bostezo del ogro y extendiendo su mano callosa"
+            intervals [95]:
+                xmin = 176.33
+                xmax = 176.44
+                text = " pretendía acariciarle"
+            intervals [96]:
+                xmin = 177.19
+                xmax = 178.39
+                text = " Como se había propuesto no dejar en paz a nadie en la casa"
+            intervals [97]:
+                xmin = 179.3
+                xmax = 182.33
+                text = " hasta se metía con la pobre loca"
+            intervals [98]:
+                xmin = 183.11
+                xmax = 184.3
+                text = " una gata vagabunda que ejercía la rapiña en todas las habitaciones"
+            intervals [99]:
+                xmin = 184.82
+                xmax = 184.89
+                text = " pero cuyas correrías toleraban los vecinos porque con ella no quedaba rata viva"
+            intervals [100]:
+                xmin = 185.41
+                xmax = 185.46
+                text = " Parió aquella bohemia de blanco y sedoso pelaje"
+            intervals [101]:
+                xmin = 187.45
+                xmax = 188.61
+                text = " y"
+            intervals [102]:
+                xmin = 189.85
+                xmax = 191.62
+                text = " obligada a fijar domicilio para tranquilidad de su prole"
+            intervals [103]:
+                xmin = 192.37
+                xmax = 192.57
+                text = " escogió el patio del ogro"
+            intervals [104]:
+                xmin = 193.31
+                xmax = 193.44
+                text = " burlándose"
+            intervals [105]:
+                xmin = 194.29
+                xmax = 195.56
+                text = " tal vez"
+            intervals [106]:
+                xmin = 196.32
+                xmax = 196.87
+                text = " del terrible personaje"
+            intervals [107]:
+                xmin = 197.77
+                xmax = 197.94
+                text = " Había que oír al carretero"
+            intervals [108]:
+                xmin = 198.49
+                xmax = 199.71
+                text = "Era su patio algún corral para que viniesen a emporcarlo con sus crías los animales de la vecindad"
+            intervals [109]:
+                xmin = 200.95
+                xmax = 201.93
+                text = " De un momento a otro iba a enfadarse"
+            intervals [110]:
+                xmin = 204.19
+                xmax = 205.08
+                text = " y si él se enfadaba de veras"
+            intervals [111]:
+                xmin = 206.11
+                xmax = 207.59
+                text = "pum"
+            intervals [112]:
+                xmin = 208.54
+                xmax = 208.62
+                text = " de la primera patada iba la Loca y sus cachorros a estrellarse en la pared de enfrente"
+            intervals [113]:
+                xmin = 210.26
+                xmax = 212.48
+                text = " Pero mientras el ogro tomaba fuerzas para dar su terrible patada y la anunciaba a gritos cien veces al día"
+            intervals [114]:
+                xmin = 213.17
+                xmax = 213.51
+                text = " la pobre felina seguía tranquilamente en un rincón"
+            intervals [115]:
+                xmin = 214.02
+                xmax = 214.44
+                text = " formando un revoltijo de pelos rojos y negros"
+            intervals [116]:
+                xmin = 215.09
+                xmax = 215.17
+                text = " en el que brillaban los ojos con lívida fosforescencia"
+            intervals [117]:
+                xmin = 216.94
+                xmax = 219.03
+                text = " y coreando irónicamente las amenazas del carretero"
+            intervals [118]:
+                xmin = 219.95
+                xmax = 220.92
+                text = "Miau"
+            intervals [119]:
+                xmin = 221.53
+                xmax = 222.16
+                text = "Miau"
+            intervals [120]:
+                xmin = 223.19
+                xmax = 223.78
+                text = " Bonito verano era aquel"
+            intervals [121]:
+                xmin = 224.3
+                xmax = 224.92
+                text = " Trabajo"
+            intervals [122]:
+                xmin = 226.56
+                xmax = 227.61
+                text = " poco"
+            intervals [123]:
+                xmin = 228.26
+                xmax = 229.98
+                text = " y un calor de infierno"
+            intervals [124]:
+                xmin = 231.15
+                xmax = 232.21
+                text = " que irritaba el mal humor de Pepe y hacía hervir en su interior la caldera de las maldiciones"
+            intervals [125]:
+                xmin = 232.77
+                xmax = 233.85
+                text = " que se escapaban a borbotones por su boca"
+            intervals [126]:
+                xmin = 234.38
+                xmax = 235.72
+                text = " La gente de posibles estaba allá lejos"
+            intervals [127]:
+                xmin = 236.51
+                xmax = 237.43
+                text = " en sus Biarritzes y San Sebastianes"
+            intervals [128]:
+                xmin = 238.68
+                xmax = 239.71
+                text = " remojándose los pellejos"
+            intervals [129]:
+                xmin = 240.52
+                xmax = 240.81
+                text = " mientras él se tostaba en su cocherón"
+            intervals [130]:
+                xmin = 241.69
+                xmax = 242.76
+                text = "Lástima que el mar no se saliera"
+            intervals [131]:
+                xmin = 243.29
+                xmax = 243.53
+                text = " para tragarse tanto parásito"
+            intervals [132]:
+                xmin = 244.51
+                xmax = 244.57
+                text = " No quedaba gente en Madrid y escaseaba el trabajo"
+            intervals [133]:
+                xmin = 246.6
+                xmax = 246.68
+                text = " Dos días sin enganchar el carro"
+            intervals [134]:
+                xmin = 247.26
+                xmax = 247.6
+                text = " Si esto seguía así"
+            intervals [135]:
+                xmin = 248.61
+                xmax = 250.4
+                text = " tendría que comerse con patatas a sus reverendos"
+            intervals [136]:
+                xmin = 251.09
+                xmax = 252.59
+                text = " a no ser que echase mano a sus aves de corral"
+            intervals [137]:
+                xmin = 253.31
+                xmax = 253.36
+                text = " que era el nombre que daba a la Loca y a sus hijuelos"
+            intervals [138]:
+                xmin = 254.16
+                xmax = 254.93
+                text = " Fue en agosto"
+            intervals [139]:
+                xmin = 255.78
+                xmax = 258.0
+                text = " cuando a las once de la mañana tuvo que bajar a la estación del Mediodía para cargar unos muebles"
+            intervals [140]:
+                xmin = 259.85
+                xmax = 260.75
+                text = "Vaya una hora"
+            intervals [141]:
+                xmin = 261.35
+                xmax = 262.07
+                text = " Ni una nube en el cielo y un sol que sacaba chispas de las paredes y parecía reblandecer las losas de la aceras"
+            intervals [142]:
+                xmin = 263.04
+                xmax = 263.69
+                text = "Arre"
+            intervals [143]:
+                xmin = 264.8
+                xmax = 265.09
+                text = " valientes"
+            intervals [144]:
+                xmin = 265.61
+                xmax = 265.96
+                text = "… "
+            intervals [145]:
+                xmin = 266.57
+                xmax = 267.67
+                text = "Qué quieres tú"
+            intervals [146]:
+                xmin = 268.87
+                xmax = 270.13
+                text = " Loca"
+            intervals [147]:
+                xmin = 271.1
+                xmax = 271.57
+                text = " Y mientras arreaba sus machos"
+            intervals [148]:
+                xmin = 272.23
+                xmax = 272.35
+                text = " alejaba con el pie a la blanca gata"
+            intervals [149]:
+                xmin = 273.47
+                xmax = 275.44
+                text = " que maullaba dolorosamente"
+            intervals [150]:
+                xmin = 278.0
+                xmax = 281.23
+                text = " intentando meterse bajo las ruedas"
+            intervals [151]:
+                xmin = 281.85
+                xmax = 283.5
+                text = "Pero "
+            intervals [152]:
+                xmin = 284.37
+                xmax = 286.61
+                text = "qué quieres"
+            intervals [153]:
+                xmin = 287.27
+                xmax = 288.38
+                text = " maldita"
+            intervals [154]:
+                xmin = 289.25
+                xmax = 290.86
+                text = "… "
+            intervals [155]:
+                xmin = 291.9
+                xmax = 292.23
+                text = "Atrás"
+            intervals [156]:
+                xmin = 292.97
+                xmax = 293.31
+                text = " que te va a reventar una rueda"
+            intervals [157]:
+                xmin = 295.12
+                xmax = 296.71
+                text = " Y como quien hace una obra de caridad"
+            intervals [158]:
+                xmin = 297.95
+                xmax = 298.01
+                text = " largó al animal tan furioso latigazo"
+            intervals [159]:
+                xmin = 298.9
+                xmax = 300.02
+                text = " que lo dejó arrollado en un rincón"
+            intervals [160]:
+                xmin = 300.59
+                xmax = 300.78
+                text = " gimiendo de dolor"
+            intervals [161]:
+                xmin = 301.77
+                xmax = 302.5
+                text = " Buena hora para trabajar"
+            intervals [162]:
+                xmin = 303.04
+                xmax = 304.45
+                text = " No podía mirarse a parte alguna sin sentir irritación en los ojos"
+            intervals [163]:
+                xmin = 305.18
+                xmax = 307.2
+                text = " la tierra quemaba"
+            intervals [164]:
+                xmin = 309.46
+                xmax = 310.42
+                text = " el viento ardía"
+            intervals [165]:
+                xmin = 311.91
+                xmax = 313.73
+                text = " como si todo Madrid estuviese en llamas"
+            intervals [166]:
+                xmin = 314.68
+                xmax = 314.99
+                text = " el polvo parecía incendiarse"
+            intervals [167]:
+                xmin = 315.84
+                xmax = 315.87
+                text = " paralizábanse lengua y garganta"
+            intervals [168]:
+                xmin = 317.44
+                xmax = 317.52
+                text = " y las moscas"
+            intervals [169]:
+                xmin = 318.52
+                xmax = 320.35
+                text = " locas de calor"
+            intervals [170]:
+                xmin = 321.62
+                xmax = 323.82
+                text = " revoloteaban por los labios del carretero o se pegaban al jadeante hocico de los animales en busca de frescura"
+            intervals [171]:
+                xmin = 324.54
+                xmax = 327.38
+                text = " El ogro estaba cada vez más irritado"
+            intervals [172]:
+                xmin = 327.91
+                xmax = 328.52
+                text = " conforme descendía la ardorosa cuesta"
+            intervals [173]:
+                xmin = 330.38
+                xmax = 333.89
+                text = " y mientras mascullaba sus palabrotas"
+            intervals [174]:
+                xmin = 334.61
+                xmax = 335.32
+                text = " animaba con el látigo a dos machos"
+            intervals [175]:
+                xmin = 335.94
+                xmax = 336.15
+                text = " que caminaban desfallecidos"
+            intervals [176]:
+                xmin = 336.87
+                xmax = 336.94
+                text = " con la cabeza baja"
+            intervals [177]:
+                xmin = 337.45
+                xmax = 338.07
+                text = " casi rozando el suelo"
+            intervals [178]:
+                xmin = 338.58
+                xmax = 339.8
+                text = "Maldito sol"
+            intervals [179]:
+                xmin = 340.41
+                xmax = 340.52
+                text = " Era el pillo mayor de la creación"
+            intervals [180]:
+                xmin = 341.17
+                xmax = 343.22
+                text = " Este si que merecía le arreglasen las cuentas el día de la gorda como enemigo de los pobres"
+            intervals [181]:
+                xmin = 343.77
+                xmax = 343.79
+                text = " En invierno mucho ocultarse"
+            intervals [182]:
+                xmin = 344.73
+                xmax = 345.45
+                text = " para que el jornalero tenga los miembros torpes y no sepa dónde están sus manos"
+            intervals [183]:
+                xmin = 346.1
+                xmax = 346.12
+                text = " para que caiga del andamio o le pille el carro bajo las ruedas"
+            intervals [184]:
+                xmin = 347.4
+                xmax = 347.43
+                text = " Y ahora"
+            intervals [185]:
+                xmin = 348.23
+                xmax = 349.59
+                text = " en verano"
+            intervals [186]:
+                xmin = 350.23
+                xmax = 351.23
+                text = "eche usted rumbo"
+            intervals [187]:
+                xmin = 351.82
+                xmax = 352.04
+                text = " Fuego y más fuego"
+            intervals [188]:
+                xmin = 354.14
+                xmax = 355.3
+                text = " para que los pobres que se quedan en Madrid mueran como pollos en asador"
+            intervals [189]:
+                xmin = 356.15
+                xmax = 357.29
+                text = "Hipocritón"
+            intervals [190]:
+                xmin = 357.86
+                xmax = 358.4
+                text = " De seguro que no molestaba tanto a los que se divertían en las playas elegantes de moda"
+            intervals [191]:
+                xmin = 358.91
+                xmax = 359.0
+                text = " Y recordando a tres segadores andaluces muertos de asfixia"
+            intervals [192]:
+                xmin = 359.75
+                xmax = 361.03
+                text = " según había leído en uno de los papeles"
+            intervals [193]:
+                xmin = 361.85
+                xmax = 362.38
+                text = " intentaba en vano mirar de frente al sol y lo amenazaba con el puño cerrado"
+            intervals [194]:
+                xmin = 363.1
+                xmax = 364.14
+                text = "Asesino"
+            intervals [195]:
+                xmin = 364.97
+                xmax = 365.08
+                text = " … "
+            intervals [196]:
+                xmin = 366.0
+                xmax = 366.88
+                text = "Reaccionario"
+            intervals [197]:
+                xmin = 369.27
+                xmax = 371.85
+                text = "Lástima que no estés más bajo el día de la gorda"
+            intervals [198]:
+                xmin = 372.6
+                xmax = 374.59
+                text = " Cuando llegó al depósito de mercancías"
+            intervals [199]:
+                xmin = 375.41
+                xmax = 376.34
+                text = " detúvose un momento a descansar"
+            intervals [200]:
+                xmin = 377.83
+                xmax = 379.35
+                text = " Se quitó la gorra"
+            intervals [201]:
+                xmin = 380.67
+                xmax = 381.53
+                text = " enjugose el sudor con las manos"
+            intervals [202]:
+                xmin = 382.05
+                xmax = 384.05
+                text = " y puesto a la sombra contempló todo el camino que acababa de atravesar"
+            intervals [203]:
+                xmin = 385.58
+                xmax = 386.06
+                text = " Aquello ardía"
+            intervals [204]:
+                xmin = 387.56
+                xmax = 388.35
+                text = " Y pensaba con terror en el regreso"
+            intervals [205]:
+                xmin = 389.59
+                xmax = 391.29
+                text = " cuesta arriba"
+            intervals [206]:
+                xmin = 392.22
+                xmax = 393.07
+                text = " jadeante"
+            intervals [207]:
+                xmin = 393.72
+                xmax = 393.79
+                text = " con el sol a plomo sobre la cabeza y arreando sin parar a las caballerías"
+            intervals [208]:
+                xmin = 394.31
+                xmax = 396.69
+                text = " abrumadas por el calor"
+            intervals [209]:
+                xmin = 397.31
+                xmax = 399.88
+                text = " No era grande la distancia de allí a su casa"
+            intervals [210]:
+                xmin = 400.62
+                xmax = 402.36
+                text = " pero aunque le dijeran que en la cochera le esperaba el mismo nuncio"
+            intervals [211]:
+                xmin = 402.91
+                xmax = 402.93
+                text = " no iba"
+            intervals [212]:
+                xmin = 404.3
+                xmax = 405.41
+                text = "Qué había de ir"
+            intervals [213]:
+                xmin = 406.0
+                xmax = 406.05
+                text = "… Aun haciéndole bueno que con tal viajecito venía la gorda"
+            intervals [214]:
+                xmin = 406.64
+                xmax = 407.41
+                text = " lo pensaría antes de decidirse a subir la cuesta con aquella calor"
+            intervals [215]:
+                xmin = 408.0
+                xmax = 410.83
+                text = "Vaya"
+            intervals [216]:
+                xmin = 412.5
+                xmax = 413.22
+                text = " Menos historias"
+            intervals [217]:
+                xmin = 414.11
+                xmax = 414.78
+                text = " y a trabajar"
+            intervals [218]:
+                xmin = 415.95
+                xmax = 418.27
+                text = " Y levantó la tapa del gran capazo de esparto atado a los varrales del carro"
+            intervals [219]:
+                xmin = 418.9
+                xmax = 420.54
+                text = " buscando su provisión de cuerdas"
+            intervals [220]:
+                xmin = 421.08
+                xmax = 421.18
+                text = " Pero su mano tropezó con unas cosas sedosas que se removían y sintió al mismo tiempo débiles arañazos en su callosa piel"
+            intervals [221]:
+                xmin = 422.95
+                xmax = 423.72
+                text = " Los dedos gruesos hicieron presa y salió a luz"
+            intervals [222]:
+                xmin = 424.93
+                xmax = 426.07
+                text = " cogido del pescuezo"
+            intervals [223]:
+                xmin = 427.33
+                xmax = 430.77
+                text = " un cachorro blanco"
+            intervals [224]:
+                xmin = 431.45
+                xmax = 432.43
+                text = " con las patas extendidas"
+            intervals [225]:
+                xmin = 433.75
+                xmax = 435.22
+                text = " el rabo enroscado por los estremecimientos del miedo y lanzando su triste ñau"
+            intervals [226]:
+                xmin = 436.62
+                xmax = 438.13
+                text = " ñau"
+            intervals [227]:
+                xmin = 438.68
+                xmax = 439.03
+                text = " como quien pide misericordia"
+            intervals [228]:
+                xmin = 439.63
+                xmax = 440.46
+                text = " La Loca"
+            intervals [229]:
+                xmin = 441.91
+                xmax = 443.63
+                text = " no contenta en convertir su patio en corral"
+            intervals [230]:
+                xmin = 444.18
+                xmax = 446.42
+                text = " se apoderaba del carro y metía la prole en el capazo para resguardarla del sol"
+            intervals [231]:
+                xmin = 447.17
+                xmax = 448.15
+                text = "No era aquello abusar de la paciencia de un hombre"
+            intervals [232]:
+                xmin = 448.75
+                xmax = 448.86
+                text = "… Se acabó todo"
+            intervals [233]:
+                xmin = 449.54
+                xmax = 449.93
+                text = " Y abarcando en sus manazas a los cinco gatitos los arrojó en montón a sus pies"
+            intervals [234]:
+                xmin = 451.45
+                xmax = 452.58
+                text = " Iba a aplastarlos a patadas"
+            intervals [235]:
+                xmin = 453.66
+                xmax = 455.19
+                text = " lo juraba"
+            intervals [236]:
+                xmin = 456.12
+                xmax = 456.13
+                text = "votó a esto y lo de más allá"
+            intervals [237]:
+                xmin = 456.83
+                xmax = 457.15
+                text = " Iba a hacer una tortilla de gatos"
+            intervals [238]:
+                xmin = 458.8
+                xmax = 459.48
+                text = " Y mientras soltaba sus juramentos sacaba de la faja su pañuelo de hierbas"
+            intervals [239]:
+                xmin = 460.37
+                xmax = 460.8
+                text = " lo extendía"
+            intervals [240]:
+                xmin = 461.64
+                xmax = 462.51
+                text = " colocaba sobre él aquel montón de pelos y maullidos"
+            intervals [241]:
+                xmin = 463.64
+                xmax = 463.78
+                text = " y"
+            intervals [242]:
+                xmin = 464.88
+                xmax = 465.32
+                text = " atando las cuatro puntas"
+            intervals [243]:
+                xmin = 466.26
+                xmax = 466.36
+                text = " echó a andar con el envoltorio"
+            intervals [244]:
+                xmin = 467.16
+                xmax = 470.16
+                text = " abandonando el carro"
+            intervals [245]:
+                xmin = 470.83
+                xmax = 471.73
+                text = " Se lanzó a correr por aquel camino de fuego"
+            intervals [246]:
+                xmin = 472.36
+                xmax = 473.86
+                text = " aguantando el sol con la cabeza baja"
+            intervals [247]:
+                xmin = 474.41
+                xmax = 476.96
+                text = " jadeante y echándose a pecho la cuesta que minutos antes no querría subir"
+            intervals [248]:
+                xmin = 477.53
+                xmax = 478.08
+                text = " aunque se lo mandase el nuncio"
+            intervals [249]:
+                xmin = 480.48
+                xmax = 481.7
+                text = " Algo terrible preparaba"
+            intervals [250]:
+                xmin = 482.41
+                xmax = 485.0
+                text = " La voluptuosidad del mal"
+            intervals [251]:
+                xmin = 486.24
+                xmax = 487.95
+                text = " era"
+            intervals [252]:
+                xmin = 488.74
+                xmax = 490.37
+                text = " sin duda"
+            intervals [253]:
+                xmin = 491.16
+                xmax = 491.97
+                text = " lo que le daba fuerzas"
+            intervals [254]:
+                xmin = 492.59
+                xmax = 492.63
+                text = " Tal vez buscaba subir alto"
+            intervals [255]:
+                xmin = 493.14
+                xmax = 494.02
+                text = " muy alto"
+            intervals [256]:
+                xmin = 494.56
+                xmax = 495.26
+                text = " para desde la cresta de un desmonte aplastar su carga de gatos"
+            intervals [257]:
+                xmin = 497.05
+                xmax = 499.97
+                text = " Pero se dirigió a su casa"
+            intervals [258]:
+                xmin = 501.04
+                xmax = 502.71
+                text = " y en la puerta le recibió la Loca con cabriolas de gozo"
+            intervals [259]:
+                xmin = 503.23
+                xmax = 504.42
+                text = " oliscando el hinchado pañuelo"
+            intervals [260]:
+                xmin = 505.58
+                xmax = 506.07
+                text = " que se estremecía con palpitaciones de vida"
+            intervals [261]:
+                xmin = 507.23
+                xmax = 507.97
+                text = "Toma"
+            intervals [262]:
+                xmin = 508.48
+                xmax = 511.66
+                text = " perdida "
+            intervals [263]:
+                xmin = 512.59
+                xmax = 515.77
+                text = "dijo"
+            intervals [264]:
+                xmin = 516.46
+                xmax = 517.76
+                text = " jadeante por el calor y el cansancio de la carrera"
+            intervals [265]:
+                xmin = 518.96
+                xmax = 519.4
+                text = " aquí tienes tus granujas"
+            intervals [266]:
+                xmin = 520.01
+                xmax = 520.17
+                text = " Por esta vez"
+            intervals [267]:
+                xmin = 520.77
+                xmax = 521.5
+                text = " pase"
+            intervals [268]:
+                xmin = 522.4
+                xmax = 523.46
+                text = " te lo perdono"
+            intervals [269]:
+                xmin = 524.03
+                xmax = 525.69
+                text = " porque eres un animal y no sabes cómo las gasta Pepe el carretero"
+            intervals [270]:
+                xmin = 526.49
+                xmax = 527.44
+                text = " Pero otra vez…"
+            intervals [271]:
+                xmin = 528.02
+                xmax = 528.1
+                text = "hum"
+            intervals [272]:
+                xmin = 529.22
+                xmax = 529.71
+                text = " a la otra…"
+            intervals [273]:
+                xmin = 530.4
+                xmax = 532.25
+                text = " Y no pudiendo decir más palabras sin intercalar juramentos"
+            intervals [274]:
+                xmin = 532.9
+                xmax = 533.77
+                text = " el ogro volvió la espalda y fue corriendo en busca de su carro"
+            intervals [275]:
+                xmin = 535.35
+                xmax = 537.29
+                text = " otra vez cuesta abajo"
+            intervals [276]:
+                xmin = 537.83
+                xmax = 538.31
+                text = " echando demonios contra aquel sol enemigo de los pobres"
+            intervals [277]:
+                xmin = 538.86
+                xmax = 538.92
+                text = " Pero aunque el calor aumentaba"
+            intervals [278]:
+                xmin = 539.45
+                xmax = 539.49
+                text = " parecíale al pobre ogro que algo le había refrescado interiormente"
+            intervals [279]:
+                xmin = 542.16
+                xmax = 544.34
+                text = " FIN"

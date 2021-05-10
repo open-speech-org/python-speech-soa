@@ -1,0 +1,1390 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 772.6
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_45_1"
+        xmin = 0
+        xmax = 772.6
+        intervals: size = 344
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.9
+                text = "Si "
+            intervals [2]:
+                xmin = 3.83
+                xmax = 4.0
+                text = "dijo el amigo Pérez a todos sus contertulios de café"
+            intervals [3]:
+                xmin = 4.82
+                xmax = 5.93
+                text = " en este periódico acabo de leer la noticia de la muerte de un amigo"
+            intervals [4]:
+                xmin = 8.38
+                xmax = 8.72
+                text = " Sólo lo vi una vez"
+            intervals [5]:
+                xmin = 9.47
+                xmax = 10.09
+                text = " y"
+            intervals [6]:
+                xmin = 10.9
+                xmax = 10.93
+                text = " sin embargo"
+            intervals [7]:
+                xmin = 12.76
+                xmax = 13.31
+                text = " lo he recordado en muchas ocasiones"
+            intervals [8]:
+                xmin = 14.46
+                xmax = 14.63
+                text = "Vaya un amigo"
+            intervals [9]:
+                xmin = 15.26
+                xmax = 16.37
+                text = " Lo conocí una noche viniendo a Madrid en el tren correo de Valencia"
+            intervals [10]:
+                xmin = 17.81
+                xmax = 18.22
+                text = " Iba yo en el departamento de primera"
+            intervals [11]:
+                xmin = 19.47
+                xmax = 20.17
+                text = " En Albacete bajo el único viajero que me acompañaba"
+            intervals [12]:
+                xmin = 20.85
+                xmax = 22.62
+                text = " y al verme solo"
+            intervals [13]:
+                xmin = 24.03
+                xmax = 25.03
+                text = " como había dormido mal la noche anterior"
+            intervals [14]:
+                xmin = 26.96
+                xmax = 27.35
+                text = " me estremecí voluptuosamente contemplando los almohadones grises"
+            intervals [15]:
+                xmin = 27.97
+                xmax = 29.19
+                text = "Todos para mí"
+            intervals [16]:
+                xmin = 30.56
+                xmax = 30.89
+                text = "Podía extenderme con libertad"
+            intervals [17]:
+                xmin = 32.15
+                xmax = 33.0
+                text = "Flojo sueño echar hasta Alcázar de San Juan"
+            intervals [18]:
+                xmin = 33.73
+                xmax = 33.77
+                text = " Corrí el velo verde de la lámpara y el departamento quedó en deliciosa penumbra"
+            intervals [19]:
+                xmin = 34.45
+                xmax = 35.5
+                text = " Envuelto en mi manta"
+            intervals [20]:
+                xmin = 36.58
+                xmax = 37.55
+                text = " me tendí de espaldas"
+            intervals [21]:
+                xmin = 38.98
+                xmax = 39.15
+                text = " estirando mis piernas cuanto pude con la deliciosa seguridad de no molestar a nadie"
+            intervals [22]:
+                xmin = 40.48
+                xmax = 41.24
+                text = " El tren corría por las llanuras de la Mancha"
+            intervals [23]:
+                xmin = 42.0
+                xmax = 42.03
+                text = " áridas y desoladas"
+            intervals [24]:
+                xmin = 42.96
+                xmax = 43.16
+                text = " Las estaciones estaban a largas distancias"
+            intervals [25]:
+                xmin = 45.96
+                xmax = 47.47
+                text = " la locomotora extremaba su velocidad"
+            intervals [26]:
+                xmin = 48.19
+                xmax = 49.44
+                text = " y mi coche gemía y temblaba como una vieja diligencia"
+            intervals [27]:
+                xmin = 51.48
+                xmax = 52.08
+                text = " Balanceándome sobre la espalda"
+            intervals [28]:
+                xmin = 52.91
+                xmax = 53.48
+                text = " impulsado por el terrible traqueteo"
+            intervals [29]:
+                xmin = 54.55
+                xmax = 55.54
+                text = " las franjas de los almohadones arremolinábanse"
+            intervals [30]:
+                xmin = 56.96
+                xmax = 58.21
+                text = " saltaban las maletas sobre las comisas de red"
+            intervals [31]:
+                xmin = 58.98
+                xmax = 59.21
+                text = " temblaban los cristales en sus alvéolos de las ventanillas"
+            intervals [32]:
+                xmin = 61.12
+                xmax = 63.08
+                text = " y un espantoso rechinar de hierro viejo venia de abajo"
+            intervals [33]:
+                xmin = 63.76
+                xmax = 64.09
+                text = " Las ruedas y frenos gruñían"
+            intervals [34]:
+                xmin = 65.52
+                xmax = 66.11
+                text = " pero conforme se cerraban mis ojos"
+            intervals [35]:
+                xmin = 66.89
+                xmax = 67.49
+                text = " encontrábame yo sumido en nuevas modulaciones"
+            intervals [36]:
+                xmin = 69.07
+                xmax = 69.77
+                text = " y tan pronto me creía mecido por las olas como me imaginaba que había retrocedido hasta la niñez y me arrullaba una nodriza de bronca voz"
+            intervals [37]:
+                xmin = 70.48
+                xmax = 71.28
+                text = " Pensando tales tonterías"
+            intervals [38]:
+                xmin = 72.47
+                xmax = 72.53
+                text = " me dormí"
+            intervals [39]:
+                xmin = 73.84
+                xmax = 73.97
+                text = " oyendo siempre el mismo estrépito y sin que el tren se detuviera"
+            intervals [40]:
+                xmin = 76.68
+                xmax = 77.66
+                text = " Una impresión de frescura me despertó"
+            intervals [41]:
+                xmin = 79.39
+                xmax = 80.44
+                text = " Sentí en la cara como un golpe de agua fría"
+            intervals [42]:
+                xmin = 81.98
+                xmax = 83.21
+                text = " Al abrir los ojos vi el departamento solo"
+            intervals [43]:
+                xmin = 83.87
+                xmax = 84.54
+                text = " la portezuela de enfrente estaba cerrada"
+            intervals [44]:
+                xmin = 85.79
+                xmax = 86.4
+                text = " Pero sentí de nuevo el soplo frío de la noche"
+            intervals [45]:
+                xmin = 87.1
+                xmax = 87.11
+                text = " aumentado por el huracán que levantaba el tren en su rápida marcha"
+            intervals [46]:
+                xmin = 88.57
+                xmax = 89.58
+                text = " y al incorporarme"
+            intervals [47]:
+                xmin = 90.43
+                xmax = 90.75
+                text = " vi la otra portezuela"
+            intervals [48]:
+                xmin = 92.55
+                xmax = 92.68
+                text = " la inmediata a mi"
+            intervals [49]:
+                xmin = 93.24
+                xmax = 94.51
+                text = " completamente abierta"
+            intervals [50]:
+                xmin = 97.3
+                xmax = 98.21
+                text = " con un hombre sentado al borde de la plataforma"
+            intervals [51]:
+                xmin = 99.77
+                xmax = 101.29
+                text = " los pies fuera"
+            intervals [52]:
+                xmin = 102.19
+                xmax = 103.05
+                text = " en el estribo encogido"
+            intervals [53]:
+                xmin = 104.29
+                xmax = 104.83
+                text = " con la cabeza vuelta hacia mi y unos ojos que brillaban mucho en su cara oscura"
+            intervals [54]:
+                xmin = 106.3
+                xmax = 107.29
+                text = " La sorpresa no me permitía pensar"
+            intervals [55]:
+                xmin = 107.83
+                xmax = 108.25
+                text = " Mis ideas estaban aún embrolladas por el sueño"
+            intervals [56]:
+                xmin = 109.14
+                xmax = 109.31
+                text = " En el primer momento sentí cierto temor supersticioso"
+            intervals [57]:
+                xmin = 109.85
+                xmax = 110.01
+                text = " Aquel hombre"
+            intervals [58]:
+                xmin = 112.55
+                xmax = 112.63
+                text = " que se aparecía estando el tren en marcha"
+            intervals [59]:
+                xmin = 114.22
+                xmax = 114.23
+                text = " tenia algo de los fantasmas de mis cuentos de niño"
+            intervals [60]:
+                xmin = 115.98
+                xmax = 117.13
+                text = " Pero inmediatamente recordé los asaltos en las vías férreas"
+            intervals [61]:
+                xmin = 118.62
+                xmax = 119.32
+                text = " los robos de los trenes"
+            intervals [62]:
+                xmin = 120.02
+                xmax = 120.05
+                text = " los asesinatos en un vagón"
+            intervals [63]:
+                xmin = 120.96
+                xmax = 121.4
+                text = " todos los crímenes de esta clase que había leído"
+            intervals [64]:
+                xmin = 123.81
+                xmax = 124.85
+                text = " y pensé que estaba solo"
+            intervals [65]:
+                xmin = 126.98
+                xmax = 128.71
+                text = " sin un mal timbre para avisar a los que dormían al otro lado de los tabiques de madera"
+            intervals [66]:
+                xmin = 129.84
+                xmax = 130.44
+                text = " Aquel hombre era seguramente un ladrón"
+            intervals [67]:
+                xmin = 131.34
+                xmax = 131.75
+                text = " El instinto de defensa"
+            intervals [68]:
+                xmin = 133.3
+                xmax = 135.11
+                text = " o"
+            intervals [69]:
+                xmin = 136.22
+                xmax = 138.02
+                text = " más bien"
+            intervals [70]:
+                xmin = 139.1
+                xmax = 140.3
+                text = " el miedo"
+            intervals [71]:
+                xmin = 140.99
+                xmax = 142.67
+                text = " me dió cierta ferocidad"
+            intervals [72]:
+                xmin = 144.06
+                xmax = 144.71
+                text = " Me arrojé sobre el desconocido"
+            intervals [73]:
+                xmin = 145.44
+                xmax = 145.98
+                text = " empujándolo con codos y rodillas"
+            intervals [74]:
+                xmin = 147.11
+                xmax = 147.61
+                text = " perdió el equilibrio"
+            intervals [75]:
+                xmin = 148.3
+                xmax = 148.69
+                text = " se agarró desesperadamente al borde de la portezuela"
+            intervals [76]:
+                xmin = 149.2
+                xmax = 149.21
+                text = " y yo seguí empujándole"
+            intervals [77]:
+                xmin = 150.18
+                xmax = 152.44
+                text = " pugnando por arrancar sus crispadas manos de aquel asidero para arrojarlo a la vía"
+            intervals [78]:
+                xmin = 153.69
+                xmax = 154.92
+                text = " Todas las ventajas estaban de mi parte"
+            intervals [79]:
+                xmin = 156.08
+                xmax = 156.09
+                text = "Por Dios"
+            intervals [80]:
+                xmin = 157.12
+                xmax = 158.22
+                text = " señorito"
+            intervals [81]:
+                xmin = 158.99
+                xmax = 160.88
+                text = "gimió con voz ahogada"
+            intervals [82]:
+                xmin = 162.69
+                xmax = 164.48
+                text = " Señorito"
+            intervals [83]:
+                xmin = 165.91
+                xmax = 166.14
+                text = " déjeme usted"
+            intervals [84]:
+                xmin = 166.85
+                xmax = 167.97
+                text = " Soy un hombre de bien"
+            intervals [85]:
+                xmin = 169.57
+                xmax = 170.27
+                text = " Y había tal expresión de humildad y angustia en sus palabras"
+            intervals [86]:
+                xmin = 171.04
+                xmax = 171.96
+                text = " que me sentí avergonzado de mi brutalidad y le solté"
+            intervals [87]:
+                xmin = 173.96
+                xmax = 174.28
+                text = " Se sentó otra vez"
+            intervals [88]:
+                xmin = 175.15
+                xmax = 176.97
+                text = " jadeante y tembloroso"
+            intervals [89]:
+                xmin = 177.83
+                xmax = 179.27
+                text = " en el hueco de la portezuela"
+            intervals [90]:
+                xmin = 181.73
+                xmax = 184.14
+                text = " mientras yo quedaba en pie"
+            intervals [91]:
+                xmin = 185.85
+                xmax = 186.82
+                text = " bajo la lámpara"
+            intervals [92]:
+                xmin = 187.66
+                xmax = 188.81
+                text = " cuyo velo descorrí"
+            intervals [93]:
+                xmin = 189.7
+                xmax = 191.25
+                text = " Entonces pude verlo"
+            intervals [94]:
+                xmin = 193.0
+                xmax = 193.03
+                text = " Era un campesino"
+            intervals [95]:
+                xmin = 193.55
+                xmax = 193.83
+                text = " pequeño y enjuto"
+            intervals [96]:
+                xmin = 195.05
+                xmax = 196.44
+                text = " un pobre diablo"
+            intervals [97]:
+                xmin = 197.24
+                xmax = 198.17
+                text = " con una zamarra remendada y mugrienta y pantalones de color claro"
+            intervals [98]:
+                xmin = 199.58
+                xmax = 199.92
+                text = " Su gorra negra casi se confundía con el tinte cobrizo y barnizado de su cara"
+            intervals [99]:
+                xmin = 200.53
+                xmax = 201.05
+                text = " en la que se destacaban los ojos"
+            intervals [100]:
+                xmin = 201.8
+                xmax = 201.9
+                text = " de mirada mansa"
+            intervals [101]:
+                xmin = 203.74
+                xmax = 204.17
+                text = " y una dentadura de rumiante"
+            intervals [102]:
+                xmin = 205.31
+                xmax = 205.37
+                text = " fuerte y amarillenta"
+            intervals [103]:
+                xmin = 208.21
+                xmax = 208.7
+                text = " que se descubría al contraerse los labios con sonrisa de estúpido agradecimiento"
+            intervals [104]:
+                xmin = 210.4
+                xmax = 210.41
+                text = " Me miraba como un perro a quien se ha salvado la vida"
+            intervals [105]:
+                xmin = 211.01
+                xmax = 211.05
+                text = " y"
+            intervals [106]:
+                xmin = 213.16
+                xmax = 213.2
+                text = " mientras tanto"
+            intervals [107]:
+                xmin = 214.49
+                xmax = 216.13
+                text = " sus oscuras manos buscaban y rebuscaban en la faja y los bolsillos"
+            intervals [108]:
+                xmin = 220.13
+                xmax = 220.92
+                text = " Esto casi me hizo arrepentirme de mi generosidad"
+            intervals [109]:
+                xmin = 221.53
+                xmax = 221.92
+                text = " y mientras el gañán buscaba"
+            intervals [110]:
+                xmin = 223.43
+                xmax = 224.11
+                text = " yo metía mano en el cinto y empujaba mi revólver"
+            intervals [111]:
+                xmin = 225.46
+                xmax = 226.17
+                text = "Si creía pillarme descuidado"
+            intervals [112]:
+                xmin = 226.76
+                xmax = 226.84
+                text = " Tiró él de su faja"
+            intervals [113]:
+                xmin = 229.37
+                xmax = 230.0
+                text = " sacando algo"
+            intervals [114]:
+                xmin = 231.56
+                xmax = 232.02
+                text = " y yo le imité"
+            intervals [115]:
+                xmin = 232.55
+                xmax = 233.51
+                text = " sacando de la funda medio revólver"
+            intervals [116]:
+                xmin = 234.11
+                xmax = 234.79
+                text = " Pero lo que él tenia en la mano era un cartoncito mugriento y acribillado"
+            intervals [117]:
+                xmin = 237.13
+                xmax = 237.53
+                text = " que me enseñó con satisfacción"
+            intervals [118]:
+                xmin = 239.7
+                xmax = 239.71
+                text = "Yo también llevo billete"
+            intervals [119]:
+                xmin = 240.65
+                xmax = 241.63
+                text = " señorito"
+            intervals [120]:
+                xmin = 245.33
+                xmax = 245.56
+                text = " Lo miré y no pude menos de echarme a reír"
+            intervals [121]:
+                xmin = 246.64
+                xmax = 246.89
+                text = "Pero "
+            intervals [122]:
+                xmin = 247.5
+                xmax = 247.52
+                text = "si es antiguo"
+            intervals [123]:
+                xmin = 248.47
+                xmax = 248.49
+                text = "le dije"
+            intervals [124]:
+                xmin = 250.36
+                xmax = 250.82
+                text = " Ya hace años que sirvió"
+            intervals [125]:
+                xmin = 251.85
+                xmax = 252.3
+                text = "Y con esto te crees autorizado para asaltar el tren y asustar a los viajeros"
+            intervals [126]:
+                xmin = 255.71
+                xmax = 255.77
+                text = " Al ver su burdo engaño descubierto"
+            intervals [127]:
+                xmin = 257.15
+                xmax = 257.47
+                text = " puso la cara triste"
+            intervals [128]:
+                xmin = 260.17
+                xmax = 260.38
+                text = " como si temiera que intentase yo arrojarlo otra vez a la vía"
+            intervals [129]:
+                xmin = 261.56
+                xmax = 261.61
+                text = " Sentí compasión y quise mostrarme bondadoso y alegre para ocultar los efectos de la sorpresa"
+            intervals [130]:
+                xmin = 262.89
+                xmax = 263.1
+                text = " que aún duraban en mi"
+            intervals [131]:
+                xmin = 265.27
+                xmax = 265.47
+                text = "Vamos"
+            intervals [132]:
+                xmin = 266.41
+                xmax = 266.48
+                text = " acaba de subir"
+            intervals [133]:
+                xmin = 267.28
+                xmax = 267.32
+                text = " Siéntate dentro y cierra la portezuela"
+            intervals [134]:
+                xmin = 268.55
+                xmax = 268.6
+                text = "No"
+            intervals [135]:
+                xmin = 270.4
+                xmax = 270.42
+                text = " señor "
+            intervals [136]:
+                xmin = 271.14
+                xmax = 271.71
+                text = "dijo con entereza"
+            intervals [137]:
+                xmin = 272.47
+                xmax = 272.5
+                text = " Yo no tengo derecho a ir dentro"
+            intervals [138]:
+                xmin = 273.48
+                xmax = 273.79
+                text = " como un señorito"
+            intervals [139]:
+                xmin = 275.59
+                xmax = 275.68
+                text = " Aquí "
+            intervals [140]:
+                xmin = 277.83
+                xmax = 278.9
+                text = " y gracias"
+            intervals [141]:
+                xmin = 279.72
+                xmax = 280.32
+                text = " pues no tengo dinero"
+            intervals [142]:
+                xmin = 281.25
+                xmax = 281.34
+                text = " Y con la firmeza de un testarudo se mantuvo en su puesto"
+            intervals [143]:
+                xmin = 283.15
+                xmax = 283.8
+                text = " Yo estaba sentado junto a él"
+            intervals [144]:
+                xmin = 285.13
+                xmax = 285.54
+                text = " mis rodillas"
+            intervals [145]:
+                xmin = 287.32
+                xmax = 287.39
+                text = " en su espalda"
+            intervals [146]:
+                xmin = 288.53
+                xmax = 289.46
+                text = " Entraba en el departamento un verdadero huracán"
+            intervals [147]:
+                xmin = 290.63
+                xmax = 290.67
+                text = " El tren corría a toda velocidad"
+            intervals [148]:
+                xmin = 292.9
+                xmax = 293.28
+                text = " sobre los yermos y terrosos desmontes resbalaba la mancha roja y oblicua de la abierta portezuela"
+            intervals [149]:
+                xmin = 293.91
+                xmax = 293.96
+                text = " y en ella"
+            intervals [150]:
+                xmin = 296.57
+                xmax = 297.52
+                text = " la sombra encogida del desconocido y la mía"
+            intervals [151]:
+                xmin = 298.33
+                xmax = 298.84
+                text = " Pasaban los postes telegráficos como pinceladas amarillas sobre el fondo negro de la noche"
+            intervals [152]:
+                xmin = 299.36
+                xmax = 299.88
+                text = " y en los ribazos brillaban un instante"
+            intervals [153]:
+                xmin = 301.83
+                xmax = 302.24
+                text = " cual enormes luciérnagas"
+            intervals [154]:
+                xmin = 304.36
+                xmax = 305.06
+                text = " los carbones encendidos que arrojaba la locomotora"
+            intervals [155]:
+                xmin = 305.68
+                xmax = 306.17
+                text = " El pobre hombre estaba intranquilo"
+            intervals [156]:
+                xmin = 306.95
+                xmax = 308.62
+                text = " como si extrañase que le dejara permanecer en aquel sitio"
+            intervals [157]:
+                xmin = 310.84
+                xmax = 310.85
+                text = " Le di un cigarro"
+            intervals [158]:
+                xmin = 311.76
+                xmax = 311.8
+                text = " y poco a poco fué hablando"
+            intervals [159]:
+                xmin = 316.54
+                xmax = 317.39
+                text = " Todos los sábados hacia el viaje del mismo modo"
+            intervals [160]:
+                xmin = 319.58
+                xmax = 319.65
+                text = " Esperaba el tren a su salida de Albacete"
+            intervals [161]:
+                xmin = 320.29
+                xmax = 321.01
+                text = " saltaba a un estribo"
+            intervals [162]:
+                xmin = 322.73
+                xmax = 323.25
+                text = " con riesgo de ser despedazado"
+            intervals [163]:
+                xmin = 324.57
+                xmax = 325.05
+                text = " corría por fuera todos los vagones"
+            intervals [164]:
+                xmin = 326.39
+                xmax = 329.63
+                text = " buscando un departamento vacío"
+            intervals [165]:
+                xmin = 331.89
+                xmax = 331.93
+                text = " y en las estaciones apeábase poco antes de la llegada"
+            intervals [166]:
+                xmin = 332.64
+                xmax = 332.66
+                text = " y volvía a subir después de la salida"
+            intervals [167]:
+                xmin = 334.15
+                xmax = 334.3
+                text = " siempre mudando de sitio para evitar la vigilancia de los empleados"
+            intervals [168]:
+                xmin = 335.95
+                xmax = 336.56
+                text = " unas malas almas enemigas de los pobres"
+            intervals [169]:
+                xmin = 337.23
+                xmax = 337.25
+                text = "Pero "
+            intervals [170]:
+                xmin = 339.57
+                xmax = 339.58
+                text = "adónde vas"
+            intervals [171]:
+                xmin = 341.08
+                xmax = 341.66
+                text = "le dije"
+            intervals [172]:
+                xmin = 342.74
+                xmax = 343.17
+                text = "Por qué haces este viaje"
+            intervals [173]:
+                xmin = 346.77
+                xmax = 346.88
+                text = " exponiéndote a morir despedazado"
+            intervals [174]:
+                xmin = 347.44
+                xmax = 347.56
+                text = " Iba a pasar el domingo con su familia"
+            intervals [175]:
+                xmin = 348.77
+                xmax = 349.2
+                text = "Cosas de pobre"
+            intervals [176]:
+                xmin = 349.73
+                xmax = 349.82
+                text = " Él trabajaba algo en Albacete y su mujer servia en un pueblo"
+            intervals [177]:
+                xmin = 351.17
+                xmax = 351.54
+                text = " El hambre los había separado"
+            intervals [178]:
+                xmin = 352.96
+                xmax = 354.05
+                text = " Al principio"
+            intervals [179]:
+                xmin = 355.11
+                xmax = 355.16
+                text = " hacia el viaje a pie"
+            intervals [180]:
+                xmin = 355.77
+                xmax = 355.86
+                text = " toda una noche de marcha"
+            intervals [181]:
+                xmin = 356.42
+                xmax = 356.69
+                text = " y cuando llegaba por la mañana"
+            intervals [182]:
+                xmin = 358.7
+                xmax = 358.73
+                text = " caía rendido"
+            intervals [183]:
+                xmin = 359.33
+                xmax = 359.35
+                text = " sin ganas de hablar con su mujer ni de jugar con los chicos"
+            intervals [184]:
+                xmin = 360.05
+                xmax = 360.19
+                text = " Pero ya se había despabilado"
+            intervals [185]:
+                xmin = 363.04
+                xmax = 363.95
+                text = " ya no tenia miedo"
+            intervals [186]:
+                xmin = 364.87
+                xmax = 364.89
+                text = " y hacia el viaje tan ricamente en el tren"
+            intervals [187]:
+                xmin = 366.61
+                xmax = 367.11
+                text = " Ver a sus hijos le daba fuerzas para trabajar más toda la semana"
+            intervals [188]:
+                xmin = 367.76
+                xmax = 368.21
+                text = " Tenia tres"
+            intervals [189]:
+                xmin = 369.51
+                xmax = 370.55
+                text = " El pequeño era así"
+            intervals [190]:
+                xmin = 371.77
+                xmax = 372.24
+                text = " no levantaba dos palmos del suelo"
+            intervals [191]:
+                xmin = 374.2
+                xmax = 375.34
+                text = " y"
+            intervals [192]:
+                xmin = 376.05
+                xmax = 377.02
+                text = " sin embargo"
+            intervals [193]:
+                xmin = 379.02
+                xmax = 379.94
+                text = " le reconocía"
+            intervals [194]:
+                xmin = 383.02
+                xmax = 384.03
+                text = " y"
+            intervals [195]:
+                xmin = 384.98
+                xmax = 386.05
+                text = " al verle entrar tendiale los brazos al cuello"
+            intervals [196]:
+                xmin = 388.9
+                xmax = 388.98
+                text = "Pero "
+            intervals [197]:
+                xmin = 389.96
+                xmax = 390.57
+                text = "tú "
+            intervals [198]:
+                xmin = 391.29
+                xmax = 391.57
+                text = "le dije"
+            intervals [199]:
+                xmin = 393.11
+                xmax = 393.3
+                text = " no piensas que en cualquiera de estos viajes tus hijos van a quedarse sin padre"
+            intervals [200]:
+                xmin = 393.99
+                xmax = 394.61
+                text = " Él sonreía con confianza"
+            intervals [201]:
+                xmin = 396.17
+                xmax = 396.86
+                text = " Entendía muy bien aquel negocio"
+            intervals [202]:
+                xmin = 398.5
+                xmax = 398.98
+                text = " No le asustaba el tren cuando llegaba como caballo desbocado"
+            intervals [203]:
+                xmin = 399.54
+                xmax = 399.76
+                text = " bufando y echando chispas"
+            intervals [204]:
+                xmin = 402.42
+                xmax = 402.53
+                text = " era ágil y sereno"
+            intervals [205]:
+                xmin = 403.34
+                xmax = 403.66
+                text = " un salto"
+            intervals [206]:
+                xmin = 405.61
+                xmax = 406.22
+                text = " y arriba"
+            intervals [207]:
+                xmin = 406.87
+                xmax = 406.92
+                text = " y en cuanto a bajar"
+            intervals [208]:
+                xmin = 409.06
+                xmax = 409.52
+                text = " podría darse algún coscorrón contra los desmontes"
+            intervals [209]:
+                xmin = 410.08
+                xmax = 410.76
+                text = " pero lo importante era no caer bajo las ruedas"
+            intervals [210]:
+                xmin = 411.9
+                xmax = 412.26
+                text = " No le asustaba el tren"
+            intervals [211]:
+                xmin = 413.52
+                xmax = 413.99
+                text = " sino los que iban dentro"
+            intervals [212]:
+                xmin = 415.8
+                xmax = 418.04
+                text = " Buscaba los coches de primera porque en ellos encontraba departamentos vacios"
+            intervals [213]:
+                xmin = 419.83
+                xmax = 419.84
+                text = "Qué de aventuras"
+            intervals [214]:
+                xmin = 420.37
+                xmax = 420.42
+                text = " Una vez abrió"
+            intervals [215]:
+                xmin = 420.99
+                xmax = 422.09
+                text = " sin saberlo"
+            intervals [216]:
+                xmin = 422.67
+                xmax = 422.74
+                text = " el reservado de señoras"
+            intervals [217]:
+                xmin = 423.42
+                xmax = 423.74
+                text = " Dos monjas que iban dentro gritaron"
+            intervals [218]:
+                xmin = 425.86
+                xmax = 426.39
+                text = "Ladrones"
+            intervals [219]:
+                xmin = 427.08
+                xmax = 427.44
+                text = " y él"
+            intervals [220]:
+                xmin = 428.59
+                xmax = 428.63
+                text = " asustado"
+            intervals [221]:
+                xmin = 429.68
+                xmax = 430.39
+                text = " se arrojó del tren y tuvo que hacer a pie el resto del camino"
+            intervals [222]:
+                xmin = 432.74
+                xmax = 433.17
+                text = " Dos veces había estado próximo"
+            intervals [223]:
+                xmin = 434.51
+                xmax = 434.73
+                text = " como aquella noche"
+            intervals [224]:
+                xmin = 435.26
+                xmax = 435.33
+                text = " a ser arrojado a la vía por los que despertaban sobresaltados con su presencia"
+            intervals [225]:
+                xmin = 436.07
+                xmax = 436.08
+                text = " y buscando en otra ocasión un departamento oscuro"
+            intervals [226]:
+                xmin = 436.96
+                xmax = 437.0
+                text = " tropezó con un viajero que"
+            intervals [227]:
+                xmin = 438.42
+                xmax = 438.65
+                text = " sin decir palabra"
+            intervals [228]:
+                xmin = 439.28
+                xmax = 439.3
+                text = " le asestó un garrotazo"
+            intervals [229]:
+                xmin = 440.82
+                xmax = 441.16
+                text = " echándole fuera del tren"
+            intervals [230]:
+                xmin = 442.35
+                xmax = 443.36
+                text = " Aquella noche si que creyó morir"
+            intervals [231]:
+                xmin = 444.47
+                xmax = 444.88
+                text = " Y al decir esto"
+            intervals [232]:
+                xmin = 446.65
+                xmax = 447.17
+                text = " señalaba una cicatriz que cruzaba su frente"
+            intervals [233]:
+                xmin = 450.02
+                xmax = 450.45
+                text = " Lo trataban mal"
+            intervals [234]:
+                xmin = 451.78
+                xmax = 452.64
+                text = " pero él no se quejaba"
+            intervals [235]:
+                xmin = 453.66
+                xmax = 455.1
+                text = " Aquellos señores tenían razón para asustarse y defenderse"
+            intervals [236]:
+                xmin = 456.52
+                xmax = 457.62
+                text = " Comprendía que era merecedor de aquello y algo más"
+            intervals [237]:
+                xmin = 458.31
+                xmax = 458.64
+                text = " pero "
+            intervals [238]:
+                xmin = 460.53
+                xmax = 460.76
+                text = "qué remedio"
+            intervals [239]:
+                xmin = 462.24
+                xmax = 462.67
+                text = " si no tenia dinero y deseaba ver a sus hijos"
+            intervals [240]:
+                xmin = 463.47
+                xmax = 464.72
+                text = " El tren iba limitando su marcha"
+            intervals [241]:
+                xmin = 466.74
+                xmax = 466.88
+                text = " como si se aproximara a una estación"
+            intervals [242]:
+                xmin = 467.41
+                xmax = 469.12
+                text = " Él"
+            intervals [243]:
+                xmin = 470.68
+                xmax = 470.94
+                text = " alarmado"
+            intervals [244]:
+                xmin = 472.53
+                xmax = 472.66
+                text = " comenzó a incorporarse"
+            intervals [245]:
+                xmin = 473.71
+                xmax = 474.61
+                text = "Quédate "
+            intervals [246]:
+                xmin = 475.69
+                xmax = 475.86
+                text = "le dije"
+            intervals [247]:
+                xmin = 477.78
+                xmax = 478.52
+                text = " Aún falta otra estación para llegar a donde tú vas"
+            intervals [248]:
+                xmin = 479.04
+                xmax = 479.73
+                text = " Te pagaré el billete"
+            intervals [249]:
+                xmin = 481.45
+                xmax = 481.94
+                text = "Quia"
+            intervals [250]:
+                xmin = 482.78
+                xmax = 484.32
+                text = " No"
+            intervals [251]:
+                xmin = 485.38
+                xmax = 485.78
+                text = " señor "
+            intervals [252]:
+                xmin = 487.8
+                xmax = 488.13
+                text = "repuso con candidez maliciosa"
+            intervals [253]:
+                xmin = 489.92
+                xmax = 490.62
+                text = " El empleado"
+            intervals [254]:
+                xmin = 492.17
+                xmax = 494.19
+                text = " al dar el billete"
+            intervals [255]:
+                xmin = 494.75
+                xmax = 494.77
+                text = " se fijaría en mi"
+            intervals [256]:
+                xmin = 495.57
+                xmax = 496.16
+                text = " muchas veces me han perseguido"
+            intervals [257]:
+                xmin = 497.57
+                xmax = 497.82
+                text = " sin conseguir verme de cerca"
+            intervals [258]:
+                xmin = 499.24
+                xmax = 499.61
+                text = " y no quiero que me tomen la filiación"
+            intervals [259]:
+                xmin = 500.74
+                xmax = 501.34
+                text = " Feliz viaje"
+            intervals [260]:
+                xmin = 502.15
+                xmax = 503.6
+                text = " señorito"
+            intervals [261]:
+                xmin = 505.2
+                xmax = 505.84
+                text = " Es usted la más buena alma que he encontrado en el tren"
+            intervals [262]:
+                xmin = 506.39
+                xmax = 506.94
+                text = " Se alejó por los estribos"
+            intervals [263]:
+                xmin = 509.13
+                xmax = 509.64
+                text = " agarrado al pasamano de los coches"
+            intervals [264]:
+                xmin = 510.8
+                xmax = 511.19
+                text = " y se perdió en la oscuridad"
+            intervals [265]:
+                xmin = 512.64
+                xmax = 513.35
+                text = " buscando"
+            intervals [266]:
+                xmin = 514.55
+                xmax = 515.73
+                text = " sin duda"
+            intervals [267]:
+                xmin = 517.47
+                xmax = 517.75
+                text = " otro sitio donde continuar tranquilo su viaje"
+            intervals [268]:
+                xmin = 518.9
+                xmax = 520.99
+                text = " Paramos ante una estación pequeña y silenciosa"
+            intervals [269]:
+                xmin = 522.3
+                xmax = 523.29
+                text = " Iba a tenderme para dormir"
+            intervals [270]:
+                xmin = 523.8
+                xmax = 524.84
+                text = " cuando en el andén sonaron voces imperiosas"
+            intervals [271]:
+                xmin = 525.57
+                xmax = 527.88
+                text = " Eran los empleados"
+            intervals [272]:
+                xmin = 528.5
+                xmax = 529.0
+                text = " los mozos de la estación y una pareja de la Guardia Civil"
+            intervals [273]:
+                xmin = 531.74
+                xmax = 532.93
+                text = " que corrían en distintas direcciones"
+            intervals [274]:
+                xmin = 533.72
+                xmax = 533.74
+                text = " como cercando a alguien"
+            intervals [275]:
+                xmin = 534.92
+                xmax = 535.84
+                text = "Por aqui"
+            intervals [276]:
+                xmin = 536.94
+                xmax = 537.13
+                text = "Cortadle el paso"
+            intervals [277]:
+                xmin = 537.8
+                xmax = 537.82
+                text = " Dos por el otro lado"
+            intervals [278]:
+                xmin = 540.22
+                xmax = 540.23
+                text = " para que no escape"
+            intervals [279]:
+                xmin = 541.68
+                xmax = 541.69
+                text = " Ahora ha subido sobre el tren"
+            intervals [280]:
+                xmin = 543.71
+                xmax = 544.01
+                text = "Seguidle"
+            intervals [281]:
+                xmin = 545.65
+                xmax = 545.85
+                text = " Y"
+            intervals [282]:
+                xmin = 546.47
+                xmax = 547.43
+                text = " efectivamente"
+            intervals [283]:
+                xmin = 548.2
+                xmax = 548.73
+                text = " al poco rato las techumbres de los vagones temblaban bajo el galope loco de los que se perseguían en aquellas alturas"
+            intervals [284]:
+                xmin = 550.18
+                xmax = 550.26
+                text = " Era"
+            intervals [285]:
+                xmin = 552.88
+                xmax = 552.89
+                text = " sin duda"
+            intervals [286]:
+                xmin = 554.34
+                xmax = 554.94
+                text = " el amigo"
+            intervals [287]:
+                xmin = 557.43
+                xmax = 557.9
+                text = " a quien habían sorprendido"
+            intervals [288]:
+                xmin = 558.85
+                xmax = 558.89
+                text = " y"
+            intervals [289]:
+                xmin = 562.01
+                xmax = 562.48
+                text = " viéndose cercado"
+            intervals [290]:
+                xmin = 564.2
+                xmax = 564.91
+                text = " se refugiaba en lo más alto del tren"
+            intervals [291]:
+                xmin = 566.49
+                xmax = 566.55
+                text = " Estaba yo en una ventanilla de la parte opuesta al andén"
+            intervals [292]:
+                xmin = 567.78
+                xmax = 567.81
+                text = " y vi cómo un hombre saltaba desde la techumbre de un vagón inmediato con la asombrosa ligereza que da el peligro"
+            intervals [293]:
+                xmin = 568.78
+                xmax = 568.92
+                text = " Cayó de bruces en un campo"
+            intervals [294]:
+                xmin = 570.1
+                xmax = 570.42
+                text = " gateó algunos instantes"
+            intervals [295]:
+                xmin = 571.68
+                xmax = 571.82
+                text = " como si la violencia del golpe no le permitiera incorporarse"
+            intervals [296]:
+                xmin = 574.43
+                xmax = 574.49
+                text = " y"
+            intervals [297]:
+                xmin = 575.44
+                xmax = 575.92
+                text = " al fin"
+            intervals [298]:
+                xmin = 577.93
+                xmax = 578.06
+                text = " huyó a todo correr"
+            intervals [299]:
+                xmin = 580.29
+                xmax = 580.93
+                text = " perdiéndose en la oscuridad la mancha blanca de sus pantalones"
+            intervals [300]:
+                xmin = 581.99
+                xmax = 582.0
+                text = " El jefe del tren gesticulaba al frente de los perseguidores"
+            intervals [301]:
+                xmin = 583.49
+                xmax = 583.65
+                text = " algunos de los cuales reían"
+            intervals [302]:
+                xmin = 584.8
+                xmax = 585.27
+                text = "Qué es eso"
+            intervals [303]:
+                xmin = 585.98
+                xmax = 586.34
+                text = "pregunté al empleado"
+            intervals [304]:
+                xmin = 587.68
+                xmax = 587.87
+                text = "Un tuno que tiene la costumbre de viajar sin billete "
+            intervals [305]:
+                xmin = 589.99
+                xmax = 590.05
+                text = "me contestó con énfasis"
+            intervals [306]:
+                xmin = 591.16
+                xmax = 591.17
+                text = " Ya le conocemos hace tiempo"
+            intervals [307]:
+                xmin = 593.45
+                xmax = 594.21
+                text = " Es un parásito del tren"
+            intervals [308]:
+                xmin = 596.53
+                xmax = 597.29
+                text = " pero poco hemos de poder"
+            intervals [309]:
+                xmin = 600.1
+                xmax = 600.55
+                text = " o le pillaremos para que vaya a la cárcel"
+            intervals [310]:
+                xmin = 602.33
+                xmax = 602.61
+                text = " Ya no vi más al pobre parásito"
+            intervals [311]:
+                xmin = 604.16
+                xmax = 605.06
+                text = " En invierno"
+            intervals [312]:
+                xmin = 608.02
+                xmax = 608.51
+                text = " muchas veces"
+            intervals [313]:
+                xmin = 609.59
+                xmax = 610.17
+                text = " me he acordado del infeliz"
+            intervals [314]:
+                xmin = 612.17
+                xmax = 612.28
+                text = " y lo veía en las afueras de una estación"
+            intervals [315]:
+                xmin = 613.57
+                xmax = 614.48
+                text = " tal vez azotado por la lluvia y la nieve"
+            intervals [316]:
+                xmin = 617.93
+                xmax = 618.09
+                text = " esperando el tren"
+            intervals [317]:
+                xmin = 621.1
+                xmax = 621.14
+                text = " que pasa como un torbellino"
+            intervals [318]:
+                xmin = 622.78
+                xmax = 623.1
+                text = " para asaltarlo con la serenidad del valiente que asalta una trinchera"
+            intervals [319]:
+                xmin = 626.32
+                xmax = 626.89
+                text = " Ahora leo que en la vía férrea"
+            intervals [320]:
+                xmin = 628.35
+                xmax = 629.08
+                text = " cerca de Albacete"
+            intervals [321]:
+                xmin = 630.2
+                xmax = 630.47
+                text = " se ha encontrado el cadáver de un hombre despedazado por el tren"
+            intervals [322]:
+                xmin = 633.72
+                xmax = 634.85
+                text = " Es él"
+            intervals [323]:
+                xmin = 635.47
+                xmax = 636.8
+                text = " el pobre parásito"
+            intervals [324]:
+                xmin = 637.59
+                xmax = 638.56
+                text = " No necesito más datos para creerlo"
+            intervals [325]:
+                xmin = 639.38
+                xmax = 639.64
+                text = " me lo dice el corazón"
+            intervals [326]:
+                xmin = 641.06
+                xmax = 641.21
+                text = "Quien ama el peligro"
+            intervals [327]:
+                xmin = 642.01
+                xmax = 642.65
+                text = " en él perece"
+            intervals [328]:
+                xmin = 644.22
+                xmax = 644.94
+                text = " Tal vez le faltó inesperadamente la destreza"
+            intervals [329]:
+                xmin = 646.7
+                xmax = 646.71
+                text = " tal vez algún viajero"
+            intervals [330]:
+                xmin = 648.99
+                xmax = 649.6
+                text = " asustado por su repentina aparición"
+            intervals [331]:
+                xmin = 650.18
+                xmax = 650.23
+                text = " fué menos compasivo que yo y le arrojó bajo las ruedas"
+            intervals [332]:
+                xmin = 653.52
+                xmax = 653.59
+                text = "Vaya usted a preguntar a la noche lo que pasaría"
+            intervals [333]:
+                xmin = 654.51
+                xmax = 654.52
+                text = "Desde que le conocí "
+            intervals [334]:
+                xmin = 656.84
+                xmax = 657.32
+                text = "terminó diciendo el amigo Pérez"
+            intervals [335]:
+                xmin = 658.21
+                xmax = 658.28
+                text = " han pasado cuatro años"
+            intervals [336]:
+                xmin = 660.53
+                xmax = 660.58
+                text = " En este tiempo he corrido mucho"
+            intervals [337]:
+                xmin = 661.15
+                xmax = 661.2
+                text = " y viendo cómo viaja la gente"
+            intervals [338]:
+                xmin = 664.18
+                xmax = 664.21
+                text = " por capricho o por combatir el aburrimiento"
+            intervals [339]:
+                xmin = 666.39
+                xmax = 666.53
+                text = " más de una vez he pensado en el pobre gañán"
+            intervals [340]:
+                xmin = 668.27
+                xmax = 668.3
+                text = " que"
+            intervals [341]:
+                xmin = 670.76
+                xmax = 671.09
+                text = " separado de su familia por la miseria"
+            intervals [342]:
+                xmin = 671.66
+                xmax = 671.7
+                text = " cuando quería besar a sus hijos"
+            intervals [343]:
+                xmin = 673.26
+                xmax = 673.29
+                text = " tenía que verse perseguido y acosado como alimaña feroz y desafiar la muerte con la serenidad de un héroe"
+            intervals [344]:
+                xmin = 674.22
+                xmax = 674.28
+                text = " FIN"

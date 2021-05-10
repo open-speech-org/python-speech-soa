@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 56.25
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_61_1"
+        xmin = 0
+        xmax = 56.25
+        intervals: size = 19
+            intervals [1]:
+                xmin = 0.0
+                xmax = 2.93
+                text = " Un ratón de tierra se hizo amigo de una rana"
+            intervals [2]:
+                xmin = 3.92
+                xmax = 4.78
+                text = " para desgracia suya"
+            intervals [3]:
+                xmin = 5.4
+                xmax = 6.34
+                text = " La rana"
+            intervals [4]:
+                xmin = 7.07
+                xmax = 7.1
+                text = " obedeciendo a desviadas intenciones de burla"
+            intervals [5]:
+                xmin = 7.7
+                xmax = 7.86
+                text = " ató la pata del ratón a su propia pata"
+            intervals [6]:
+                xmin = 8.63
+                xmax = 9.15
+                text = " Marcharon entonces primero por tierra para comer trigo"
+            intervals [7]:
+                xmin = 9.99
+                xmax = 11.28
+                text = " luego se acercaron a la orilla del pantano"
+            intervals [8]:
+                xmin = 11.9
+                xmax = 12.34
+                text = " La rana"
+            intervals [9]:
+                xmin = 13.17
+                xmax = 15.68
+                text = " dando un salto arrastró hasta el fondo al ratón"
+            intervals [10]:
+                xmin = 16.24
+                xmax = 18.86
+                text = " mientras que retozaba en el agua lanzando sus conocidos gritos"
+            intervals [11]:
+                xmin = 20.58
+                xmax = 21.16
+                text = " El desdichado ratón"
+            intervals [12]:
+                xmin = 21.97
+                xmax = 22.79
+                text = " hinchado de agua"
+            intervals [13]:
+                xmin = 23.6
+                xmax = 23.77
+                text = " se ahogó"
+            intervals [14]:
+                xmin = 24.67
+                xmax = 24.68
+                text = " quedando a flote atado a la pata de la rana"
+            intervals [15]:
+                xmin = 25.55
+                xmax = 26.59
+                text = " Los vio un milano que por ahí volaba y apresó al ratón con sus garras"
+            intervals [16]:
+                xmin = 29.95
+                xmax = 30.91
+                text = " arrastrando con él a la rana encadenada"
+            intervals [17]:
+                xmin = 31.67
+                xmax = 32.02
+                text = " quien también sirvió de cena al milano"
+            intervals [18]:
+                xmin = 34.04
+                xmax = 34.09
+                text = " Toda acción que se hace con intenciones de maldad"
+            intervals [19]:
+                xmin = 36.91
+                xmax = 37.02
+                text = " siempre termina en contra del mismo que la comete"

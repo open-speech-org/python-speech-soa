@@ -1,0 +1,59 @@
+cropped_F_13_1, 84.6153846153846
+cropped_M_45_1, 72.35091177920151
+cropped_M_74_1, 0.0
+cropped_F_73_1, 0.0
+cropped_M_27_1, 123.3333333333333
+cropped_F_60_1, 87.94788273615636
+cropped_F_10_1, list index out of range 
+cropped_M_15_1, 105.64516129032258
+cropped_M_71_1, list index out of range 
+cropped_M_70_1, 0.0
+cropped_F_74_1, 0.0
+cropped_M_61_1, 0.0
+cropped_F_40_1, 97.3817897616257
+cropped_M_63_1, 66.91764705882352
+cropped_F_29_1, 93.15315315315327
+cropped_M_04_1, 17.51824817518248
+cropped_M_42_1, 76.52173913043478
+cropped_F_30_1, 0.3709810387469085
+cropped_F_69_1, 92.70833333333334
+cropped_M_38_1, 0.0
+cropped_M_30_1, 85.85858585858585
+cropped_F_64_1, 109.25925925925925
+cropped_F_34_1, 84.9015317286652
+cropped_M_66_1, 102.04918032786885
+cropped_F_38_1, 115.57989049278268
+cropped_M_73_1, 0.0
+cropped_M_06_1, 0.0
+cropped_F_56_1, 0.0
+cropped_M_11_1, list index out of range 
+cropped_F_63_1, 94.91525423728805
+cropped_M_01_1, 53.79537953795379
+cropped_F_50_1, 39.57219251336899
+cropped_F_71_1, 13.924050632911392
+cropped_M_13_1, 2.0408163265306123
+cropped_F_61_1, 73.5294117647059
+cropped_F_55_1, 86.08695652173914
+cropped_M_05_1, list index out of range 
+cropped_F_52_1, 90.0
+cropped_F_48_1, list index out of range 
+cropped_M_28_1, 90.95744680851064
+cropped_F_19_1, 132.88159771754627
+cropped_M_55_1, 63.829787234042556
+cropped_M_68_1, 63.0
+cropped_F_59_1, list index out of range 
+cropped_M_41_1, 91.75257731958762
+cropped_F_27_1, 90.0
+cropped_F_33_1, 94.09871244635198
+cropped_F_44_1, 104.53834115805955
+cropped_F_08_1, 87.75510204081631
+cropped_F_66_1, 46.07843137254902
+cropped_M_72_1, list index out of range 
+cropped_F_47_1, list index out of range 
+cropped_M_67_1, list index out of range 
+cropped_M_47_1, 117.68447837150127
+cropped_F_54_1, 38.59649122807017
+cropped_F_70_1, list index out of range 
+cropped_M_19_1, 107.90919077261077
+cropped_M_21_1, 86.23853211009175
+TOTAL_RESULTS, 64.2770367330645

@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 48.9
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_71_1"
+        xmin = 0
+        xmax = 48.9
+        intervals: size = 18
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.04
+                text = " Se reunieron un día las zorras a orillas del río Meandro con el fin de calmar su sed"
+            intervals [2]:
+                xmin = 3.11
+                xmax = 3.18
+                text = " pero el río estaba muy turbulento"
+            intervals [3]:
+                xmin = 3.74
+                xmax = 3.8
+                text = " y aunque se estimulaban unas a otras"
+            intervals [4]:
+                xmin = 7.11
+                xmax = 7.14
+                text = " ninguna se atrevía a ingresar al río de primera"
+            intervals [5]:
+                xmin = 9.11
+                xmax = 9.17
+                text = " Al fin una de ellas habló"
+            intervals [6]:
+                xmin = 11.58
+                xmax = 11.59
+                text = " y queriendo humillar a las demás"
+            intervals [7]:
+                xmin = 14.78
+                xmax = 14.8
+                text = " burlábase de su cobardía presumiendo ser ella la más valiente"
+            intervals [8]:
+                xmin = 15.95
+                xmax = 16.01
+                text = " Así"
+            intervals [9]:
+                xmin = 20.8
+                xmax = 20.81
+                text = " saltó al agua atrevida e imprudentemente"
+            intervals [10]:
+                xmin = 23.55
+                xmax = 23.57
+                text = " Pero la fuerte corriente la arrastró al centro del río"
+            intervals [11]:
+                xmin = 25.13
+                xmax = 25.15
+                text = " y las compañeras"
+            intervals [12]:
+                xmin = 27.99
+                xmax = 28.02
+                text = " siguiéndola desde la orilla le gritaban"
+            intervals [13]:
+                xmin = 29.18
+                xmax = 29.23
+                text = " No nos dejes hermana"
+            intervals [14]:
+                xmin = 39.83
+                xmax = 40.0
+                text = " vuelve y dinos cómo  podremos beber agua sin peligro "
+            intervals [15]:
+                xmin = 42.91
+                xmax = 43.15
+                text = " Pero la imprudente"
+            intervals [16]:
+                xmin = 43.85
+                xmax = 43.94
+                text = " arrastrada sin remedio alguno"
+            intervals [17]:
+                xmin = 47.1
+                xmax = 47.17
+                text = " y tratando de ocultar su cercana muerte"
+            intervals [18]:
+                xmin = 48.9
+                xmax = 88.58342403628117
+                text = " contestó"

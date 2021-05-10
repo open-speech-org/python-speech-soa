@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 40.26
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_42_1"
+        xmin = 0
+        xmax = 40.26
+        intervals: size = 13
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.58
+                text = " Subido en un alto roble"
+            intervals [2]:
+                xmin = 2.16
+                xmax = 3.84
+                text = " un ruiseñor cantaba como de costumbre"
+            intervals [3]:
+                xmin = 4.63
+                xmax = 9.93
+                text = " Lo vio un gavilán hambriento"
+            intervals [4]:
+                xmin = 10.97
+                xmax = 14.59
+                text = " y lanzándose inmediatamente sobre él"
+            intervals [5]:
+                xmin = 15.12
+                xmax = 18.27
+                text = " lo apresó en sus garras"
+            intervals [6]:
+                xmin = 19.12
+                xmax = 23.25
+                text = " Seguro de su próxima muerte"
+            intervals [7]:
+                xmin = 24.03
+                xmax = 24.98
+                text = " el ruiseñor le rogó que le soltara"
+            intervals [8]:
+                xmin = 26.23
+                xmax = 29.61
+                text = " diciéndole que con sólo él no bastaría para llenar su vientre"
+            intervals [9]:
+                xmin = 30.32
+                xmax = 31.3
+                text = " y que si en verdad tenía hambre"
+            intervals [10]:
+                xmin = 31.87
+                xmax = 32.27
+                text = " debería de apresar a otros más grandes"
+            intervals [11]:
+                xmin = 33.53
+                xmax = 37.52
+                text = " El gavilán le repuso"
+            intervals [12]:
+                xmin = 38.79
+                xmax = 39.67
+                text = " Necio sería si te oyera y dejara escapar la presa que tengo"
+            intervals [13]:
+                xmin = 40.26
+                xmax = 48.2544671201814
+                text = " por ir a buscar a la que ni siquiera he visto"

@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 40.78
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_55_1"
+        xmin = 0
+        xmax = 40.78
+        intervals: size = 15
+            intervals [1]:
+                xmin = 0.0
+                xmax = 0.72
+                text = " Dichoso el árbol"
+            intervals [2]:
+                xmin = 2.13
+                xmax = 3.96
+                text = " que es apenas sensitivo"
+            intervals [3]:
+                xmin = 4.86
+                xmax = 6.51
+                text = " y más la piedra dura porque esa ya no siente"
+            intervals [4]:
+                xmin = 7.8
+                xmax = 9.35
+                text = " pues no hay dolor más grande que el dolor de ser vivo"
+            intervals [5]:
+                xmin = 9.87
+                xmax = 9.89
+                text = " ni mayor pesadumbre que la vida consciente"
+            intervals [6]:
+                xmin = 10.82
+                xmax = 12.2
+                text = " Ser y no saber nada"
+            intervals [7]:
+                xmin = 13.75
+                xmax = 13.91
+                text = " y ser sin rumbo cierto"
+            intervals [8]:
+                xmin = 14.7
+                xmax = 14.94
+                text = " y el temor de haber sido y un futuro terror"
+            intervals [9]:
+                xmin = 15.71
+                xmax = 15.81
+                text = " Y el espanto seguro de estar mañana muerto"
+            intervals [10]:
+                xmin = 16.54
+                xmax = 16.57
+                text = " y sufrir por la vida y por la sombra y por"
+            intervals [11]:
+                xmin = 17.42
+                xmax = 19.75
+                text = " lo que no conocemos y apenas sospechamos"
+            intervals [12]:
+                xmin = 20.58
+                xmax = 22.01
+                text = " y la carne que tienta con sus frescos racimos"
+            intervals [13]:
+                xmin = 22.52
+                xmax = 22.54
+                text = " y la tumba que aguarda con sus fúnebres ramos"
+            intervals [14]:
+                xmin = 23.43
+                xmax = 25.03
+                text = "y no saber adónde vamos"
+            intervals [15]:
+                xmin = 25.68
+                xmax = 25.74
+                text = " ni de dónde venimos"

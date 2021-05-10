@@ -1,0 +1,302 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 323.5
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_66_1"
+        xmin = 0
+        xmax = 323.5
+        intervals: size = 72
+            intervals [1]:
+                xmin = 0.0
+                xmax = 4.74
+                text = " El pueblo español tiene una pasion oriental á los cuentos"
+            intervals [2]:
+                xmin = 5.48
+                xmax = 9.95
+                text = " y señaladamente á los que refieren acontecimientos maravillosos"
+            intervals [3]:
+                xmin = 11.22
+                xmax = 17.81
+                text = " Es muy comun en España el ver á las gentes vulgares reunidas en un corro á la[p"
+            intervals [4]:
+                xmin = 18.67
+                xmax = 22.01
+                text = " 89] puerta de sus cabañas"
+            intervals [5]:
+                xmin = 22.76
+                xmax = 29.18
+                text = " ó bajo las inmensas campanas de las chimeneas de las ventas"
+            intervals [6]:
+                xmin = 30.2
+                xmax = 33.1
+                text = " escuchando embelesadas las leyendas en que se trata de las peligrosas aventuras de los viageros"
+            intervals [7]:
+                xmin = 34.47
+                xmax = 36.88
+                text = " ó de las refriegas de los ladrones y contrabandistas"
+            intervals [8]:
+                xmin = 37.39
+                xmax = 39.82
+                text = " Pero los temas favoritos de estas historias son los tesoros escondidos por los moros"
+            intervals [9]:
+                xmin = 40.62
+                xmax = 43.55
+                text = " al atravesar aquellas montañas desiertas"
+            intervals [10]:
+                xmin = 44.2
+                xmax = 47.25
+                text = " teatro otro tiempo de tantos combates gloriosos"
+            intervals [11]:
+                xmin = 47.96
+                xmax = 53.13
+                text = " no encuentra el viagero una sola atalaya puesta sobre un pico elevado en medio de las rocas"
+            intervals [12]:
+                xmin = 53.78
+                xmax = 55.17
+                text = " ó dominando un lugarejo que parece abierto á pico en la peña"
+            intervals [13]:
+                xmin = 55.8
+                xmax = 58.02
+                text = " sin que el mozo que le acompaña no se quite el cigarro de la boca para referirle alguna conseja de las monedas árabes que están enterradas bajo sus cimientos"
+            intervals [14]:
+                xmin = 58.94
+                xmax = 69.02
+                text = " Ni se halla tampoco[p"
+            intervals [15]:
+                xmin = 70.51
+                xmax = 76.11
+                text = " 90] un solo alcázar en las ciudades que no tenga tambien su historia dorada"
+            intervals [16]:
+                xmin = 76.88
+                xmax = 80.76
+                text = " trasmitida entre los pobres del pueblo de generacion en generacion"
+            intervals [17]:
+                xmin = 81.96
+                xmax = 82.99
+                text = " Estas tradiciones"
+            intervals [18]:
+                xmin = 83.61
+                xmax = 86.39
+                text = " como la mayor parte de las fábulas populares"
+            intervals [19]:
+                xmin = 87.14
+                xmax = 89.61
+                text = " deben su orígen á algunos hechos verdaderos"
+            intervals [20]:
+                xmin = 90.71
+                xmax = 92.94
+                text = " Durante las guerras de moros y cristianos"
+            intervals [21]:
+                xmin = 93.56
+                xmax = 95.77
+                text = " que afligieron por tanto tiempo el pais"
+            intervals [22]:
+                xmin = 96.49
+                xmax = 100.28
+                text = " los castillos y las ciudades mudaban de dueño con gran frecuencia"
+            intervals [23]:
+                xmin = 101.23
+                xmax = 103.85
+                text = " y sus habitantes cuando se veían sitiados"
+            intervals [24]:
+                xmin = 104.62
+                xmax = 108.99
+                text = " solian enterrar sus alhajas y dinero en las cuevas y en los pozos"
+            intervals [25]:
+                xmin = 109.85
+                xmax = 113.11
+                text = " como se practica aun en las naciones guerreras del oriente"
+            intervals [26]:
+                xmin = 114.55
+                xmax = 121.45
+                text = " En la época de la espulsion de los moros"
+            intervals [27]:
+                xmin = 122.21
+                xmax = 125.67
+                text = " muchos de ellos escondieron los efectos mas preciosos que poseían"
+            intervals [28]:
+                xmin = 126.34
+                xmax = 127.62
+                text = " con la esperanza de regresar muy pronto á su[p"
+            intervals [29]:
+                xmin = 128.87
+                xmax = 132.07
+                text = " 91] tierra natal y recobrar su tesoro"
+            intervals [30]:
+                xmin = 132.82
+                xmax = 136.04
+                text = " Ello es cierto que algunas veces cavando entre las ruinas"
+            intervals [31]:
+                xmin = 136.77
+                xmax = 140.32
+                text = " ó en las inmediaciones de las casas ó palacios moriscos"
+            intervals [32]:
+                xmin = 141.0
+                xmax = 145.64
+                text = " se han hallado arcas llenas de monedas de oro y de plata"
+            intervals [33]:
+                xmin = 146.5
+                xmax = 151.46
+                text = " que vuelven á ver la luz despues de haber estado enterradas por espacio de muchos años"
+            intervals [34]:
+                xmin = 152.91
+                xmax = 157.56
+                text = " y basta un corto número de estos hechos para dar lugar á mil fábulas"
+            intervals [35]:
+                xmin = 158.31
+                xmax = 162.38
+                text = " Estas historias se presentan con aquella reunion de gótico y oriental"
+            intervals [36]:
+                xmin = 163.01
+                xmax = 163.83
+                text = " que en mi concepto caracteriza todos los usos y rasgos esenciales de las costumbres de España"
+            intervals [37]:
+                xmin = 164.73
+                xmax = 167.25
+                text = " señaladamente en las provincias meridionales"
+            intervals [38]:
+                xmin = 168.34
+                xmax = 172.35
+                text = " el tesoro escondido está siempre protegido por un encanto"
+            intervals [39]:
+                xmin = 173.48
+                xmax = 176.11
+                text = " unas veces le defiende un horrible dragon"
+            intervals [40]:
+                xmin = 176.74
+                xmax = 179.01
+                text = " otras le guardan unos moros encan[p"
+            intervals [41]:
+                xmin = 179.73
+                xmax = 183.46
+                text = " 92]tados"
+            intervals [42]:
+                xmin = 184.18
+                xmax = 187.77
+                text = " que al cabo de siglos permanecen aun armados de punta en blanco"
+            intervals [43]:
+                xmin = 188.39
+                xmax = 191.22
+                text = " con la espada desnuda é inmóviles como unas estátuas"
+            intervals [44]:
+                xmin = 192.69
+                xmax = 197.72
+                text = " en el sitio donde fueron enterradas sus riquezas"
+            intervals [45]:
+                xmin = 198.29
+                xmax = 200.33
+                text = " Es muy natural que la Alhambra"
+            intervals [46]:
+                xmin = 200.9
+                xmax = 202.97
+                text = " en razon de las circunstancias particulares de su historia"
+            intervals [47]:
+                xmin = 203.5
+                xmax = 204.51
+                text = " preste materia mas amplia á estas ficciones que ninguno de los otros lugares célebres en las crónicas"
+            intervals [48]:
+                xmin = 205.65
+                xmax = 209.97
+                text = " y algunos vestigios encontrados de tarde en tarde entre sus ruinas"
+            intervals [49]:
+                xmin = 210.96
+                xmax = 215.53
+                text = " han acreditado las maravillosas tradiciones que sobre ellos andan esparcidas"
+            intervals [50]:
+                xmin = 216.61
+                xmax = 220.03
+                text = " En una ocasion se desenterró una olla llena de oro"
+            intervals [51]:
+                xmin = 220.75
+                xmax = 222.43
+                text = " y el esqueleto de un gallo"
+            intervals [52]:
+                xmin = 223.33
+                xmax = 225.96
+                text = " y los mas inteligentes en estas materias"
+            intervals [53]:
+                xmin = 226.59
+                xmax = 229.97
+                text = " opinaron que esta ave habia sida enterrada viva"
+            intervals [54]:
+                xmin = 231.12
+                xmax = 233.8
+                text = " En otro tiempo[p"
+            intervals [55]:
+                xmin = 234.44
+                xmax = 239.56
+                text = " 93] se descubrió una caja"
+            intervals [56]:
+                xmin = 240.42
+                xmax = 243.75
+                text = " y dentro de ella se halló un grande escarabajo cubierto de inscripciones árabes"
+            intervals [57]:
+                xmin = 244.71
+                xmax = 249.67
+                text = " que se creyó fuesen palabras mágicas de gran virtud"
+            intervals [58]:
+                xmin = 250.38
+                xmax = 252.57
+                text = " En una palabra"
+            intervals [59]:
+                xmin = 253.08
+                xmax = 257.84
+                text = " los ingenios mas aventajados de la poblacion andrajosa de la Alhambra"
+            intervals [60]:
+                xmin = 258.39
+                xmax = 262.37
+                text = " se han devanado los sesos hasta lograr que no hubiese en esta antigua fortaleza una torre"
+            intervals [61]:
+                xmin = 263.68
+                xmax = 270.22
+                text = " una sala"
+            intervals [62]:
+                xmin = 270.87
+                xmax = 275.82
+                text = " ni una bóveda sin su correspondiente historia prodigiosa"
+            intervals [63]:
+                xmin = 276.7
+                xmax = 279.48
+                text = " Creo que los capítulos anteriores habrán familiarizado ya á mis lectores con las localidades de este palacio"
+            intervals [64]:
+                xmin = 280.1
+                xmax = 286.07
+                text = " y así voy á engolfarme atrevidamente en sus pasmosas leyendas"
+            intervals [65]:
+                xmin = 287.14
+                xmax = 289.41
+                text = " que me ha sido preciso restaurar enteramente"
+            intervals [66]:
+                xmin = 289.98
+                xmax = 296.78
+                text = " reuniendo los fragmentos que me fueron contados en diferentes épocas y por distintas personas"
+            intervals [67]:
+                xmin = 298.01
+                xmax = 301.86
+                text = " bien así como un sábio[p"
+            intervals [68]:
+                xmin = 302.61
+                xmax = 305.75
+                text = " 94] anticuario suele formar un documento histórico con algunas letras sueltas de una inscripcion medio borrada por el tiempo"
+            intervals [69]:
+                xmin = 306.34
+                xmax = 309.74
+                text = " Si el lector encontrase en mis relaciones alguna cosa increible"
+            intervals [70]:
+                xmin = 310.39
+                xmax = 311.43
+                text = " tenga la bondad de considerar que el sitio en que me hallo no puede gobernarse por las leyes de la probabilidad que rigen en las escenas de la vida comun"
+            intervals [71]:
+                xmin = 312.35
+                xmax = 313.59
+                text = " El suelo que piso está encantado"
+            intervals [72]:
+                xmin = 314.14
+                xmax = 314.25
+                text = " y los acontecimientos mas tribiales reciben en él un aspecto sobrenatural y maravilloso"

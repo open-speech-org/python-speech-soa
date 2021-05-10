@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 68.72557823129252
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "F_74_1"
+        xmin = 0
+        xmax = 68.72557823129252
+        intervals: size = 17
+            intervals [1]:
+                xmin = 0.0
+                xmax = 4.248049886621315
+                text = "1"
+            intervals [2]:
+                xmin = 4.248049886621315
+                xmax = 8.152607709750567
+                text = "2"
+            intervals [3]:
+                xmin = 8.152607709750567
+                xmax = 11.807913832199548
+                text = "3"
+            intervals [4]:
+                xmin = 11.807913832199548
+                xmax = 15.952698412698416
+                text = "4"
+            intervals [5]:
+                xmin = 15.952698412698416
+                xmax = 20.394739229024943
+                text = "5"
+            intervals [6]:
+                xmin = 20.394739229024943
+                xmax = 24.30299319727891
+                text = "6"
+            intervals [7]:
+                xmin = 24.30299319727891
+                xmax = 27.728140589569158
+                text = "7"
+            intervals [8]:
+                xmin = 27.728140589569158
+                xmax = 32.06886621315193
+                text = "8"
+            intervals [9]:
+                xmin = 32.06886621315193
+                xmax = 33.914807256235825
+                text = "9"
+            intervals [10]:
+                xmin = 33.914807256235825
+                xmax = 36.368548752834464
+                text = "10"
+            intervals [11]:
+                xmin = 36.368548752834464
+                xmax = 40.65086167800454
+                text = "11"
+            intervals [12]:
+                xmin = 40.65086167800454
+                xmax = 42.964625850340134
+                text = "12"
+            intervals [13]:
+                xmin = 42.964625850340134
+                xmax = 44.98328798185941
+                text = "13"
+            intervals [14]:
+                xmin = 44.98328798185941
+                xmax = 49.44630385487528
+                text = "14"
+            intervals [15]:
+                xmin = 49.44630385487528
+                xmax = 53.21775510204082
+                text = "15"
+            intervals [16]:
+                xmin = 53.21775510204082
+                xmax = 58.35090702947847
+                text = "16"
+            intervals [17]:
+                xmin = 58.35090702947847
+                xmax = 68.72557823129252
+                text = ""

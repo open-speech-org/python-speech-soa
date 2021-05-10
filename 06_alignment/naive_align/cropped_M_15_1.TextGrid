@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 51.39
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_15_1"
+        xmin = 0
+        xmax = 51.39
+        intervals: size = 19
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.99
+                text = " Un soldado"
+            intervals [2]:
+                xmin = 3.26
+                xmax = 4.86
+                text = " durante una guerra"
+            intervals [3]:
+                xmin = 6.45
+                xmax = 6.5
+                text = " alimentó con cebada a su caballo"
+            intervals [4]:
+                xmin = 8.66
+                xmax = 9.85
+                text = " su compañero de esfuerzos y peligros"
+            intervals [5]:
+                xmin = 10.82
+                xmax = 12.74
+                text = " Pero"
+            intervals [6]:
+                xmin = 13.38
+                xmax = 13.52
+                text = " acabada la guerra"
+            intervals [7]:
+                xmin = 14.13
+                xmax = 14.62
+                text = " el caballo fue empleado en trabajos serviles y para transportar pesados bultos"
+            intervals [8]:
+                xmin = 15.98
+                xmax = 16.77
+                text = " siendo alimentado únicamente con paja"
+            intervals [9]:
+                xmin = 18.3
+                xmax = 18.34
+                text = " Al anunciarse una nueva guerra"
+            intervals [10]:
+                xmin = 19.74
+                xmax = 20.89
+                text = " y al son de la trompeta"
+            intervals [11]:
+                xmin = 21.74
+                xmax = 22.29
+                text = " el dueño del caballo lo aparejó"
+            intervals [12]:
+                xmin = 22.81
+                xmax = 22.82
+                text = " se armó y montó encima"
+            intervals [13]:
+                xmin = 23.49
+                xmax = 25.89
+                text = " Pero el caballo exhausto se caía a cada momento"
+            intervals [14]:
+                xmin = 26.5
+                xmax = 26.76
+                text = " Por fin dijo a su amo"
+            intervals [15]:
+                xmin = 27.62
+                xmax = 28.89
+                text = " Vete mejor entre los infantes"
+            intervals [16]:
+                xmin = 29.41
+                xmax = 30.1
+                text = " puesto que de caballo que era me has convertido en asno"
+            intervals [17]:
+                xmin = 32.51
+                xmax = 33.11
+                text = " Cómo quieres hacer ahora de un asno un caballo "
+            intervals [18]:
+                xmin = 34.03
+                xmax = 39.14
+                text = " En los tiempos de bienestar"
+            intervals [19]:
+                xmin = 40.06
+                xmax = 42.36
+                text = " debemos prepararnos para las épocas críticas"

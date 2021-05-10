@@ -1,0 +1,762 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 656.69
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_44_1"
+        xmin = 0
+        xmax = 656.69
+        intervals: size = 187
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.16
+                text = " Fue un día de fiesta para la cabeza del distrito la repentina visita del diputado"
+            intervals [2]:
+                xmin = 2.81
+                xmax = 6.42
+                text = " un señorón de Madrid"
+            intervals [3]:
+                xmin = 7.15
+                xmax = 12.57
+                text = " tan poderoso para aquella buenas gentes"
+            intervals [4]:
+                xmin = 13.78
+                xmax = 15.46
+                text = " que hablaban de él como de la Santisima Providencia"
+            intervals [5]:
+                xmin = 16.07
+                xmax = 17.22
+                text = " Hubo gran paella en el huerto del alcalde"
+            intervals [6]:
+                xmin = 17.77
+                xmax = 23.47
+                text = " un festín pantagruélico"
+            intervals [7]:
+                xmin = 26.29
+                xmax = 27.45
+                text = " amenizado por la banda del pueblo y contemplado por todas las mujeres y chiquillos que asomaban curiosos tras las tapias"
+            intervals [8]:
+                xmin = 28.2
+                xmax = 33.26
+                text = " La flor del distrito estaba allí"
+            intervals [9]:
+                xmin = 33.97
+                xmax = 43.19
+                text = " los curas de cuatro o cinco pueblos"
+            intervals [10]:
+                xmin = 43.87
+                xmax = 44.94
+                text = " pues el diputado era defensor del orden y los sanos principios"
+            intervals [11]:
+                xmin = 45.76
+                xmax = 49.84
+                text = " los alcaldes y todos los muñidores que en tiempos de elección trotaban por los caminos"
+            intervals [12]:
+                xmin = 50.52
+                xmax = 54.16
+                text = " trayéndole a don José las actas incólumes para que manchase su blanca virginidad con cifras monstruosas"
+            intervals [13]:
+                xmin = 55.29
+                xmax = 56.76
+                text = " Entre las sotanas nuevas y los trajes de fiesta oliendo a alcanfor y con los pliegues del arca"
+            intervals [14]:
+                xmin = 57.31
+                xmax = 59.31
+                text = " destacábanse majestuosos los lentes de oro y el negro chaqué del diputado"
+            intervals [15]:
+                xmin = 60.93
+                xmax = 64.86
+                text = " pero"
+            intervals [16]:
+                xmin = 65.43
+                xmax = 66.69
+                text = " a pesar de toda su prosopopeya"
+            intervals [17]:
+                xmin = 67.24
+                xmax = 70.35
+                text = " la providencia del distrito apenas si llamaba la atención"
+            intervals [18]:
+                xmin = 71.01
+                xmax = 75.06
+                text = " Todas las miradas eran para un hombrecillo con calzones de pana y negro pañuelo a la cabeza"
+            intervals [19]:
+                xmin = 75.95
+                xmax = 78.65
+                text = " enjuto"
+            intervals [20]:
+                xmin = 79.27
+                xmax = 83.97
+                text = " bronceado"
+            intervals [21]:
+                xmin = 84.64
+                xmax = 88.82
+                text = " de fuertes quijadas"
+            intervals [22]:
+                xmin = 90.21
+                xmax = 92.52
+                text = " y que tenia al lado un pesado retaco"
+            intervals [23]:
+                xmin = 93.16
+                xmax = 96.04
+                text = " no cambiando de asiento sin llevar tras si la vieja arma"
+            intervals [24]:
+                xmin = 96.64
+                xmax = 97.99
+                text = " que parecía un adherente de su cuerpo"
+            intervals [25]:
+                xmin = 99.72
+                xmax = 104.02
+                text = " Era el famoso Quico Bolsón"
+            intervals [26]:
+                xmin = 105.02
+                xmax = 105.74
+                text = " el héroe del distrito"
+            intervals [27]:
+                xmin = 106.43
+                xmax = 107.41
+                text = " un roder con treinta años de hazañas"
+            intervals [28]:
+                xmin = 107.97
+                xmax = 109.56
+                text = " al que miraba la gente joven con temor casi supersticioso"
+            intervals [29]:
+                xmin = 110.17
+                xmax = 116.51
+                text = " recordando su niñez"
+            intervals [30]:
+                xmin = 118.31
+                xmax = 119.62
+                text = " cuando las madres decían para hacerles callar"
+            intervals [31]:
+                xmin = 120.5
+                xmax = 121.86
+                text = "Que viene Bolsón"
+            intervals [32]:
+                xmin = 122.49
+                xmax = 125.92
+                text = " A los veinte años tumbó a dos por cuestión de amores"
+            intervals [33]:
+                xmin = 126.45
+                xmax = 129.89
+                text = " y después"
+            intervals [34]:
+                xmin = 130.63
+                xmax = 133.47
+                text = " al monte con el retaco"
+            intervals [35]:
+                xmin = 134.33
+                xmax = 136.12
+                text = " a hacer la vida de roder"
+            intervals [36]:
+                xmin = 137.01
+                xmax = 139.15
+                text = " de caballero andante de la sierra"
+            intervals [37]:
+                xmin = 139.73
+                xmax = 143.57
+                text = " Más de cuarenta procesos estaban en suspenso"
+            intervals [38]:
+                xmin = 144.4
+                xmax = 145.44
+                text = " esperando que tuviera la bondad de dejarse coger"
+            intervals [39]:
+                xmin = 146.15
+                xmax = 148.2
+                text = " Pero "
+            intervals [40]:
+                xmin = 149.03
+                xmax = 152.06
+                text = "bueno era él"
+            intervals [41]:
+                xmin = 152.77
+                xmax = 156.15
+                text = " Saltaba como una cabra"
+            intervals [42]:
+                xmin = 156.78
+                xmax = 169.09
+                text = " conocía todos los rincones de la sierra"
+            intervals [43]:
+                xmin = 170.22
+                xmax = 171.74
+                text = " partía de un balazo una moneda en el aire"
+            intervals [44]:
+                xmin = 172.3
+                xmax = 174.9
+                text = " y la Guardia Civil"
+            intervals [45]:
+                xmin = 175.46
+                xmax = 178.88
+                text = " cansada de correrías infructuosas"
+            intervals [46]:
+                xmin = 180.01
+                xmax = 182.25
+                text = " acabó por no verle"
+            intervals [47]:
+                xmin = 182.76
+                xmax = 185.66
+                text = " Ladrón"
+            intervals [48]:
+                xmin = 186.28
+                xmax = 187.68
+                text = " eso nunca"
+            intervals [49]:
+                xmin = 189.9
+                xmax = 193.8
+                text = " Tenia sus desplantes de caballero"
+            intervals [50]:
+                xmin = 194.34
+                xmax = 196.35
+                text = " comía en el monte lo que le daban por admiración o miedo los de las masias"
+            intervals [51]:
+                xmin = 196.96
+                xmax = 200.53
+                text = " y si sabia en el distrito algún ratero"
+            intervals [52]:
+                xmin = 201.13
+                xmax = 207.97
+                text = " pronto le alcanzaba su retaco"
+            intervals [53]:
+                xmin = 209.66
+                xmax = 213.7
+                text = " él tenia su honradez y no quena cargar con robos ajenos"
+            intervals [54]:
+                xmin = 214.57
+                xmax = 216.09
+                text = " Sangre"
+            intervals [55]:
+                xmin = 216.74
+                xmax = 217.94
+                text = " eso si"
+            intervals [56]:
+                xmin = 219.18
+                xmax = 222.31
+                text = " hasta los codos"
+            intervals [57]:
+                xmin = 222.83
+                xmax = 224.22
+                text = " Para él"
+            intervals [58]:
+                xmin = 224.83
+                xmax = 227.48
+                text = " un hombre valía menos que una piedra del camino"
+            intervals [59]:
+                xmin = 228.02
+                xmax = 228.7
+                text = " aquella bestia feroz usaba magistralmente todas las suertes de matar al enemigo"
+            intervals [60]:
+                xmin = 230.56
+                xmax = 231.89
+                text = " con bala"
+            intervals [61]:
+                xmin = 232.72
+                xmax = 237.78
+                text = " con navaja"
+            intervals [62]:
+                xmin = 238.47
+                xmax = 241.76
+                text = " frente a frente"
+            intervals [63]:
+                xmin = 243.98
+                xmax = 245.98
+                text = " si tenían agallas para ir en su busca"
+            intervals [64]:
+                xmin = 246.49
+                xmax = 248.71
+                text = " a la espera y emboscados"
+            intervals [65]:
+                xmin = 249.26
+                xmax = 254.45
+                text = " si eran tan recelosos y astutos como él"
+            intervals [66]:
+                xmin = 255.03
+                xmax = 258.85
+                text = " Por cebos había ido suprimiendo a los otros roderes que infestaban la siena"
+            intervals [67]:
+                xmin = 261.61
+                xmax = 266.55
+                text = " en los caminos"
+            intervals [68]:
+                xmin = 267.18
+                xmax = 270.09
+                text = " uno hoy y otro mañana"
+            intervals [69]:
+                xmin = 270.92
+                xmax = 272.35
+                text = " había asesinado a antiguos enemigos"
+            intervals [70]:
+                xmin = 272.91
+                xmax = 275.78
+                text = " y muchas veces bajó a los pueblos en domingo para dejar tendidos en la plaza"
+            intervals [71]:
+                xmin = 276.61
+                xmax = 279.63
+                text = " a la sabida de la misa mayor"
+            intervals [72]:
+                xmin = 280.52
+                xmax = 281.01
+                text = " a alcaldes o propietarios influyentes"
+            intervals [73]:
+                xmin = 281.54
+                xmax = 283.97
+                text = " Ya no me molestaban ni me perseguían"
+            intervals [74]:
+                xmin = 284.56
+                xmax = 285.68
+                text = " Mataba por pasión politica a hombres que apenas conocía"
+            intervals [75]:
+                xmin = 286.3
+                xmax = 287.66
+                text = " por asegurar el triunfo de don José"
+            intervals [76]:
+                xmin = 288.44
+                xmax = 291.66
+                text = " eterno representante del distrito"
+            intervals [77]:
+                xmin = 292.39
+                xmax = 294.2
+                text = " La bestia feroz era"
+            intervals [78]:
+                xmin = 294.9
+                xmax = 296.62
+                text = " sin darse cuenta de ellos"
+            intervals [79]:
+                xmin = 297.86
+                xmax = 299.77
+                text = " una gana del pólipo electoral que se agitaba muy lejos"
+            intervals [80]:
+                xmin = 300.33
+                xmax = 302.45
+                text = " en el Ministerio de la Gobernación"
+            intervals [81]:
+                xmin = 303.46
+                xmax = 304.28
+                text = " Vivía en un pueblo cercano"
+            intervals [82]:
+                xmin = 304.93
+                xmax = 306.16
+                text = " casado con la mujer que le impulsó a matar por vez primera"
+            intervals [83]:
+                xmin = 307.14
+                xmax = 308.96
+                text = " rodeado de hijos"
+            intervals [84]:
+                xmin = 309.49
+                xmax = 311.69
+                text = " paternal"
+            intervals [85]:
+                xmin = 312.34
+                xmax = 313.01
+                text = " bondadoso"
+            intervals [86]:
+                xmin = 313.74
+                xmax = 318.65
+                text = " fumando cigarros con la Guardia Civil"
+            intervals [87]:
+                xmin = 319.44
+                xmax = 327.75
+                text = " que obedecía órdenes superiores"
+            intervals [88]:
+                xmin = 328.59
+                xmax = 332.38
+                text = " y cuando"
+            intervals [89]:
+                xmin = 333.39
+                xmax = 334.87
+                text = " a raiz de alguna hazaña"
+            intervals [90]:
+                xmin = 335.51
+                xmax = 336.75
+                text = " había que fingir que le perseguían"
+            intervals [91]:
+                xmin = 337.43
+                xmax = 341.39
+                text = " pasaba algunos días cazando en el monte"
+            intervals [92]:
+                xmin = 342.41
+                xmax = 343.52
+                text = " entreteniendo su buen pulso de tirador"
+            intervals [93]:
+                xmin = 344.11
+                xmax = 349.61
+                text = " Había que ver como le obsequiaban y atendían durante la paella los notables del distrito"
+            intervals [94]:
+                xmin = 350.18
+                xmax = 354.46
+                text = "Bolsón"
+            intervals [95]:
+                xmin = 354.97
+                xmax = 356.11
+                text = " este pedazo de pollo"
+            intervals [96]:
+                xmin = 356.94
+                xmax = 358.16
+                text = "Bolsón"
+            intervals [97]:
+                xmin = 358.8
+                xmax = 359.71
+                text = " un trago de vino"
+            intervals [98]:
+                xmin = 360.87
+                xmax = 364.17
+                text = " Y hasta los curas"
+            intervals [99]:
+                xmin = 365.09
+                xmax = 366.33
+                text = " riendo con un "
+            intervals [100]:
+                xmin = 367.05
+                xmax = 369.28
+                text = "jo"
+            intervals [101]:
+                xmin = 369.92
+                xmax = 372.07
+                text = " jo"
+            intervals [102]:
+                xmin = 372.6
+                xmax = 373.78
+                text = " bondadosote"
+            intervals [103]:
+                xmin = 374.31
+                xmax = 380.07
+                text = " me daban palmaditas en la espalda"
+            intervals [104]:
+                xmin = 380.75
+                xmax = 385.22
+                text = " diciendo paternalmente"
+            intervals [105]:
+                xmin = 386.04
+                xmax = 392.01
+                text = "Ay Bolsonet"
+            intervals [106]:
+                xmin = 392.58
+                xmax = 393.93
+                text = " qué malo eres"
+            intervals [107]:
+                xmin = 394.88
+                xmax = 396.39
+                text = " Por él se celebraba aquella fiesta"
+            intervals [108]:
+                xmin = 396.9
+                xmax = 399.0
+                text = " Sólo por él se había detenido en la cabeza del distrito el majestuoso don José"
+            intervals [109]:
+                xmin = 400.3
+                xmax = 405.16
+                text = " de paso para Valencia"
+            intervals [110]:
+                xmin = 405.72
+                xmax = 405.77
+                text = " Quería tranquilizarle y que cesase en sus quejas"
+            intervals [111]:
+                xmin = 407.87
+                xmax = 409.48
+                text = " cada vez más alarmantes"
+            intervals [112]:
+                xmin = 410.06
+                xmax = 412.66
+                text = " Como premio por sus atropellos en las elecciones"
+            intervals [113]:
+                xmin = 413.24
+                xmax = 414.86
+                text = " le había prometido el indulto"
+            intervals [114]:
+                xmin = 416.14
+                xmax = 418.63
+                text = " y Bolsón"
+            intervals [115]:
+                xmin = 419.7
+                xmax = 421.85
+                text = " que se sentia viejo y ansiaba vivir tranquilo como un labrador honrado"
+            intervals [116]:
+                xmin = 423.16
+                xmax = 424.44
+                text = " obedecía al señor todopoderoso"
+            intervals [117]:
+                xmin = 425.24
+                xmax = 426.1
+                text = " creyendo en su rudeza que cada barbaridad"
+            intervals [118]:
+                xmin = 426.71
+                xmax = 429.78
+                text = " cada crimen"
+            intervals [119]:
+                xmin = 432.23
+                xmax = 435.28
+                text = " aceleraba su perdón"
+            intervals [120]:
+                xmin = 435.86
+                xmax = 438.68
+                text = " Pero pasaban los años"
+            intervals [121]:
+                xmin = 439.37
+                xmax = 442.43
+                text = " todo eran promesas"
+            intervals [122]:
+                xmin = 443.04
+                xmax = 443.66
+                text = " y el roder"
+            intervals [123]:
+                xmin = 445.3
+                xmax = 448.06
+                text = " creyendo firmemente en la omnipotencia del diputado"
+            intervals [124]:
+                xmin = 448.78
+                xmax = 449.86
+                text = " achacaba a desprecio o descuido la tardanza del indulto"
+            intervals [125]:
+                xmin = 450.84
+                xmax = 453.47
+                text = " La sumisión trocóse en amenaza"
+            intervals [126]:
+                xmin = 454.13
+                xmax = 458.48
+                text = " y don José sintió el miedo del domador ante la fiera que se rebela"
+            intervals [127]:
+                xmin = 460.32
+                xmax = 461.28
+                text = " El roder le escribía a Madrid todas las semanas con tono amenazador"
+            intervals [128]:
+                xmin = 462.16
+                xmax = 464.9
+                text = " Y estas cartas"
+            intervals [129]:
+                xmin = 465.89
+                xmax = 467.64
+                text = " garabateadas por la sangrienta zarpa de aquel bruto"
+            intervals [130]:
+                xmin = 468.7
+                xmax = 472.71
+                text = " acabaron por obsesionarle"
+            intervals [131]:
+                xmin = 474.77
+                xmax = 479.96
+                text = " por obligarle a marchar al distrito"
+            intervals [132]:
+                xmin = 480.98
+                xmax = 482.68
+                text = " Había que verlos después de la paella"
+            intervals [133]:
+                xmin = 483.56
+                xmax = 484.6
+                text = " hablando en un rincón del huerto"
+            intervals [134]:
+                xmin = 485.11
+                xmax = 487.94
+                text = " el diputado"
+            intervals [135]:
+                xmin = 489.34
+                xmax = 491.6
+                text = " obsequioso y amable"
+            intervals [136]:
+                xmin = 492.13
+                xmax = 494.42
+                text = " Bolsón"
+            intervals [137]:
+                xmin = 495.02
+                xmax = 496.29
+                text = " cejijunto y malhumorado"
+            intervals [138]:
+                xmin = 497.14
+                xmax = 497.94
+                text = "He venido sólo para verte "
+            intervals [139]:
+                xmin = 498.96
+                xmax = 500.16
+                text = "decía don José"
+            intervals [140]:
+                xmin = 501.05
+                xmax = 504.3
+                text = " recalcando el honor que le concedía con su visita"
+            intervals [141]:
+                xmin = 504.95
+                xmax = 507.71
+                text = " Pero "
+            intervals [142]:
+                xmin = 508.46
+                xmax = 510.97
+                text = "qué son esas prisas"
+            intervals [143]:
+                xmin = 511.88
+                xmax = 514.09
+                text = "No estás bien"
+            intervals [144]:
+                xmin = 515.13
+                xmax = 516.36
+                text = " querido Quico"
+            intervals [145]:
+                xmin = 517.23
+                xmax = 518.34
+                text = " Te he recomendado al gobernador de la provincia"
+            intervals [146]:
+                xmin = 518.94
+                xmax = 521.76
+                text = " la Guardia Civil nada te dice"
+            intervals [147]:
+                xmin = 522.51
+                xmax = 525.24
+                text = " Entonces"
+            intervals [148]:
+                xmin = 526.26
+                xmax = 534.65
+                text = "qué te falta"
+            intervals [149]:
+                xmin = 535.66
+                xmax = 537.7
+                text = " Nada y todo"
+            intervals [150]:
+                xmin = 538.86
+                xmax = 540.03
+                text = " Es verdad que no le molestaban"
+            intervals [151]:
+                xmin = 540.68
+                xmax = 543.02
+                text = " pero aquello era inseguro"
+            intervals [152]:
+                xmin = 543.97
+                xmax = 546.32
+                text = " Podían cambiar los tiempos y tener que volver al monte"
+            intervals [153]:
+                xmin = 546.88
+                xmax = 550.42
+                text = " Él querrá lo prometido"
+            intervals [154]:
+                xmin = 552.29
+                xmax = 555.6
+                text = " el indulto"
+            intervals [155]:
+                xmin = 556.27
+                xmax = 557.83
+                text = "recordons"
+            intervals [156]:
+                xmin = 558.72
+                xmax = 562.0
+                text = " Y formulaba su pretensión tan pronto en valenciano como en castellano de pronunciación ininteligible"
+            intervals [157]:
+                xmin = 562.69
+                xmax = 564.99
+                text = "Lo tendrás"
+            intervals [158]:
+                xmin = 565.6
+                xmax = 567.1
+                text = " hombre"
+            intervals [159]:
+                xmin = 568.42
+                xmax = 569.1
+                text = " lo tendrás"
+            intervals [160]:
+                xmin = 569.74
+                xmax = 573.46
+                text = " Está al caer"
+            intervals [161]:
+                xmin = 574.38
+                xmax = 574.85
+                text = " un día de estos será"
+            intervals [162]:
+                xmin = 575.36
+                xmax = 576.25
+                text = " Sonrió Bolsón con ironía cruel"
+            intervals [163]:
+                xmin = 576.96
+                xmax = 579.27
+                text = " No era tan bruto como me creían"
+            intervals [164]:
+                xmin = 580.01
+                xmax = 583.1
+                text = " Había consultado a un abogado de Valencia"
+            intervals [165]:
+                xmin = 584.08
+                xmax = 585.35
+                text = " que se había reído de él y del indulto"
+            intervals [166]:
+                xmin = 585.89
+                xmax = 593.59
+                text = " Tenia que dejarse coger"
+            intervals [167]:
+                xmin = 594.46
+                xmax = 600.81
+                text = " cargarse con paciencia los doscientos o trescientos años que podían salirle en innumerables sentencias"
+            intervals [168]:
+                xmin = 601.81
+                xmax = 604.97
+                text = " y cuando hubiese extinguido una parte en presidio"
+            intervals [169]:
+                xmin = 606.04
+                xmax = 607.37
+                text = " como quien dice de aquí a cien años"
+            intervals [170]:
+                xmin = 609.38
+                xmax = 612.98
+                text = " podría venir el tal indulto"
+            intervals [171]:
+                xmin = 613.59
+                xmax = 616.84
+                text = "Recristo"
+            intervals [172]:
+                xmin = 617.36
+                xmax = 617.37
+                text = " Basta de bromas"
+            intervals [173]:
+                xmin = 618.79
+                xmax = 619.23
+                text = " de él no se burlaba nadie"
+            intervals [174]:
+                xmin = 620.05
+                xmax = 621.63
+                text = " El diputado se inmutó viendo casi perdida la confianza del roder"
+            intervals [175]:
+                xmin = 622.31
+                xmax = 625.61
+                text = "Ese abogado es un ignorante"
+            intervals [176]:
+                xmin = 627.8
+                xmax = 629.22
+                text = "Crees tú que para el Gobierno hay algo imposible"
+            intervals [177]:
+                xmin = 630.03
+                xmax = 630.47
+                text = " Cuenta con que pronto saldrás de penas"
+            intervals [178]:
+                xmin = 631.04
+                xmax = 632.94
+                text = " te lo juro"
+            intervals [179]:
+                xmin = 635.25
+                xmax = 636.8
+                text = " Y le anonadó con su charla"
+            intervals [180]:
+                xmin = 638.09
+                xmax = 639.29
+                text = " le encantó con su palabrería"
+            intervals [181]:
+                xmin = 639.8
+                xmax = 640.89
+                text = " conociendo de antiguo el poder de sus habilidades de parlanchín sobre aquella cabeza fosca"
+            intervals [182]:
+                xmin = 642.2
+                xmax = 644.08
+                text = " Recobró el roder poco a poco su confianza en el diputado"
+            intervals [183]:
+                xmin = 644.68
+                xmax = 645.81
+                text = " Esperaría"
+            intervals [184]:
+                xmin = 646.58
+                xmax = 652.21
+                text = " pero un mes nada más"
+            intervals [185]:
+                xmin = 652.94
+                xmax = 653.41
+                text = " Si después de este plazo no llegaba el indulto"
+            intervals [186]:
+                xmin = 653.96
+                xmax = 655.04
+                text = " no escribiría"
+            intervals [187]:
+                xmin = 656.69
+                xmax = 660.6068480725623
+                text = " no molestaría más"

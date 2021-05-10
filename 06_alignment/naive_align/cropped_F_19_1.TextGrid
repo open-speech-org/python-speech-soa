@@ -1,0 +1,1010 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 693.65
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_19_1"
+        xmin = 0
+        xmax = 693.65
+        intervals: size = 249
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.49
+                text = " Emilia Pardo Bazán"
+            intervals [2]:
+                xmin = 2.54
+                xmax = 3.41
+                text = "Como deseaba escrutar el corazón de mi novia "
+            intervals [3]:
+                xmin = 4.63
+                xmax = 6.19
+                text = "díjome Sandalio Aguilar"
+            intervals [4]:
+                xmin = 6.73
+                xmax = 9.7
+                text = " en la terraza del Casino"
+            intervals [5]:
+                xmin = 10.65
+                xmax = 11.65
+                text = " en la hora propicia a las confidencias"
+            intervals [6]:
+                xmin = 12.63
+                xmax = 13.43
+                text = " cuando los acordes de la orquesta se desmayan en el aire"
+            intervals [7]:
+                xmin = 14.45
+                xmax = 14.71
+                text = " aleteando débiles"
+            intervals [8]:
+                xmin = 15.37
+                xmax = 15.97
+                text = " a manera de fatigadas mariposas"
+            intervals [9]:
+                xmin = 20.1
+                xmax = 24.27
+                text = " y en las conversaciones de amor casi todo es mentira"
+            intervals [10]:
+                xmin = 26.57
+                xmax = 26.9
+                text = " decidí practicar una experiencia que me ilustrase"
+            intervals [11]:
+                xmin = 27.46
+                xmax = 27.61
+                text = " No había asistido ella nunca a una corrida de toros"
+            intervals [12]:
+                xmin = 28.21
+                xmax = 28.69
+                text = "Su tía la educaba con tal rigidez"
+            intervals [13]:
+                xmin = 29.41
+                xmax = 30.66
+                text = " Compré un palco"
+            intervals [14]:
+                xmin = 31.86
+                xmax = 31.97
+                text = " y las invité galantemente"
+            intervals [15]:
+                xmin = 32.73
+                xmax = 33.56
+                text = " La tía transigió"
+            intervals [16]:
+                xmin = 34.28
+                xmax = 35.07
+                text = " convidando a su vez a unas amigas que la ayudasen a llevar"
+            intervals [17]:
+                xmin = 35.6
+                xmax = 35.62
+                text = " según ella decía"
+            intervals [18]:
+                xmin = 37.12
+                xmax = 37.38
+                text = " el peso de la "
+            intervals [19]:
+                xmin = 38.26
+                xmax = 38.9
+                text = "cesta"
+            intervals [20]:
+                xmin = 39.51
+                xmax = 40.41
+                text = " Me senté en el ángulo del palco"
+            intervals [21]:
+                xmin = 41.28
+                xmax = 43.14
+                text = " al lado de mi Bertina "
+            intervals [22]:
+                xmin = 44.2
+                xmax = 44.26
+                text = "ya sabe usted"
+            intervals [23]:
+                xmin = 45.78
+                xmax = 49.19
+                text = " Albertina Laguarda"
+            intervals [24]:
+                xmin = 50.49
+                xmax = 52.59
+                text = " hoy marquesa de Lucientes"
+            intervals [25]:
+                xmin = 53.24
+                xmax = 54.63
+                text = " No"
+            intervals [26]:
+                xmin = 55.29
+                xmax = 55.69
+                text = " no crea usted que me he interrumpido porque me corte el habla ninguna emoción"
+            intervals [27]:
+                xmin = 57.51
+                xmax = 57.83
+                text = " Es que la noche empieza a refrescar"
+            intervals [28]:
+                xmin = 58.34
+                xmax = 58.48
+                text = " y yo tengo unos bronquios que todo lo notan en seguida"
+            intervals [29]:
+                xmin = 59.06
+                xmax = 59.35
+                text = "Ejem"
+            intervals [30]:
+                xmin = 60.7
+                xmax = 60.75
+                text = " Y Sandalio tosió con la precisión y la pulcritud que le caracterizan"
+            intervals [31]:
+                xmin = 61.39
+                xmax = 65.12
+                text = " aplicando a la boca un fino pañuelo"
+            intervals [32]:
+                xmin = 66.72
+                xmax = 70.46
+                text = " fragante"
+            intervals [33]:
+                xmin = 71.01
+                xmax = 71.78
+                text = " de amplísima orla"
+            intervals [34]:
+                xmin = 72.6
+                xmax = 73.71
+                text = "Bien"
+            intervals [35]:
+                xmin = 74.33
+                xmax = 75.82
+                text = " ya hemos pagado el tributo irremisible a la señora tos"
+            intervals [36]:
+                xmin = 77.74
+                xmax = 77.95
+                text = " Quedamos en que me instalé a la vera de mi novia"
+            intervals [37]:
+                xmin = 78.51
+                xmax = 80.58
+                text = " que por cierto estaba guapísima con su mantilla blanca de encaje rancio"
+            intervals [38]:
+                xmin = 81.24
+                xmax = 82.0
+                text = " Llevaba un traje rosa salmón"
+            intervals [39]:
+                xmin = 82.9
+                xmax = 82.93
+                text = " o más bien"
+            intervals [40]:
+                xmin = 83.69
+                xmax = 85.19
+                text = " rosa carne"
+            intervals [41]:
+                xmin = 85.81
+                xmax = 85.96
+                text = " escotado"
+            intervals [42]:
+                xmin = 86.79
+                xmax = 91.01
+                text = " y la juguetona blonda confundía de un modo delicioso los tonos similares de la tez y de la vestidura"
+            intervals [43]:
+                xmin = 92.83
+                xmax = 94.5
+                text = " Sobre su pelo castaño y fosco"
+            intervals [44]:
+                xmin = 95.47
+                xmax = 95.84
+                text = " que el sol rafagueaba de oro viejo"
+            intervals [45]:
+                xmin = 96.42
+                xmax = 96.49
+                text = " un manojo entero de clavelones enormes"
+            intervals [46]:
+                xmin = 97.84
+                xmax = 98.77
+                text = " de ese matiz indeciso que no es rojo ni rosa y que al remate de las hojas se cambia en gris argentado"
+            intervals [47]:
+                xmin = 99.68
+                xmax = 99.88
+                text = " se erguía provocativo"
+            intervals [48]:
+                xmin = 100.75
+                xmax = 101.15
+                text = " dentro del medio canalón de la peinetaza de carey"
+            intervals [49]:
+                xmin = 102.32
+                xmax = 102.55
+                text = " No llevaba guantes"
+            intervals [50]:
+                xmin = 104.43
+                xmax = 108.42
+                text = " y su manita"
+            intervals [51]:
+                xmin = 109.13
+                xmax = 111.9
+                text = " cuajada de sortijas"
+            intervals [52]:
+                xmin = 112.77
+                xmax = 113.69
+                text = " relucía al manejar el abanico"
+            intervals [53]:
+                xmin = 115.21
+                xmax = 116.16
+                text = " un gran pericón manileño sembrado de flores extravagantes"
+            intervals [54]:
+                xmin = 118.03
+                xmax = 119.02
+                text = " imposibles"
+            intervals [55]:
+                xmin = 120.65
+                xmax = 120.72
+                text = " La aureola de la mantilla"
+            intervals [56]:
+                xmin = 121.52
+                xmax = 121.99
+                text = " haciendo sombra a frente y sienes"
+            intervals [57]:
+                xmin = 122.9
+                xmax = 123.03
+                text = " profundizaba sus ojos atrayentes e insondables"
+            intervals [58]:
+                xmin = 124.26
+                xmax = 125.6
+                text = " En fin"
+            intervals [59]:
+                xmin = 126.33
+                xmax = 127.06
+                text = " era necesario tener mi calma"
+            intervals [60]:
+                xmin = 127.74
+                xmax = 128.11
+                text = " mi espíritu analítico"
+            intervals [61]:
+                xmin = 128.98
+                xmax = 130.56
+                text = " para no olvidar completamente que se trataba de una experiencia de psicología"
+            intervals [62]:
+                xmin = 131.79
+                xmax = 131.95
+                text = " de que impresiones fuertes e inesperadas descubriesen algún rincón del alma de una mujer destinada a ser toda la vida mi amante compañera"
+            intervals [63]:
+                xmin = 134.31
+                xmax = 135.82
+                text = " Me dediqué"
+            intervals [64]:
+                xmin = 136.69
+                xmax = 137.08
+                text = " solícito"
+            intervals [65]:
+                xmin = 137.7
+                xmax = 138.86
+                text = " a explicar lo que allí iba a suceder"
+            intervals [66]:
+                xmin = 139.83
+                xmax = 140.99
+                text = " y desde el primer momento sufrí una decepción"
+            intervals [67]:
+                xmin = 141.55
+                xmax = 141.73
+                text = " Bertina sabía perfectamente los mínimos detalles de la fiesta nacional"
+            intervals [68]:
+                xmin = 142.54
+                xmax = 142.68
+                text = " Periódicos y conversaciones la tenían bien enterada"
+            intervals [69]:
+                xmin = 143.41
+                xmax = 143.51
+                text = "Cualquier enseña nada nuevo a nadie en la época presente"
+            intervals [70]:
+                xmin = 145.57
+                xmax = 145.63
+                text = " No quedan divinas ignorancias"
+            intervals [71]:
+                xmin = 146.19
+                xmax = 146.24
+                text = " Me sentí contrariado de veras"
+            intervals [72]:
+                xmin = 147.42
+                xmax = 148.66
+                text = "Qué iniciación me perdía"
+            intervals [73]:
+                xmin = 149.42
+                xmax = 149.49
+                text = " Mi amor propio sufrió involuntariamente"
+            intervals [74]:
+                xmin = 150.75
+                xmax = 151.02
+                text = "Cuánto placer en el capullo cerrado"
+            intervals [75]:
+                xmin = 151.68
+                xmax = 155.63
+                text = " cuánta delicia en rasgar el velo"
+            intervals [76]:
+                xmin = 156.22
+                xmax = 157.05
+                text = " Para más mortificarme"
+            intervals [77]:
+                xmin = 158.14
+                xmax = 159.04
+                text = " trocándose los papeles"
+            intervals [78]:
+                xmin = 160.34
+                xmax = 161.66
+                text = " ella misma"
+            intervals [79]:
+                xmin = 162.34
+                xmax = 162.45
+                text = " experta por intuición"
+            intervals [80]:
+                xmin = 163.22
+                xmax = 164.09
+                text = " me iba guiando a mí"
+            intervals [81]:
+                xmin = 164.62
+                xmax = 167.73
+                text = "Ahora es lo más lucido"
+            intervals [82]:
+                xmin = 168.53
+                xmax = 169.39
+                text = " el despejo de la plaza y salida de la cuadrilla"
+            intervals [83]:
+                xmin = 170.35
+                xmax = 170.5
+                text = "Qué precioso"
+            intervals [84]:
+                xmin = 172.96
+                xmax = 174.66
+                text = " Ahí vienen Sombrerito Chico y El Pajel"
+            intervals [85]:
+                xmin = 175.29
+                xmax = 177.3
+                text = " con unos andares"
+            intervals [86]:
+                xmin = 178.45
+                xmax = 179.23
+                text = " Los trajes me encantan"
+            intervals [87]:
+                xmin = 179.83
+                xmax = 180.92
+                text = " Un ascua de oro el de Pajel y una pura filigrana de plata el de Sombrerito"
+            intervals [88]:
+                xmin = 182.27
+                xmax = 182.38
+                text = " Visten mejor que nosotras"
+            intervals [89]:
+                xmin = 183.07
+                xmax = 185.15
+                text = " El Pajel es muy elegante"
+            intervals [90]:
+                xmin = 185.82
+                xmax = 186.91
+                text = " muy esbelto"
+            intervals [91]:
+                xmin = 187.76
+                xmax = 188.87
+                text = " De cara morena"
+            intervals [92]:
+                xmin = 189.91
+                xmax = 190.21
+                text = " Es chistosa su cara"
+            intervals [93]:
+                xmin = 190.81
+                xmax = 192.07
+                text = "De cerca"
+            intervals [94]:
+                xmin = 193.78
+                xmax = 194.58
+                text = " picado de viruelas"
+            intervals [95]:
+                xmin = 195.28
+                xmax = 195.54
+                text = " con cada agujero así "
+            intervals [96]:
+                xmin = 196.22
+                xmax = 196.28
+                text = "advertí"
+            intervals [97]:
+                xmin = 196.92
+                xmax = 197.93
+                text = " porque a ningún novio le hace maldita la gracia que su novia ensalce a otro hombre"
+            intervals [98]:
+                xmin = 198.63
+                xmax = 202.26
+                text = " Un tío más bruto que un cerrojo"
+            intervals [99]:
+                xmin = 203.78
+                xmax = 204.47
+                text = " Si le zamarrean"
+            intervals [100]:
+                xmin = 204.98
+                xmax = 205.36
+                text = " echa bellotas"
+            intervals [101]:
+                xmin = 205.87
+                xmax = 206.84
+                text = "Bah"
+            intervals [102]:
+                xmin = 207.36
+                xmax = 207.46
+                text = " De cerca creo que no habrá muchas ocasiones de contemplarle "
+            intervals [103]:
+                xmin = 208.6
+                xmax = 211.42
+                text = "respondió Bertina"
+            intervals [104]:
+                xmin = 212.84
+                xmax = 213.75
+                text = " riendo coquetamente"
+            intervals [105]:
+                xmin = 214.41
+                xmax = 215.93
+                text = " penetrando mi intención con agudeza de mujer"
+            intervals [106]:
+                xmin = 216.82
+                xmax = 217.45
+                text = " por más que a él y a los de su cuadrilla me los encuentro en la calle vestidos de corto y me echan chicoleos"
+            intervals [107]:
+                xmin = 218.7
+                xmax = 222.02
+                text = "Ay"
+            intervals [108]:
+                xmin = 222.9
+                xmax = 226.62
+                text = " Mira"
+            intervals [109]:
+                xmin = 227.63
+                xmax = 228.7
+                text = " acaba de entregar el capote de paseo a Félix Nieva"
+            intervals [110]:
+                xmin = 229.22
+                xmax = 229.3
+                text = " Son muy amigotes"
+            intervals [111]:
+                xmin = 230.75
+                xmax = 232.42
+                text = "Veo que estás informadísima"
+            intervals [112]:
+                xmin = 233.32
+                xmax = 234.36
+                text = "Ah"
+            intervals [113]:
+                xmin = 234.89
+                xmax = 234.96
+                text = " el toro"
+            intervals [114]:
+                xmin = 235.91
+                xmax = 238.34
+                text = "exclamó vivamente"
+            intervals [115]:
+                xmin = 239.58
+                xmax = 241.86
+                text = " La fiera"
+            intervals [116]:
+                xmin = 242.62
+                xmax = 244.78
+                text = " que había salido corriendo"
+            intervals [117]:
+                xmin = 246.37
+                xmax = 246.63
+                text = " se plantó en mitad de la plaza"
+            intervals [118]:
+                xmin = 247.27
+                xmax = 247.67
+                text = " Era un bicho negro"
+            intervals [119]:
+                xmin = 248.53
+                xmax = 248.72
+                text = " poderoso"
+            intervals [120]:
+                xmin = 249.5
+                xmax = 249.59
+                text = " que parecía modelado por Benlliure"
+            intervals [121]:
+                xmin = 250.13
+                xmax = 250.88
+                text = " Sus astas"
+            intervals [122]:
+                xmin = 251.46
+                xmax = 251.73
+                text = " finísimas en la punta"
+            intervals [123]:
+                xmin = 252.52
+                xmax = 253.87
+                text = " curvadas con brío amenazador"
+            intervals [124]:
+                xmin = 254.74
+                xmax = 259.85
+                text = " contrastaban con la cabeza estúpida"
+            intervals [125]:
+                xmin = 260.63
+                xmax = 261.13
+                text = " casi dulce"
+            intervals [126]:
+                xmin = 261.75
+                xmax = 262.77
+                text = " casi pacífica"
+            intervals [127]:
+                xmin = 263.36
+                xmax = 263.78
+                text = " La ferocidad vendría a su hora"
+            intervals [128]:
+                xmin = 265.26
+                xmax = 266.15
+                text = " cuando hubiesen acosado a la res"
+            intervals [129]:
+                xmin = 266.66
+                xmax = 267.64
+                text = " desgarrado su piel"
+            intervals [130]:
+                xmin = 268.23
+                xmax = 268.42
+                text = " acribillado su carne"
+            intervals [131]:
+                xmin = 269.08
+                xmax = 270.95
+                text = " inflamado su sangre"
+            intervals [132]:
+                xmin = 271.51
+                xmax = 271.53
+                text = " excitado su desesperación"
+            intervals [133]:
+                xmin = 272.95
+                xmax = 273.3
+                text = " hinchando sus pulmones con la queja cavernosa del mugido"
+            intervals [134]:
+                xmin = 273.89
+                xmax = 273.9
+                text = " pero en aquel instante"
+            intervals [135]:
+                xmin = 275.3
+                xmax = 276.04
+                text = " sorprendido y deslumbrado"
+            intervals [136]:
+                xmin = 276.76
+                xmax = 277.19
+                text = " molestado sólo por el picotazo de la divisa"
+            intervals [137]:
+                xmin = 278.21
+                xmax = 278.74
+                text = " el toro no sentía más que extrañeza y la nostalgia con que el instinto le recordaba los frescores de la dehesa"
+            intervals [138]:
+                xmin = 280.05
+                xmax = 280.19
+                text = " los aromas de los pastos"
+            intervals [139]:
+                xmin = 281.47
+                xmax = 283.22
+                text = " el borboteo del agua del arroyo"
+            intervals [140]:
+                xmin = 283.8
+                xmax = 284.73
+                text = " Iba a comenzar la faena de caballos"
+            intervals [141]:
+                xmin = 285.42
+                xmax = 285.8
+                text = " Allí esperaba yo a Bertina"
+            intervals [142]:
+                xmin = 286.86
+                xmax = 287.69
+                text = " Espiaba"
+            intervals [143]:
+                xmin = 288.75
+                xmax = 290.83
+                text = " en el lago pérfido de sus pupilas"
+            intervals [144]:
+                xmin = 291.8
+                xmax = 292.46
+                text = " la agitación de la sensibilidad"
+            intervals [145]:
+                xmin = 293.38
+                xmax = 293.9
+                text = " Por mucho que se la hubiesen explicado"
+            intervals [146]:
+                xmin = 294.97
+                xmax = 295.01
+                text = " la suerte de varas tiene siempre lo imprevisto y brutal del espectáculo cruento"
+            intervals [147]:
+                xmin = 295.58
+                xmax = 296.84
+                text = " la sensación material es nueva necesariamente"
+            intervals [148]:
+                xmin = 298.61
+                xmax = 300.54
+                text = " aunque la inteligencia la haya razonado de antemano"
+            intervals [149]:
+                xmin = 302.16
+                xmax = 302.26
+                text = " Rígidos"
+            intervals [150]:
+                xmin = 303.61
+                xmax = 303.86
+                text = " terciada la pica"
+            intervals [151]:
+                xmin = 306.89
+                xmax = 307.61
+                text = " los varilargueros esperaban la embestida de la fiera"
+            intervals [152]:
+                xmin = 308.14
+                xmax = 308.19
+                text = " que"
+            intervals [153]:
+                xmin = 308.86
+                xmax = 308.91
+                text = " después de recorrer a escape el redondel dos o tres vueltas"
+            intervals [154]:
+                xmin = 309.55
+                xmax = 309.56
+                text = " distraída y desdeñosa"
+            intervals [155]:
+                xmin = 310.86
+                xmax = 311.93
+                text = " se fijó"
+            intervals [156]:
+                xmin = 312.85
+                xmax = 313.05
+                text = " por fin"
+            intervals [157]:
+                xmin = 313.64
+                xmax = 315.51
+                text = " en aquellas macizas estantiguas ecuestres"
+            intervals [158]:
+                xmin = 316.27
+                xmax = 317.07
+                text = " en los famélicos bultos que las soportaban"
+            intervals [159]:
+                xmin = 317.89
+                xmax = 318.46
+                text = " y cuya línea angulosa"
+            intervals [160]:
+                xmin = 319.04
+                xmax = 321.63
+                text = " desvencijada"
+            intervals [161]:
+                xmin = 322.15
+                xmax = 322.89
+                text = " se exageraba caricaturesca en la proyección de sombra"
+            intervals [162]:
+                xmin = 324.27
+                xmax = 325.03
+                text = " Resopló el toro"
+            intervals [163]:
+                xmin = 327.44
+                xmax = 328.4
+                text = " partió como un rayo"
+            intervals [164]:
+                xmin = 328.94
+                xmax = 329.46
+                text = " y mientras la puya se le hincaba en la carne"
+            intervals [165]:
+                xmin = 330.92
+                xmax = 334.99
+                text = " rasgó él con la aguda cuerna el arca del vientre del caballo"
+            intervals [166]:
+                xmin = 336.35
+                xmax = 337.28
+                text = " Brotó de la rasgadura larga"
+            intervals [167]:
+                xmin = 338.13
+                xmax = 338.22
+                text = " humeante"
+            intervals [168]:
+                xmin = 339.51
+                xmax = 340.21
+                text = " todo el paquete intestinal"
+            intervals [169]:
+                xmin = 341.79
+                xmax = 342.22
+                text = " fiemo y sangre"
+            intervals [170]:
+                xmin = 342.81
+                xmax = 342.85
+                text = " en hedionda mescolanza"
+            intervals [171]:
+                xmin = 343.75
+                xmax = 344.08
+                text = " se emplastaron en la arena"
+            intervals [172]:
+                xmin = 344.84
+                xmax = 345.76
+                text = " las patas del caballo"
+            intervals [173]:
+                xmin = 346.34
+                xmax = 346.47
+                text = " al querer arrancar en espantada huida"
+            intervals [174]:
+                xmin = 347.52
+                xmax = 348.65
+                text = " se enredaron en el revoltijo de tripas colgantes"
+            intervals [175]:
+                xmin = 349.26
+                xmax = 349.83
+                text = " y lo pisotearon y despedazaron"
+            intervals [176]:
+                xmin = 350.98
+                xmax = 351.14
+                text = " sacudiendo trozos y piltrafas"
+            intervals [177]:
+                xmin = 352.79
+                xmax = 354.73
+                text = " el jaco"
+            intervals [178]:
+                xmin = 355.46
+                xmax = 357.04
+                text = " vacío"
+            intervals [179]:
+                xmin = 358.03
+                xmax = 358.98
+                text = " titubeó"
+            intervals [180]:
+                xmin = 360.13
+                xmax = 360.85
+                text = " tembló convulsivo sobre sus cuatro remos"
+            intervals [181]:
+                xmin = 362.01
+                xmax = 362.7
+                text = " y en tanto que el picador se zafaba pesadamente"
+            intervals [182]:
+                xmin = 363.8
+                xmax = 363.9
+                text = " tumbose desplomado"
+            intervals [183]:
+                xmin = 365.2
+                xmax = 365.29
+                text = " mascando el aire con bascas de agonía"
+            intervals [184]:
+                xmin = 366.17
+                xmax = 366.5
+                text = " Fijamente miraba a Bertina yo"
+            intervals [185]:
+                xmin = 367.14
+                xmax = 367.18
+                text = " Su perfil"
+            intervals [186]:
+                xmin = 368.01
+                xmax = 368.1
+                text = " de entre las ondas de la mantilla"
+            intervals [187]:
+                xmin = 370.82
+                xmax = 371.62
+                text = " salía acentuado"
+            intervals [188]:
+                xmin = 372.85
+                xmax = 373.81
+                text = " como adelgazado por una contracción nerviosa"
+            intervals [189]:
+                xmin = 374.96
+                xmax = 375.57
+                text = " Las alas de su nariz delicada"
+            intervals [190]:
+                xmin = 376.38
+                xmax = 376.45
+                text = " palpitaban"
+            intervals [191]:
+                xmin = 377.4
+                xmax = 377.43
+                text = " y sus mejillas eran dos hojas de magnolia"
+            intervals [192]:
+                xmin = 378.05
+                xmax = 379.59
+                text = " recién abierta"
+            intervals [193]:
+                xmin = 380.49
+                xmax = 382.11
+                text = " tersas y blancas"
+            intervals [194]:
+                xmin = 383.11
+                xmax = 384.32
+                text = " que jamás ha regado el rocío"
+            intervals [195]:
+                xmin = 384.91
+                xmax = 385.89
+                text = " Es indudable que siente "
+            intervals [196]:
+                xmin = 386.84
+                xmax = 387.79
+                text = "pensé al pronto"
+            intervals [197]:
+                xmin = 389.48
+                xmax = 390.87
+                text = " Es el horror lo que hace aletear su corazón y albear su tez"
+            intervals [198]:
+                xmin = 392.69
+                xmax = 394.59
+                text = " Va a volverse y a decirme que no la traiga más a esta carnicería"
+            intervals [199]:
+                xmin = 395.63
+                xmax = 396.97
+                text = " Volvíase Bertina"
+            intervals [200]:
+                xmin = 398.16
+                xmax = 399.5
+                text = " en efecto"
+            intervals [201]:
+                xmin = 400.02
+                xmax = 400.04
+                text = " Su rostro"
+            intervals [202]:
+                xmin = 400.8
+                xmax = 400.84
+                text = " al buscar el mío"
+            intervals [203]:
+                xmin = 401.48
+                xmax = 401.57
+                text = " sonreía"
+            intervals [204]:
+                xmin = 402.18
+                xmax = 402.54
+                text = " con travesura deliciosa"
+            intervals [205]:
+                xmin = 403.41
+                xmax = 403.51
+                text = " con una mezcla de queja y mimo"
+            intervals [206]:
+                xmin = 404.35
+                xmax = 404.65
+                text = " de resignación y chuscada"
+            intervals [207]:
+                xmin = 405.22
+                xmax = 405.26
+                text = " que desafiaba el pincel del retratista más expresivo"
+            intervals [208]:
+                xmin = 405.99
+                xmax = 406.29
+                text = " Y su mano"
+            intervals [209]:
+                xmin = 406.98
+                xmax = 409.12
+                text = " cual relicario de anillos de pedrería"
+            intervals [210]:
+                xmin = 409.82
+                xmax = 410.11
+                text = " engaste de la joya más valiosa aún de los deditos ebúrneos y las uñas rosadas"
+            intervals [211]:
+                xmin = 410.69
+                xmax = 410.75
+                text = " alzaba airosamente el abierto abanico madrileño"
+            intervals [212]:
+                xmin = 411.34
+                xmax = 411.41
+                text = " poniéndolo como un biombo ante la vista del cuerpo de la sardina despanzurrada"
+            intervals [213]:
+                xmin = 412.41
+                xmax = 414.65
+                text = " y dejando"
+            intervals [214]:
+                xmin = 416.6
+                xmax = 418.81
+                text = " a la parte que el país exornado con extravagantes flores no interceptaba"
+            intervals [215]:
+                xmin = 419.93
+                xmax = 420.36
+                text = " libre el campo para contemplar ávidamente cómo El Pajel iba a parear"
+            intervals [216]:
+                xmin = 421.29
+                xmax = 422.03
+                text = " una galantería al público"
+            intervals [217]:
+                xmin = 423.45
+                xmax = 424.54
+                text = " un rasgo de condescendencia del diestro"
+            intervals [218]:
+                xmin = 425.09
+                xmax = 425.84
+                text = "De estas cosas feas"
+            intervals [219]:
+                xmin = 427.04
+                xmax = 427.13
+                text = " lo mejor es defenderse con el abanico "
+            intervals [220]:
+                xmin = 427.81
+                xmax = 428.35
+                text = "murmuró"
+            intervals [221]:
+                xmin = 429.27
+                xmax = 429.42
+                text = " traduciendo a su manera la pregunta de mis ojos"
+            intervals [222]:
+                xmin = 430.42
+                xmax = 430.75
+                text = " Porque no viéndolas"
+            intervals [223]:
+                xmin = 431.67
+                xmax = 432.57
+                text = "verdad"
+            intervals [224]:
+                xmin = 433.3
+                xmax = 433.91
+                text = " es lo mismo que si no las hubiese"
+            intervals [225]:
+                xmin = 434.56
+                xmax = 434.78
+                text = "Te basta a ti con el abanico"
+            intervals [226]:
+                xmin = 436.23
+                xmax = 436.79
+                text = "respondí en el mismo tono confidencial y afable"
+            intervals [227]:
+                xmin = 438.31
+                xmax = 438.36
+                text = "Claro que sí"
+            intervals [228]:
+                xmin = 439.1
+                xmax = 439.17
+                text = " Ya no se ve ese asco "
+            intervals [229]:
+                xmin = 440.14
+                xmax = 440.23
+                text = "afirmó"
+            intervals [230]:
+                xmin = 441.34
+                xmax = 442.16
+                text = " acercando a su nariz el esenciero"
+            intervals [231]:
+                xmin = 443.43
+                xmax = 443.64
+                text = " que con otros dijes minúsculos colgaba de su cadena de oro"
+            intervals [232]:
+                xmin = 444.58
+                xmax = 445.43
+                text = " Me precio de prudente"
+            intervals [233]:
+                xmin = 445.99
+                xmax = 446.45
+                text = " de hábil"
+            intervals [234]:
+                xmin = 447.33
+                xmax = 447.5
+                text = " y tardé aún seis meses en retirar de un modo suave e insensible mi candidatura a la mano ensortijada de Bertina"
+            intervals [235]:
+                xmin = 449.13
+                xmax = 450.2
+                text = " En este tiempo pude cerciorarme de que el sistema del abanico lo aplicaba a todos los casos posibles"
+            intervals [236]:
+                xmin = 450.81
+                xmax = 452.2
+                text = " Tapar"
+            intervals [237]:
+                xmin = 453.33
+                xmax = 455.1
+                text = " tapar"
+            intervals [238]:
+                xmin = 455.9
+                xmax = 456.36
+                text = " que ojos que no ven"
+            intervals [239]:
+                xmin = 457.19
+                xmax = 459.89
+                text = " corazón que no quiebra"
+            intervals [240]:
+                xmin = 461.09
+                xmax = 463.02
+                text = "Y yo no quiero un corazón que se regula por la materialidad de los ojos"
+            intervals [241]:
+                xmin = 463.65
+                xmax = 463.86
+                text = "No estaba usted enamorado de Bertina "
+            intervals [242]:
+                xmin = 464.59
+                xmax = 466.2
+                text = "objeté"
+            intervals [243]:
+                xmin = 466.82
+                xmax = 467.77
+                text = " Si lo estuviese"
+            intervals [244]:
+                xmin = 468.32
+                xmax = 468.52
+                text = " prescindiría de estos tiquis miquis"
+            intervals [245]:
+                xmin = 469.08
+                xmax = 469.63
+                text = " y aun sin estarlo"
+            intervals [246]:
+                xmin = 470.72
+                xmax = 471.49
+                text = " debió usted comprender que su actitud era eminentemente social"
+            intervals [247]:
+                xmin = 472.48
+                xmax = 474.71
+                text = " Nadie hace otra cosa"
+            intervals [248]:
+                xmin = 475.33
+                xmax = 475.96
+                text = " No se mira lo que no puede evitarse"
+            intervals [249]:
+                xmin = 476.97
+                xmax = 477.34
+                text = " La sociedad esgrime un abanico inmenso"
