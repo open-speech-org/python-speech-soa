@@ -11,7 +11,7 @@ item []:
         name = "F_50_1"
         xmin = 0
         xmax = 97.2917006802721
-        intervals: size = 44
+        intervals: size = 43
             intervals [1]:
                 xmin = 0.0
                 xmax = 2.1559863945578233
@@ -184,7 +184,3 @@ item []:
                 xmin = 80.69975056689343
                 xmax = 83.39736961451247
                 text = "46"
-            intervals [44]:
-                xmin = 83.39736961451247
-                xmax = 97.2917006802721
-                text = ""

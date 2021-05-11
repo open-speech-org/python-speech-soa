@@ -1,0 +1,58 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 35.32
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "F_55_1"
+        xmin = 0
+        xmax = 35.32
+        intervals: size = 11
+            intervals [1]:
+                xmin = 0.0
+                xmax = 0.72
+                text = " Dichoso el árbol"
+            intervals [2]:
+                xmin = 2.13
+                xmax = 3.96
+                text = " que es apenas sensitivo  y más la piedra dura porque esa ya no siente"
+            intervals [3]:
+                xmin = 4.86
+                xmax = 9.35
+                text = " pues no hay dolor más grande que el dolor de ser vivo"
+            intervals [4]:
+                xmin = 10.82
+                xmax = 12.2
+                text = " ni mayor pesadumbre que la vida consciente"
+            intervals [5]:
+                xmin = 16.54
+                xmax = 16.57
+                text = " Ser y no saber nada"
+            intervals [6]:
+                xmin = 17.42
+                xmax = 19.75
+                text = " y ser sin rumbo cierto  y el temor de haber sido y un futuro terror"
+            intervals [7]:
+                xmin = 20.58
+                xmax = 22.01
+                text = " Y el espanto seguro de estar mañana muerto"
+            intervals [8]:
+                xmin = 22.52
+                xmax = 25.74
+                text = " y sufrir por la vida y por la sombra y por"
+            intervals [9]:
+                xmin = 26.37
+                xmax = 27.91
+                text = " lo que no conocemos y apenas sospechamos"
+            intervals [10]:
+                xmin = 29.34
+                xmax = 32.98
+                text = " y la carne que tienta con sus frescos racimos"
+            intervals [11]:
+                xmin = 34.1
+                xmax = 38.360068027210886
+                text = " y la tumba que aguarda con sus fúnebres ramos"

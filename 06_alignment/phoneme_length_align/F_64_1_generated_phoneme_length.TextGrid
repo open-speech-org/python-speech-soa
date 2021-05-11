@@ -1,0 +1,46 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 27.77
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "F_64_1"
+        xmin = 0
+        xmax = 27.77
+        intervals: size = 8
+            intervals [1]:
+                xmin = 0.0
+                xmax = 2.64
+                text = " Ojos claros  serenos  si de un dulce mirar sois alabados"
+            intervals [2]:
+                xmin = 3.5
+                xmax = 5.92
+                text = "por qué  si me miráis"
+            intervals [3]:
+                xmin = 6.76
+                xmax = 9.11
+                text = " miráis airados  Si cuanto más piadosos"
+            intervals [4]:
+                xmin = 9.92
+                xmax = 14.83
+                text = " más bellos parecéis a aquel que os mira  no me miréis con ira"
+            intervals [5]:
+                xmin = 15.78
+                xmax = 19.59
+                text = " porque no parezcáis menos hermosos Ay tormentos rabiosos"
+            intervals [6]:
+                xmin = 20.57
+                xmax = 22.58
+                text = " Ojos claros  serenos"
+            intervals [7]:
+                xmin = 24.57
+                xmax = 25.28
+                text = " ya que así me miráis"
+            intervals [8]:
+                xmin = 25.92
+                xmax = 27.24
+                text = " miradme al menos"

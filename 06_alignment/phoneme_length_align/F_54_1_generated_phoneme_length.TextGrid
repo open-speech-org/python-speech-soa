@@ -1,0 +1,42 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 19.55
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "F_54_1"
+        xmin = 0
+        xmax = 19.55
+        intervals: size = 7
+            intervals [1]:
+                xmin = 0.0
+                xmax = 6.83
+                text = " Reprochaba una zorra a una leona el hecho de  que siempre sólo pariese a un pequeñuelo"
+            intervals [2]:
+                xmin = 8.19
+                xmax = 9.23
+                text = " Y le  contestó la leona"
+            intervals [3]:
+                xmin = 10.13
+                xmax = 10.27
+                text = "Sí"
+            intervals [4]:
+                xmin = 10.94
+                xmax = 12.27
+                text = " uno solo  tienes razón"
+            intervals [5]:
+                xmin = 12.93
+                xmax = 14.01
+                text = "pero un señor león "
+            intervals [6]:
+                xmin = 15.88
+                xmax = 18.86
+                text = " No midas el valor de las cosas por su cantidad"
+            intervals [7]:
+                xmin = 19.55
+                xmax = 20.852879818594104
+                text = " sino por su virtud"

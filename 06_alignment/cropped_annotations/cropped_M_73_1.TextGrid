@@ -11,7 +11,7 @@ item []:
         name = "M_73_1"
         xmin = 0
         xmax = 45.10079365079365
-        intervals: size = 7
+        intervals: size = 6
             intervals [1]:
                 xmin = 0.0
                 xmax = 9.719773242630389
@@ -36,7 +36,3 @@ item []:
                 xmin = 29.920430839002265
                 xmax = 34.37303854875283
                 text = "6"
-            intervals [7]:
-                xmin = 34.37303854875283
-                xmax = 45.10079365079365
-                text = ""
