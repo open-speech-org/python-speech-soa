@@ -1,0 +1,54 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 22.24
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_52_1"
+        xmin = 0
+        xmax = 22.24
+        intervals: size = 10
+            intervals [1]:
+                xmin = 0.0
+                xmax = 3.08
+                text = " Iba un niño travieso  Cazando mariposas"
+            intervals [2]:
+                xmin = 4.25
+                xmax = 5.36
+                text = " Las cazaba el bribón"
+            intervals [3]:
+                xmin = 5.9
+                xmax = 6.66
+                text = " les daba un beso"
+            intervals [4]:
+                xmin = 7.87
+                xmax = 9.79
+                text = " Y después las soltaba entre las rosas"
+            intervals [5]:
+                xmin = 11.85
+                xmax = 12.44
+                text = " Por tierra"
+            intervals [6]:
+                xmin = 13.01
+                xmax = 13.77
+                text = " en un estero"
+            intervals [7]:
+                xmin = 14.8
+                xmax = 15.86
+                text = " Estaba un sicomoro"
+            intervals [8]:
+                xmin = 17.36
+                xmax = 19.38
+                text = " Le da un rayo de sol  y del madero"
+            intervals [9]:
+                xmin = 20.53
+                xmax = 20.8
+                text = " Muerto"
+            intervals [10]:
+                xmin = 22.24
+                xmax = 24.637301587301586
+                text = " sale volando un ave de oro"

@@ -1,0 +1,54 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 33.53
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "M_42_1"
+        xmin = 0
+        xmax = 33.53
+        intervals: size = 10
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.58
+                text = " Subido en un alto roble  un ruiseñor cantaba como de costumbre"
+            intervals [2]:
+                xmin = 2.16
+                xmax = 3.84
+                text = " Lo vio un gavilán hambriento"
+            intervals [3]:
+                xmin = 4.63
+                xmax = 9.93
+                text = " y lanzándose inmediatamente sobre él  lo apresó en sus garras"
+            intervals [4]:
+                xmin = 10.97
+                xmax = 14.59
+                text = " Seguro de su próxima muerte  el ruiseñor le rogó que le soltara"
+            intervals [5]:
+                xmin = 15.12
+                xmax = 18.27
+                text = " diciéndole que con sólo él no bastaría para llenar su vientre"
+            intervals [6]:
+                xmin = 19.12
+                xmax = 23.25
+                text = " y que si en verdad tenía hambre  debería de apresar a otros más grandes"
+            intervals [7]:
+                xmin = 24.03
+                xmax = 24.98
+                text = " El gavilán le repuso"
+            intervals [8]:
+                xmin = 26.23
+                xmax = 29.61
+                text = " Necio sería si te oyera y dejara escapar la presa que tengo"
+            intervals [9]:
+                xmin = 31.87
+                xmax = 32.27
+                text = " por ir a buscar a la que ni siquiera he visto"
+            intervals [10]:
+                xmin = 33.53
+                xmax = 38.06219954648526
+                text = " No dejemos los bienes que ya tenemos  por ilusiones que ni siquiera divisamos"

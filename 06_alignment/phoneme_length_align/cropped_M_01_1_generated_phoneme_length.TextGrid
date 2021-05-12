@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 184.73
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_01_1"
+        xmin = 0
+        xmax = 184.73
+        intervals: size = 30
+            intervals [1]:
+                xmin = 0.0
+                xmax = 4.93
+                text = "Oh  si bajo estos árboles frondosos"
+            intervals [2]:
+                xmin = 5.77
+                xmax = 8.08
+                text = " Se mostrase la célica hermosura  Que vi algún día en inmortal dulzura"
+            intervals [3]:
+                xmin = 8.68
+                xmax = 21.09
+                text = "                     Este bosque bañar"
+            intervals [4]:
+                xmin = 21.63
+                xmax = 25.05
+                text = " Del cielo tu benéfico descenso"
+            intervals [5]:
+                xmin = 25.56
+                xmax = 27.35
+                text = " Sin duda ha sido  lúcida belleza"
+            intervals [6]:
+                xmin = 28.59
+                xmax = 36.29
+                text = " Deja  pues  diosa  que mi grato incienso                      Arda sobre tu altar"
+            intervals [7]:
+                xmin = 36.82
+                xmax = 39.88
+                text = " Que no es amor mi tímido alborozo"
+            intervals [8]:
+                xmin = 41.19
+                xmax = 41.8
+                text = " Y me acobarda el rígido escarmiento"
+            intervals [9]:
+                xmin = 43.09
+                xmax = 52.18
+                text = " Que  oh Piritoo  condenó tu intento                      Y tu intento"
+            intervals [10]:
+                xmin = 52.94
+                xmax = 54.35
+                text = " Ixión  Lejos de mí sacrílega osadía"
+            intervals [11]:
+                xmin = 55.27
+                xmax = 64.55
+                text = " Bástame que con plácido semblante  Aceptes  diosa  a mis anhelos pía                      Mi ardiente adoración"
+            intervals [12]:
+                xmin = 65.22
+                xmax = 73.53
+                text = " Mi adoración y el cántico de gloria"
+            intervals [13]:
+                xmin = 74.29
+                xmax = 77.51
+                text = " Que de mí el Pindo atónito ya espera"
+            intervals [14]:
+                xmin = 78.19
+                xmax = 90.72
+                text = " Baja tú a oírme de la sacra esfera"
+            intervals [15]:
+                xmin = 91.83
+                xmax = 93.08
+                text = "Oh radiante deidad"
+            intervals [16]:
+                xmin = 95.07
+                xmax = 100.22
+                text = " Y tu mirar más nítido y süave  He de cantar  que fúlgido lucero"
+            intervals [17]:
+                xmin = 100.91
+                xmax = 106.13
+                text = " Y el limpio encanto que infundirnos sabe"
+            intervals [18]:
+                xmin = 107.6
+                xmax = 113.78
+                text = "                     Tu dulce majestad  De pureza jactándose natura"
+            intervals [19]:
+                xmin = 115.46
+                xmax = 118.29
+                text = " Te ha formado del cándido rocío  Que sobre el nardo al apuntar de estío"
+            intervals [20]:
+                xmin = 118.94
+                xmax = 129.05
+                text = "                     La aurora derramó"
+            intervals [21]:
+                xmin = 129.69
+                xmax = 132.55
+                text = " Y excelsamente lánguida retrata  El rosicler pacífico de Mayo"
+            intervals [22]:
+                xmin = 133.13
+                xmax = 134.75
+                text = " Tu alma  Favonio su frescura grata"
+            intervals [23]:
+                xmin = 137.6
+                xmax = 143.43
+                text = "                     A tu hablar trasladó"
+            intervals [24]:
+                xmin = 144.02
+                xmax = 145.99
+                text = "Oh imagen perfectísima del orden  Que liga en lazos fáciles el mundo"
+            intervals [25]:
+                xmin = 146.55
+                xmax = 148.26
+                text = " Sólo en los brazos de la paz fecundo"
+            intervals [26]:
+                xmin = 149.61
+                xmax = 154.88
+                text = "                     Sólo amable en la paz  En vano con espléndido aparato"
+            intervals [27]:
+                xmin = 155.44
+                xmax = 160.37
+                text = " Finge el arte solícito grandezas  Natura vence con sencillo ornato"
+            intervals [28]:
+                xmin = 161.44
+                xmax = 173.39
+                text = "                     Tan altivo disfraz  Monarcas  que los pérsicos tesoros  Ostentáis con magnífica porfía"
+            intervals [29]:
+                xmin = 174.84
+                xmax = 183.56
+                text = " Copiad el brillo de un sereno día                      Sobre el azul del mar"
+            intervals [30]:
+                xmin = 184.73
+                xmax = 187.3748752834467
+                text = " O copie estudio de émula hermosura  De mi deidad el mágico descuido"

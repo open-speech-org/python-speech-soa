@@ -2,7 +2,7 @@ File type = "ooTextFile"
 Object class = "TextGrid"
 
 xmin = 0
-xmax = 42.79
+xmax = 34.77
 tiers? <exists>
 size = 1
 item []:
@@ -10,65 +10,41 @@ item []:
         class = "IntervalTier"
         name = "cropped_M_41_1"
         xmin = 0
-        xmax = 42.79
-        intervals: size = 15
+        xmax = 34.77
+        intervals: size = 9
             intervals [1]:
                 xmin = 0.0
                 xmax = 0.95
                 text = " en una Avenida"
             intervals [2]:
                 xmin = 2.42
-                xmax = 4.62
+                xmax = 10.59
                 text = " Tú"
             intervals [3]:
-                xmin = 5.15
-                xmax = 7.95
-                text = " a quien ofrece el apartado polo"
-            intervals [4]:
-                xmin = 8.48
-                xmax = 10.58
-                text = " Hasta donde su nombre se dilata"
-            intervals [5]:
                 xmin = 11.1
                 xmax = 11.41
-                text = " Preciosos dones de luciente plata"
-            intervals [6]:
+                text = " a quien ofrece el apartado polo"
+            intervals [4]:
                 xmin = 12.42
                 xmax = 18.16
-                text = " Que envidia el rico Tajo y el Pactolo"
-            intervals [7]:
+                text = " Hasta donde su nombre se dilata"
+            intervals [5]:
                 xmin = 18.67
                 xmax = 19.67
-                text = " Para cuya corona"
-            intervals [8]:
+                text = " Preciosos dones de luciente plata"
+            intervals [6]:
                 xmin = 20.24
-                xmax = 20.46
-                text = " como a solo"
-            intervals [9]:
+                xmax = 20.47
+                text = " Que envidia el rico Tajo y el Pactolo"
+            intervals [7]:
                 xmin = 21.35
                 xmax = 28.03
-                text = " Rey de los ríos"
-            intervals [10]:
-                xmin = 29.1
-                xmax = 34.1
-                text = " entreteje y ata"
-            intervals [11]:
+                text = " Para cuya corona"
+            intervals [8]:
+                xmin = 29.07
+                xmax = 34.11
+                text = " como a solo"
+            intervals [9]:
                 xmin = 34.77
-                xmax = 34.87
-                text = " Palas su oliva con la rama ingrata"
-            intervals [12]:
-                xmin = 36.82
-                xmax = 37.95
-                text = " Que contempla en tus márgenes Apolo"
-            intervals [13]:
-                xmin = 38.56
-                xmax = 39.82
-                text = " Claro Guadalquivir"
-            intervals [14]:
-                xmin = 41.21
-                xmax = 42.12
-                text = " si impetüoso"
-            intervals [15]:
-                xmin = 42.79
-                xmax = 49.358390022675735
-                text = " Con crespas ondas y mayor corriente"
+                xmax = 35.96575963718821
+                text = " Rey de los ríos"

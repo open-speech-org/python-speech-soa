@@ -1,0 +1,42 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 26.53
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_70_1"
+        xmin = 0
+        xmax = 26.53
+        intervals: size = 7
+            intervals [1]:
+                xmin = 0.0
+                xmax = 4.24
+                text = " No andes atravesada y no roces tus costados contra la roca mojada  decía una langosta a su hija"
+            intervals [2]:
+                xmin = 5.93
+                xmax = 6.01
+                text = "Madre"
+            intervals [3]:
+                xmin = 7.38
+                xmax = 7.46
+                text = " repuso ésta"
+            intervals [4]:
+                xmin = 12.16
+                xmax = 13.3
+                text = " tú  que quieres instruirme"
+            intervals [5]:
+                xmin = 14.61
+                xmax = 20.1
+                text = " camina derecha y yo te miraré y te imitaré"
+            intervals [6]:
+                xmin = 23.67
+                xmax = 25.25
+                text = " Antes de decir un consejo"
+            intervals [7]:
+                xmin = 26.53
+                xmax = 28.486802721088434
+                text = " primero dalo con tu ejemplo"

@@ -2,7 +2,7 @@ File type = "ooTextFile"
 Object class = "TextGrid"
 
 xmin = 0
-xmax = 898.89
+xmax = 881.47
 tiers? <exists>
 size = 1
 item []:
@@ -10,8 +10,8 @@ item []:
         class = "IntervalTier"
         name = "cropped_F_38_1"
         xmin = 0
-        xmax = 898.89
-        intervals: size = 198
+        xmax = 881.47
+        intervals: size = 194
             intervals [1]:
                 xmin = 0.0
                 xmax = 1.19
@@ -786,21 +786,5 @@ item []:
                 text = " por cualesquiera otros medios de protección social"
             intervals [194]:
                 xmin = 881.47
-                xmax = 889.07
+                xmax = 889.6916099773242
                 text = " 4"
-            intervals [195]:
-                xmin = 890.26
-                xmax = 892.93
-                text = " Toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus intereses"
-            intervals [196]:
-                xmin = 893.89
-                xmax = 896.04
-                text = " Artículo 24"
-            intervals [197]:
-                xmin = 897.41
-                xmax = 898.03
-                text = " Toda persona tiene derecho al descanso"
-            intervals [198]:
-                xmin = 898.89
-                xmax = 907.3711564625851
-                text = " al disfrute del tiempo libre"

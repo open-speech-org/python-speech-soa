@@ -1,0 +1,62 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 40.18
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "M_30_1"
+        xmin = 0
+        xmax = 40.18
+        intervals: size = 12
+            intervals [1]:
+                xmin = 0.0
+                xmax = 4.98
+                text = " Éstas que fueron pompa y alegría  Despertando al albor de la mañana"
+            intervals [2]:
+                xmin = 5.94
+                xmax = 8.97
+                text = " A la tarde serán lástima vana  Durmiendo en brazos de la noche fría"
+            intervals [3]:
+                xmin = 9.87
+                xmax = 10.2
+                text = " Este matiz que al cielo desafía"
+            intervals [4]:
+                xmin = 12.12
+                xmax = 17.09
+                text = " Iris listado de oro  nieve y grana  Será escarmiento de la vida humana"
+            intervals [5]:
+                xmin = 17.87
+                xmax = 19.77
+                text = "Tanto se emprende en término de un día"
+            intervals [6]:
+                xmin = 20.91
+                xmax = 22.96
+                text = " A florecer las rosas madrugaron"
+            intervals [7]:
+                xmin = 24.47
+                xmax = 28.53
+                text = " Y para envejecerse florecieron  Cuna y sepulcro en un botón hallaron"
+            intervals [8]:
+                xmin = 29.37
+                xmax = 31.34
+                text = " Tales los hombres sus fortunas vieron"
+            intervals [9]:
+                xmin = 32.5
+                xmax = 34.69
+                text = " En un día nacieron y expiraron"
+            intervals [10]:
+                xmin = 35.3
+                xmax = 36.95
+                text = " Que pasados los siglos"
+            intervals [11]:
+                xmin = 38.13
+                xmax = 38.95
+                text = " horas fueron"
+            intervals [12]:
+                xmin = 40.18
+                xmax = 41.37839002267574
+                text = " ♥"

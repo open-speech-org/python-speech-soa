@@ -1,0 +1,362 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 309.64
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_29_1"
+        xmin = 0
+        xmax = 309.64
+        intervals: size = 87
+            intervals [1]:
+                xmin = 0.0
+                xmax = 3.36
+                text = " Gabriel García Tassara  Baja otra vez al mundo"
+            intervals [2]:
+                xmin = 4.59
+                xmax = 5.74
+                text = "Baja otra vez  Mesías"
+            intervals [3]:
+                xmin = 9.52
+                xmax = 10.88
+                text = " De nuevo son los días  De tu alta vocación"
+            intervals [4]:
+                xmin = 11.7
+                xmax = 13.38
+                text = " Y en su dolor profundo"
+            intervals [5]:
+                xmin = 14.5
+                xmax = 15.95
+                text = " La humanidad entera  El nuevo oriente espera"
+            intervals [6]:
+                xmin = 16.63
+                xmax = 17.6
+                text = " De un sol de redención  Corrieron veinte edades"
+            intervals [7]:
+                xmin = 19.2
+                xmax = 20.5
+                text = " Desde el supremo día  Que en esa cruz te vía"
+            intervals [8]:
+                xmin = 21.1
+                xmax = 22.15
+                text = " Morir Jerusalén  Y nuevas tempestades"
+            intervals [9]:
+                xmin = 23.08
+                xmax = 23.99
+                text = " Surgieron y bramaron  De aquellas que asolaron"
+            intervals [10]:
+                xmin = 25.43
+                xmax = 26.08
+                text = " El primitivo Edén  De aquellas que le ocultan"
+            intervals [11]:
+                xmin = 28.98
+                xmax = 30.19
+                text = " Al hombre su camino  Con ciego torbellino"
+            intervals [12]:
+                xmin = 30.94
+                xmax = 36.67
+                text = " De culpa y expiación"
+            intervals [13]:
+                xmin = 38.04
+                xmax = 39.27
+                text = " De aquellas que sepultan  En hondos cautiverios"
+            intervals [14]:
+                xmin = 40.1
+                xmax = 41.42
+                text = " Cadáveres de imperios  Que fueron y no son"
+            intervals [15]:
+                xmin = 42.23
+                xmax = 43.89
+                text = " Sereno está en la esfera  El sol del firmamento"
+            intervals [16]:
+                xmin = 44.6
+                xmax = 49.43
+                text = " La tierra en su cimiento"
+            intervals [17]:
+                xmin = 50.39
+                xmax = 51.26
+                text = " Inconmovible está  La blanca primavera"
+            intervals [18]:
+                xmin = 52.37
+                xmax = 54.67
+                text = " Con su gentil abrazo"
+            intervals [19]:
+                xmin = 56.57
+                xmax = 57.98
+                text = " Fecunda el gran regazo  Que flor y fruto da"
+            intervals [20]:
+                xmin = 58.91
+                xmax = 59.96
+                text = " Mas  ay  que de las almas"
+            intervals [21]:
+                xmin = 60.95
+                xmax = 63.96
+                text = " El sol yace eclipsado"
+            intervals [22]:
+                xmin = 66.89
+                xmax = 68.52
+                text = " Mas  ay  que ha vacilado"
+            intervals [23]:
+                xmin = 69.27
+                xmax = 70.26
+                text = " El polo de la fe  Mas "
+            intervals [24]:
+                xmin = 71.19
+                xmax = 74.08
+                text = "ay  que ya tus palmas"
+            intervals [25]:
+                xmin = 75.01
+                xmax = 76.27
+                text = " Se vuelven at desierto  No crecen"
+            intervals [26]:
+                xmin = 76.83
+                xmax = 78.01
+                text = " no  en el huerto"
+            intervals [27]:
+                xmin = 78.87
+                xmax = 80.24
+                text = " Del que tu pueblo fue  Tiniebla es ya la Europa"
+            intervals [28]:
+                xmin = 81.05
+                xmax = 82.25
+                text = " Ella agotó la ciencia  Maldijo su creencia"
+            intervals [29]:
+                xmin = 84.03
+                xmax = 86.1
+                text = " Se apacentó con hiel"
+            intervals [30]:
+                xmin = 88.18
+                xmax = 88.3
+                text = " Y rota ya la copa"
+            intervals [31]:
+                xmin = 89.14
+                xmax = 91.2
+                text = " En que su fe bebía  Se alzaba y te decía"
+            intervals [32]:
+                xmin = 91.96
+                xmax = 92.47
+                text = "Señor  yo soy Luzbel"
+            intervals [33]:
+                xmin = 93.75
+                xmax = 95.63
+                text = " Mas  ay  que contra el cielo"
+            intervals [34]:
+                xmin = 96.24
+                xmax = 97.45
+                text = " No tiene el hombre rayo  Y en súbito desmayo"
+            intervals [35]:
+                xmin = 98.43
+                xmax = 100.86
+                text = " Cayó de ayer a hoy  "Y en son de desconsuelo"
+            intervals [36]:
+                xmin = 101.39
+                xmax = 106.96
+                text = " Y en llanto de impotencia"
+            intervals [37]:
+                xmin = 107.85
+                xmax = 111.33
+                text = " Hoy dama en tu presencia"
+            intervals [38]:
+                xmin = 111.87
+                xmax = 113.25
+                text = "Señor  tu pueblo soy"
+            intervals [39]:
+                xmin = 114.83
+                xmax = 115.98
+                text = " No es  no  la Roma atea"
+            intervals [40]:
+                xmin = 116.74
+                xmax = 117.9
+                text = " Que entre aras derrocadas  Despide a carcajadas"
+            intervals [41]:
+                xmin = 118.8
+                xmax = 125.54
+                text = " Los dioses que se van"
+            intervals [42]:
+                xmin = 126.34
+                xmax = 127.38
+                text = " Es la que  humilde rea"
+            intervals [43]:
+                xmin = 128.47
+                xmax = 129.79
+                text = " Baja a las catacumbas  Y palpa entre las tumbas"
+            intervals [44]:
+                xmin = 130.32
+                xmax = 135.83
+                text = " Los tiempos que vendrán"
+            intervals [45]:
+                xmin = 137.46
+                xmax = 137.97
+                text = " Todo  Señor"
+            intervals [46]:
+                xmin = 138.67
+                xmax = 140.6
+                text = " diciendo"
+            intervals [47]:
+                xmin = 143.88
+                xmax = 145.44
+                text = " Está los grandes días  De luto y agonías"
+            intervals [48]:
+                xmin = 147.1
+                xmax = 148.36
+                text = " De muerte y orfandad  Que"
+            intervals [49]:
+                xmin = 149.51
+                xmax = 150.44
+                text = " del pecado horrendo  Envuelta en el sudario"
+            intervals [50]:
+                xmin = 151.38
+                xmax = 155.14
+                text = " Pasa por un Calvario"
+            intervals [51]:
+                xmin = 156.15
+                xmax = 158.86
+                text = " La ciega humanidad"
+            intervals [52]:
+                xmin = 163.64
+                xmax = 164.66
+                text = " Baja "
+            intervals [53]:
+                xmin = 165.52
+                xmax = 167.59
+                text = "oh Señor"
+            intervals [54]:
+                xmin = 169.11
+                xmax = 170.32
+                text = " no en vano  Siglos y siglos vuelan"
+            intervals [55]:
+                xmin = 170.93
+                xmax = 175.42
+                text = " Los siglos nos revelan"
+            intervals [56]:
+                xmin = 176.05
+                xmax = 182.84
+                text = " Con misteriosa luz"
+            intervals [57]:
+                xmin = 183.5
+                xmax = 186.03
+                text = " El infinito arcano"
+            intervals [58]:
+                xmin = 187.83
+                xmax = 190.42
+                text = " Y la virtud que encierra"
+            intervals [59]:
+                xmin = 191.59
+                xmax = 192.69
+                text = " Trono de cielo y tierra  Tu sacrosanta cruz"
+            intervals [60]:
+                xmin = 193.26
+                xmax = 194.56
+                text = " Toda la historia humana Señor"
+            intervals [61]:
+                xmin = 195.4
+                xmax = 202.53
+                text = " está en tu nombre"
+            intervals [62]:
+                xmin = 203.49
+                xmax = 206.86
+                text = " Tú fuiste Dios del hombre"
+            intervals [63]:
+                xmin = 207.8
+                xmax = 211.22
+                text = " Dios de la humanidad"
+            intervals [64]:
+                xmin = 212.1
+                xmax = 213.02
+                text = " Tu sangre soberana  Es su Calvario eterno"
+            intervals [65]:
+                xmin = 214.11
+                xmax = 217.23
+                text = " Tu triunfo del infierno"
+            intervals [66]:
+                xmin = 220.55
+                xmax = 223.69
+                text = " Es su inmortalidad"
+            intervals [67]:
+                xmin = 224.57
+                xmax = 225.87
+                text = "Quién dijo  Dios clemente"
+            intervals [68]:
+                xmin = 226.84
+                xmax = 230.12
+                text = " Que tú no volverías"
+            intervals [69]:
+                xmin = 231.16
+                xmax = 233.91
+                text = " Y a horribles gemonías"
+            intervals [70]:
+                xmin = 235.1
+                xmax = 241.33
+                text = " Y a eterna perdición"
+            intervals [71]:
+                xmin = 242.03
+                xmax = 243.32
+                text = " Condena a esta doliente  Raza del ser humano"
+            intervals [72]:
+                xmin = 244.25
+                xmax = 249.31
+                text = " Que espera de tu mano"
+            intervals [73]:
+                xmin = 250.52
+                xmax = 251.44
+                text = " Su nueva salvación  Sí"
+            intervals [74]:
+                xmin = 253.29
+                xmax = 253.83
+                text = " tú vendrás  Vencidos"
+            intervals [75]:
+                xmin = 254.39
+                xmax = 258.8
+                text = " Serán con nuevo ejemplo"
+            intervals [76]:
+                xmin = 259.78
+                xmax = 263.76
+                text = " Los que del santo templo"
+            intervals [77]:
+                xmin = 264.62
+                xmax = 268.77
+                text = " Apartan a tu grey"
+            intervals [78]:
+                xmin = 270.49
+                xmax = 273.66
+                text = " Vendrás y confundidos"
+            intervals [79]:
+                xmin = 275.85
+                xmax = 281.3
+                text = " Caerán con los ateos"
+            intervals [80]:
+                xmin = 282.8
+                xmax = 285.91
+                text = " Los nuevos fariseos"
+            intervals [81]:
+                xmin = 286.52
+                xmax = 291.19
+                text = " De la caduca ley"
+            intervals [82]:
+                xmin = 294.87
+                xmax = 296.51
+                text = "Quién sabe si ahora mismo  Entre alaridos tantos"
+            intervals [83]:
+                xmin = 298.44
+                xmax = 299.06
+                text = " De tus profetas santos"
+            intervals [84]:
+                xmin = 299.69
+                xmax = 302.95
+                text = " La voz no suena ya"
+            intervals [85]:
+                xmin = 303.6
+                xmax = 304.38
+                text = " Ven  saca del abismo"
+            intervals [86]:
+                xmin = 307.31
+                xmax = 308.94
+                text = " A un pueblo moribundo"
+            intervals [87]:
+                xmin = 309.64
+                xmax = 311.3817006802721
+                text = " Luzbel ha vuelto al mundo  Y Dios "

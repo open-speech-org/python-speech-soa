@@ -1,0 +1,54 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 46.01
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "M_04_1"
+        xmin = 0
+        xmax = 46.01
+        intervals: size = 10
+            intervals [1]:
+                xmin = 0.0
+                xmax = 7.95
+                text = " Un lobo fue elegido rey entre sus congéneres y decretó una ley ordenando que lo que cada uno capturase en la caza"
+            intervals [2]:
+                xmin = 8.74
+                xmax = 12.32
+                text = " lo pusiera en común y lo repartiese por partes iguales entre todos"
+            intervals [3]:
+                xmin = 13.23
+                xmax = 22.21
+                text = " de esta manera ya no tendrían los lobos que devorarse unos a otros en épocas de hambre"
+            intervals [4]:
+                xmin = 23.06
+                xmax = 27.97
+                text = " Pero en eso lo escuchó un asno que estaba por ahí cerca"
+            intervals [5]:
+                xmin = 29.08
+                xmax = 32.08
+                text = " y moviendo sus orejas le dijo  Magnífica idea ha brotado de tu corazón"
+            intervals [6]:
+                xmin = 33.04
+                xmax = 36.23
+                text = " pero   Por qué has escondido todo tu botín en tu cueva "
+            intervals [7]:
+                xmin = 37.8
+                xmax = 39.88
+                text = " Llévalo a tu comunidad y repártelo también"
+            intervals [8]:
+                xmin = 40.39
+                xmax = 40.93
+                text = " como lo has decretado"
+            intervals [9]:
+                xmin = 42.82
+                xmax = 45.22
+                text = " El lobo  descubierto y confundido"
+            intervals [10]:
+                xmin = 46.01
+                xmax = 49.34385487528345
+                text = " derogó su ley  Si alguna vez llegas a tener poder de legislar"

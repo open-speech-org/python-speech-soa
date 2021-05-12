@@ -1,0 +1,186 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 280.69
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_38_1"
+        xmin = 0
+        xmax = 280.69
+        intervals: size = 43
+            intervals [1]:
+                xmin = 0.0
+                xmax = 2.98
+                text = " La Edad de Oro se despide hoy con pena de sus amigos"
+            intervals [2]:
+                xmin = 6.38
+                xmax = 20.29
+                text = " Se puso a escribir largo el hombre de La Edad de Oro"
+            intervals [3]:
+                xmin = 20.93
+                xmax = 33.64
+                text = " como quien escribe una carta de cariño para persona a quien quiere mucho"
+            intervals [4]:
+                xmin = 34.68
+                xmax = 49.49
+                text = " y sucedió que escribió más de lo que cabía en las treinta y dos páginas"
+            intervals [5]:
+                xmin = 52.4
+                xmax = 52.93
+                text = " Treinta y dos páginas es de veras poco para conversar con los niños queridos"
+            intervals [6]:
+                xmin = 54.56
+                xmax = 55.39
+                text = " con los que han de ser mañana hábiles como Meñique  y valientes como Bolívar"
+            intervals [7]:
+                xmin = 57.32
+                xmax = 58.4
+                text = " poetas como Homero ya no podrán ser  porque estos tiempos no son como los de antes"
+            intervals [8]:
+                xmin = 64.48
+                xmax = 85.82
+                text = " y los aedas de ahora no han de cantar guerras bárbaras de pueblo con pueblo para ver cuál puede más"
+            intervals [9]:
+                xmin = 87.47
+                xmax = 93.49
+                text = " ni peleas de hombre con hombre para ver quién es más fuerte"
+            intervals [10]:
+                xmin = 96.46
+                xmax = 100.81
+                text = " lo que ha de hacer el poeta de ahora es aconsejar a los hombres que se quieran bien"
+            intervals [11]:
+                xmin = 101.72
+                xmax = 120.76
+                text = " y pintar todo lo hermoso del mundo de manera que se vea en los versos como si estuviera pintado con colores"
+            intervals [12]:
+                xmin = 121.37
+                xmax = 121.8
+                text = " y castigar con la poesía  como con un látigo"
+            intervals [13]:
+                xmin = 122.32
+                xmax = 130.57
+                text = " a los que quieran quitar a los hombres su libertad"
+            intervals [14]:
+                xmin = 132.75
+                xmax = 134.52
+                text = " o roben con leyes pícaras el dinero de los pueblos  o quieran que los hombres de su país les obedezcan como ovejas y les laman la mano como perros"
+            intervals [15]:
+                xmin = 136.32
+                xmax = 141.72
+                text = " Los versos no se han de hacer para decir que se está contento o se está triste"
+            intervals [16]:
+                xmin = 142.88
+                xmax = 144.33
+                text = " sino para ser útil al mundo  enseñándole que la naturaleza es hermosa"
+            intervals [17]:
+                xmin = 146.24
+                xmax = 146.35
+                text = " que la vida es un deber"
+            intervals [18]:
+                xmin = 147.4
+                xmax = 149.26
+                text = " que la muerte no es fea  que nadie debe estar triste ni acobardarse mientras haya libros en las librerías"
+            intervals [19]:
+                xmin = 150.72
+                xmax = 151.09
+                text = " y luz en el cielo  y amigos"
+            intervals [20]:
+                xmin = 152.29
+                xmax = 153.38
+                text = " y madres"
+            intervals [21]:
+                xmin = 158.0
+                xmax = 158.65
+                text = " El que tenga penas  lea las Vidas Paralelas de Plutarco"
+            intervals [22]:
+                xmin = 160.38
+                xmax = 162.19
+                text = " que dan deseos de ser como aquellos hombres de antes"
+            intervals [23]:
+                xmin = 162.84
+                xmax = 162.98
+                text = " y mejor  porque ahora la tierra ha vivido más"
+            intervals [24]:
+                xmin = 163.73
+                xmax = 167.9
+                text = " y se puede ser hombre de más amor y delicadeza"
+            intervals [25]:
+                xmin = 170.0
+                xmax = 173.18
+                text = " Antes todo se hacía con los puños"
+            intervals [26]:
+                xmin = 174.33
+                xmax = 174.61
+                text = " ahora  la fuerza está en el saber"
+            intervals [27]:
+                xmin = 175.91
+                xmax = 191.76
+                text = " más que en los puñetazos"
+            intervals [28]:
+                xmin = 194.48
+                xmax = 202.59
+                text = " aunque es bueno aprender a defenderse"
+            intervals [29]:
+                xmin = 205.57
+                xmax = 207.28
+                text = " porque siempre hay gente bestial en el mundo"
+            intervals [30]:
+                xmin = 210.49
+                xmax = 216.26
+                text = " y porque la fuerza da salud"
+            intervals [31]:
+                xmin = 217.22
+                xmax = 224.53
+                text = " y porque se ha de estar pronto a pelear"
+            intervals [32]:
+                xmin = 226.69
+                xmax = 234.67
+                text = " para cuando un pueblo ladrón quiera venir a robarnos nuestro pueblo"
+            intervals [33]:
+                xmin = 235.42
+                xmax = 240.81
+                text = " Para eso es bueno ser fuerte de cuerpo"
+            intervals [34]:
+                xmin = 243.16
+                xmax = 244.24
+                text = " pero para lo demás de la vida  la fuerza está en saber mucho"
+            intervals [35]:
+                xmin = 248.93
+                xmax = 252.94
+                text = " como dice Meñique"
+            intervals [36]:
+                xmin = 254.09
+                xmax = 254.85
+                text = " En los mismos tiempos de Homero  el que ganó por fin el sitio"
+            intervals [37]:
+                xmin = 256.54
+                xmax = 258.39
+                text = " y entró en Troya"
+            intervals [38]:
+                xmin = 261.5
+                xmax = 264.12
+                text = " no fue Ajax el del escudo"
+            intervals [39]:
+                xmin = 264.87
+                xmax = 266.77
+                text = " ni Aquiles el de la lanza"
+            intervals [40]:
+                xmin = 267.59
+                xmax = 267.92
+                text = " ni Diómedes el del carro  sino Ulises"
+            intervals [41]:
+                xmin = 268.87
+                xmax = 273.13
+                text = " que era el hombre de ingenio"
+            intervals [42]:
+                xmin = 273.81
+                xmax = 274.38
+                text = " y ponía en paz a los envidiosos  y pensaba pronto lo que no les ocurría a los demás"
+            intervals [43]:
+                xmin = 275.24
+                xmax = 286.57204081632653
+                text = " Con esta última página está sucediendo lo que con el primer número de La Edad de Oro"

@@ -1,0 +1,358 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 286.64
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_47_1"
+        xmin = 0
+        xmax = 286.64
+        intervals: size = 86
+            intervals [1]:
+                xmin = 0.0
+                xmax = 3.7
+                text = " Ufano  alegre  altivo  enamorado"
+            intervals [2]:
+                xmin = 4.73
+                xmax = 5.48
+                text = " Rompiendo el aire el pardo jilguerillo  Se sentó en los pimpollos de una haya"
+            intervals [3]:
+                xmin = 7.19
+                xmax = 8.21
+                text = " Y con su pico de marfil nevado  De su pechuelo blanco y amarillo"
+            intervals [4]:
+                xmin = 9.58
+                xmax = 15.25
+                text = " La pluma concertó pajiza y baya"
+            intervals [5]:
+                xmin = 16.85
+                xmax = 17.56
+                text = " Y celoso se ensaya  A discantar en alto contrapunto"
+            intervals [6]:
+                xmin = 18.33
+                xmax = 23.05
+                text = " Sus celos y amor junto"
+            intervals [7]:
+                xmin = 24.1
+                xmax = 24.62
+                text = " Y al ramillo  y al prado y a las flores"
+            intervals [8]:
+                xmin = 26.89
+                xmax = 29.49
+                text = " Libre y ufano cuenta sus amores"
+            intervals [9]:
+                xmin = 30.2
+                xmax = 31.73
+                text = " Mas "
+            intervals [10]:
+                xmin = 32.47
+                xmax = 33.57
+                text = "ay  que en este estado"
+            intervals [11]:
+                xmin = 34.58
+                xmax = 35.02
+                text = " El cazador cruel  de astucia armado"
+            intervals [12]:
+                xmin = 36.06
+                xmax = 37.21
+                text = " Escondido le acecha  Y al tierno corazón aguda flecha"
+            intervals [13]:
+                xmin = 38.29
+                xmax = 40.12
+                text = " Tira con mano esquiva  Y envuelto en sangre en tierra lo derriba"
+            intervals [14]:
+                xmin = 42.56
+                xmax = 43.7
+                text = "Ay  vida mal lograda"
+            intervals [15]:
+                xmin = 46.56
+                xmax = 47.65
+                text = " Retrato de mi suerte desdichada  De la custodia del amor materno"
+            intervals [16]:
+                xmin = 48.18
+                xmax = 49.07
+                text = " El corderillo juguetón se aleja  Enamorado de la yerba y flores"
+            intervals [17]:
+                xmin = 50.31
+                xmax = 52.7
+                text = " Y por la libertad del pasto tierno"
+            intervals [18]:
+                xmin = 55.93
+                xmax = 56.89
+                text = " El cándido licor olvida y deja  Por quien hizo a su madre mil amores"
+            intervals [19]:
+                xmin = 57.68
+                xmax = 59.58
+                text = " Sin conocer temores"
+            intervals [20]:
+                xmin = 62.14
+                xmax = 62.52
+                text = " De la florida primavera bella"
+            intervals [21]:
+                xmin = 64.55
+                xmax = 67.59
+                text = " El vario manto huella"
+            intervals [22]:
+                xmin = 68.7
+                xmax = 71.02
+                text = " Con retozos y brincos licenciosos"
+            intervals [23]:
+                xmin = 72.82
+                xmax = 74.69
+                text = " Y pace tallos tiernos y sabrosos"
+            intervals [24]:
+                xmin = 76.46
+                xmax = 77.06
+                text = " Mas  ay  Que en un otero"
+            intervals [25]:
+                xmin = 78.22
+                xmax = 79.39
+                text = " Dio en la boca de un lobo carnicero  Que en partes diferentes"
+            intervals [26]:
+                xmin = 81.91
+                xmax = 83.05
+                text = " Lo dividió con sus voraces dientes  Y a convertirse vino"
+            intervals [27]:
+                xmin = 83.71
+                xmax = 86.52
+                text = " En purpúreo el dorado vellocino"
+            intervals [28]:
+                xmin = 87.07
+                xmax = 91.16
+                text = "Oh inocencia ofendida"
+            intervals [29]:
+                xmin = 92.01
+                xmax = 93.09
+                text = " Breve bien  caro pasto"
+            intervals [30]:
+                xmin = 95.4
+                xmax = 96.39
+                text = " corta vida  Rica con sus penachos y copetes"
+            intervals [31]:
+                xmin = 99.02
+                xmax = 99.52
+                text = " Ufana y loca  con ligero vuelo"
+            intervals [32]:
+                xmin = 102.95
+                xmax = 107.55
+                text = " Se remonta la garza a las estrellas"
+            intervals [33]:
+                xmin = 109.57
+                xmax = 109.83
+                text = " Y  puliendo sus negros martinetes"
+            intervals [34]:
+                xmin = 110.44
+                xmax = 114.56
+                text = " Procura ser allá cerca del cielo"
+            intervals [35]:
+                xmin = 116.45
+                xmax = 122.59
+                text = " La reina sola de las aves bellas"
+            intervals [36]:
+                xmin = 123.19
+                xmax = 123.7
+                text = " Y por ser ella de ellas"
+            intervals [37]:
+                xmin = 124.47
+                xmax = 126.42
+                text = " La que más altanera se remonta"
+            intervals [38]:
+                xmin = 128.3
+                xmax = 132.43
+                text = " Ya se encubre y trasmonta"
+            intervals [39]:
+                xmin = 133.33
+                xmax = 134.84
+                text = " A los ojos del lince más atentos"
+            intervals [40]:
+                xmin = 135.55
+                xmax = 137.46
+                text = " Y se contempla reina de los vientos"
+            intervals [41]:
+                xmin = 138.6
+                xmax = 139.01
+                text = " Mas  ay  que en la alta nube"
+            intervals [42]:
+                xmin = 140.56
+                xmax = 145.41
+                text = " El águila la vio y al cielo sube"
+            intervals [43]:
+                xmin = 146.94
+                xmax = 147.42
+                text = " Donde con pico y garra  El pecho candidísimo desgarra"
+            intervals [44]:
+                xmin = 148.73
+                xmax = 151.2
+                text = " Del bello airón que quiso"
+            intervals [45]:
+                xmin = 151.83
+                xmax = 153.5
+                text = " Volar tan alto con tan corto aviso"
+            intervals [46]:
+                xmin = 154.84
+                xmax = 154.98
+                text = "Ay  pájaro altanero"
+            intervals [47]:
+                xmin = 156.87
+                xmax = 161.76
+                text = " Retrato de mi suerte verdadero"
+            intervals [48]:
+                xmin = 162.76
+                xmax = 163.5
+                text = " Al son de las belísonas trompetas  Y al retumbar del sonroso parche"
+            intervals [49]:
+                xmin = 164.07
+                xmax = 165.55
+                text = " Formó escuadrón el capitán gallardo"
+            intervals [50]:
+                xmin = 166.77
+                xmax = 167.33
+                text = " Con relinchos  bufidos y corvetas"
+            intervals [51]:
+                xmin = 168.04
+                xmax = 170.08
+                text = " Pidió el caballo que la gente marche"
+            intervals [52]:
+                xmin = 171.48
+                xmax = 172.99
+                text = " Trocando en paso presuroso el tardo"
+            intervals [53]:
+                xmin = 174.98
+                xmax = 175.87
+                text = " Sonó el clarín bastardo  La esperada serial de arremetida"
+            intervals [54]:
+                xmin = 176.84
+                xmax = 179.39
+                text = " Y en batalla rompida"
+            intervals [55]:
+                xmin = 180.83
+                xmax = 182.23
+                text = " Teniendo cierta de vencer la gloria  Oyó a su gente que cantó victoria"
+            intervals [56]:
+                xmin = 183.37
+                xmax = 184.05
+                text = " Mas  ay  que el desconcierto"
+            intervals [57]:
+                xmin = 185.47
+                xmax = 191.14
+                text = " Del capitán bisoño y poco experto"
+            intervals [58]:
+                xmin = 192.72
+                xmax = 193.62
+                text = " Por no observar el orden  Causó en su gente general desorden"
+            intervals [59]:
+                xmin = 194.25
+                xmax = 194.45
+                text = " Y  la ocasión perdida"
+            intervals [60]:
+                xmin = 196.02
+                xmax = 199.0
+                text = " El vencedor perdió victoria y vida"
+            intervals [61]:
+                xmin = 199.84
+                xmax = 200.0
+                text = "Ay  fortuna voltaria"
+            intervals [62]:
+                xmin = 201.1
+                xmax = 204.59
+                text = " En mis prósperos fines siempre varia"
+            intervals [63]:
+                xmin = 205.74
+                xmax = 208.61
+                text = " Al cristalino y mudo lisonjero  La bella dama en su beldad se goza"
+            intervals [64]:
+                xmin = 209.24
+                xmax = 214.3
+                text = " Contemplándose Venus en la tierra"
+            intervals [65]:
+                xmin = 214.97
+                xmax = 219.29
+                text = " Y al más rebelde corazón de acero"
+            intervals [66]:
+                xmin = 220.57
+                xmax = 225.3
+                text = " Con su vista enternece y alboroza"
+            intervals [67]:
+                xmin = 226.4
+                xmax = 231.09
+                text = " Y es de las libertades dulce guerra"
+            intervals [68]:
+                xmin = 231.84
+                xmax = 235.34
+                text = " El desamor destierra"
+            intervals [69]:
+                xmin = 236.34
+                xmax = 237.24
+                text = " De donde pone sus divinos ojos  Y de ellos son despojos"
+            intervals [70]:
+                xmin = 239.66
+                xmax = 240.85
+                text = " Los purísimos castos de Diana  Y en su belleza se contempla ufana"
+            intervals [71]:
+                xmin = 241.5
+                xmax = 241.95
+                text = " Mas  ay  que un accidente"
+            intervals [72]:
+                xmin = 242.87
+                xmax = 244.54
+                text = " Apenas puso el pulso intercadente"
+            intervals [73]:
+                xmin = 245.72
+                xmax = 248.92
+                text = " Cuando cubrió de manchas"
+            intervals [74]:
+                xmin = 249.96
+                xmax = 253.29
+                text = " Cárdenas ronchas y viruelas anchas"
+            intervals [75]:
+                xmin = 253.99
+                xmax = 254.5
+                text = " El bello rostro hermoso  Y lo trocó en horrible y asqueroso"
+            intervals [76]:
+                xmin = 256.18
+                xmax = 256.48
+                text = "Ay  beldad malograda"
+            intervals [77]:
+                xmin = 258.5
+                xmax = 260.44
+                text = " Muerta luz"
+            intervals [78]:
+                xmin = 262.57
+                xmax = 265.19
+                text = " turbio sol y flor pisada"
+            intervals [79]:
+                xmin = 266.89
+                xmax = 267.52
+                text = " Sobre frágiles leños  que con alas"
+            intervals [80]:
+                xmin = 268.66
+                xmax = 269.77
+                text = " De lienzo débil de la mar son carros  El mercader surcó sus claras olas"
+            intervals [81]:
+                xmin = 270.57
+                xmax = 273.04
+                text = " Llegó a la India"
+            intervals [82]:
+                xmin = 274.89
+                xmax = 275.97
+                text = " y  rico de bengalas"
+            intervals [83]:
+                xmin = 278.11
+                xmax = 280.2
+                text = " Perlas  aromas  nácares bizarros"
+            intervals [84]:
+                xmin = 280.74
+                xmax = 283.82
+                text = " Volvió a ver las riberas españolas"
+            intervals [85]:
+                xmin = 285.29
+                xmax = 285.75
+                text = " Tremoló banderolas  Flámulas"
+            intervals [86]:
+                xmin = 286.64
+                xmax = 289.09054421768707
+                text = " estandartes  gallardetes  Dio premio a los grumetes"

@@ -1,0 +1,366 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 829.7
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_40_1"
+        xmin = 0
+        xmax = 829.7
+        intervals: size = 88
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.74
+                text = " Era la playa de Torresalinas"
+            intervals [2]:
+                xmin = 4.1
+                xmax = 4.11
+                text = " con sus numerosas barcas en seco"
+            intervals [3]:
+                xmin = 5.35
+                xmax = 6.14
+                text = " el lugar de reunión de toda la gente marinera  Los chiquillos"
+            intervals [4]:
+                xmin = 7.93
+                xmax = 8.59
+                text = " tendidos sobre el vientre  jugaban a la capeta a la sombra de las embarcaciones"
+            intervals [5]:
+                xmin = 9.33
+                xmax = 9.8
+                text = " y los viejos  fumando sus pipas de barro traídas de Argel"
+            intervals [6]:
+                xmin = 11.31
+                xmax = 13.23
+                text = " hablaban de la pesca o de las magnificas expediciones que se hacían en otros tiempos a Gibraltar y a la costa de África"
+            intervals [7]:
+                xmin = 15.92
+                xmax = 16.29
+                text = " antes que al demonio se le ocurriera inventar eso que llaman la Tabacalera  Los botes ligeros"
+            intervals [8]:
+                xmin = 22.31
+                xmax = 22.66
+                text = " con sus vientres blancos y azules y el mástil graciosamente inclinado  formaban una fila avanzada al borde de la playa"
+            intervals [9]:
+                xmin = 26.72
+                xmax = 28.04
+                text = " donde se deshacían las olas  y una delgada lámina de agua bruñía el suelo"
+            intervals [10]:
+                xmin = 29.43
+                xmax = 33.14
+                text = " cual se fuese de cristal"
+            intervals [11]:
+                xmin = 34.47
+                xmax = 34.6
+                text = " detrás  con la embetunada panza sobre la arena"
+            intervals [12]:
+                xmin = 35.25
+                xmax = 35.64
+                text = " estaban las negras barcas del bou  las parejas que aguardaban el invierno para lanzarse al mar"
+            intervals [13]:
+                xmin = 36.59
+                xmax = 36.78
+                text = " barriéndolo con su cola de redes  y"
+            intervals [14]:
+                xmin = 37.47
+                xmax = 40.74
+                text = " en último término"
+            intervals [15]:
+                xmin = 44.07
+                xmax = 45.93
+                text = " los laúdes en reparación  los abuelos"
+            intervals [16]:
+                xmin = 47.15
+                xmax = 47.86
+                text = " junto a los cuales agitábanse los calafates  embadurnándoles los flancos con caliente alquitrán"
+            intervals [17]:
+                xmin = 49.18
+                xmax = 50.92
+                text = " para que otra vez volviesen a emprender sus penosas y monótonas navegaciones por el Mediterráneo  unas veces a las Baleares"
+            intervals [18]:
+                xmin = 52.08
+                xmax = 52.15
+                text = " con sal  a la costa de Argel"
+            intervals [19]:
+                xmin = 52.75
+                xmax = 54.27
+                text = " con frutas de la huerta levantina  y muchas"
+            intervals [20]:
+                xmin = 54.95
+                xmax = 56.08
+                text = " con melones y patatas para los soldados rojos de Gibraltar  En el curso de un año"
+            intervals [21]:
+                xmin = 57.81
+                xmax = 60.18
+                text = " la playa cambiaba de vecinos"
+            intervals [22]:
+                xmin = 60.99
+                xmax = 61.77
+                text = " los laúdes ya reparados se hacían a la mar y las embarcaciones de pesca eran armadas y lanzadas al agua  sólo una barca abandonada y sin arboladura permanecía enclavada en la arena"
+            intervals [23]:
+                xmin = 62.78
+                xmax = 62.84
+                text = " triste  solitaria"
+            intervals [24]:
+                xmin = 64.63
+                xmax = 66.15
+                text = " sin otra compañía que la del carabinero que se sentaba a su sombra  El sol había derretido su pintura"
+            intervals [25]:
+                xmin = 66.88
+                xmax = 68.76
+                text = " las tablas se agrietaban y crujían con la sequedad"
+            intervals [26]:
+                xmin = 69.5
+                xmax = 71.22
+                text = " y la arena  arrastrada por el viento"
+            intervals [27]:
+                xmin = 76.15
+                xmax = 82.18
+                text = " había invadido su cubierta  Pero su perfil fino  sus flancos recogidos y la gallardía de su construcción delataban una embarcación ligera y audaz"
+            intervals [28]:
+                xmin = 82.87
+                xmax = 83.19
+                text = " hecha para locas carreras  con desprecio a los peligros del mar"
+            intervals [29]:
+                xmin = 84.32
+                xmax = 85.17
+                text = " Tenía la triste belleza de esos caballos viejos que fueron briosos corceles y caen abandonados y débiles sobre la arena de la plaza de toros  Hasta de nombre carecía"
+            intervals [30]:
+                xmin = 85.75
+                xmax = 85.81
+                text = " La popa estaba lisa y en los costados ni una señal del número de filiación y nombre de la matrícula"
+            intervals [31]:
+                xmin = 86.81
+                xmax = 88.78
+                text = " un ser desconocido que se moría entre aquellas otras barcas tan orgullosas de sus pomposos nombres  como mueren en el mundo algunos"
+            intervals [32]:
+                xmin = 89.74
+                xmax = 90.83
+                text = " sin desganar el misterio de su vida  Pero el incógnito de la barca sólo era aparente"
+            intervals [33]:
+                xmin = 91.43
+                xmax = 92.14
+                text = " Todos la conocían en Torresalinas y no hablaban de ella sin sonreír y guiñar un ojo  como si les recordase algo que excitaba malicioso regocijo"
+            intervals [34]:
+                xmin = 94.04
+                xmax = 94.19
+                text = " Una mañana  a la sombra de la barca abandonada"
+            intervals [35]:
+                xmin = 94.77
+                xmax = 95.33
+                text = " cuando el mar hervía bajo el sol y parecía un cielo de noche de verano  azul y espolvoreado de puntos de luz"
+            intervals [36]:
+                xmin = 96.37
+                xmax = 121.01
+                text = " un viejo pescador me contó la historia"
+            intervals [37]:
+                xmin = 122.21
+                xmax = 127.73
+                text = "Este falucho "
+            intervals [38]:
+                xmin = 128.98
+                xmax = 129.35
+                text = "dijo  acariciándole con una palmada el vientre seco y arenoso"
+            intervals [39]:
+                xmin = 130.16
+                xmax = 137.43
+                text = " es El Socarrao"
+            intervals [40]:
+                xmin = 138.03
+                xmax = 148.97
+                text = " el barco más valiente y más conocido de cuantos se hacen al mar desde Alicante a Cartagena"
+            intervals [41]:
+                xmin = 149.54
+                xmax = 149.62
+                text = "Virgen Santísima El dinero que lleva ganado este condenado"
+            intervals [42]:
+                xmin = 161.12
+                xmax = 161.79
+                text = "Los duros que han salido de ahí dentro  Lo menos lleva hechos veinte viajes desde Orán a estas costas"
+            intervals [43]:
+                xmin = 165.47
+                xmax = 165.58
+                text = " y viceversa  y siempre con la panza bien repleta de fardos"
+            intervals [44]:
+                xmin = 166.85
+                xmax = 178.02
+                text = " El bizarro y extraño nombre de Socarrao me admiraba algo"
+            intervals [45]:
+                xmin = 180.22
+                xmax = 180.43
+                text = " y de ello se apercibió el pescador Son motes"
+            intervals [46]:
+                xmin = 181.27
+                xmax = 185.49
+                text = " caballero"
+            intervals [47]:
+                xmin = 189.52
+                xmax = 192.22
+                text = " apodos que aquí tenemos lo mismo los hombres que las barcas"
+            intervals [48]:
+                xmin = 196.34
+                xmax = 265.83
+                text = " Es inútil que el cura gaste sus latines con nosotros"
+            intervals [49]:
+                xmin = 267.17
+                xmax = 270.79
+                text = " aquí"
+            intervals [50]:
+                xmin = 272.96
+                xmax = 275.64
+                text = " quien bautiza de veras es la gente"
+            intervals [51]:
+                xmin = 278.73
+                xmax = 283.87
+                text = " A mí me llaman Felipe"
+            intervals [52]:
+                xmin = 289.68
+                xmax = 290.16
+                text = " pero si algún día me busca usted  pregunte por Castelar"
+            intervals [53]:
+                xmin = 290.92
+                xmax = 291.44
+                text = " pues así me conocen  porque me gusta hablar con las personas"
+            intervals [54]:
+                xmin = 292.74
+                xmax = 329.48
+                text = " y en la taberna soy el único que puede leer el periódico a los compañeros"
+            intervals [55]:
+                xmin = 349.16
+                xmax = 369.78
+                text = " Ese muchacho que pasa con el cesto de pescado es Chispitas"
+            intervals [56]:
+                xmin = 379.8
+                xmax = 380.81
+                text = " a su patrón le llaman el Cano  y así estamos bautizados todos"
+            intervals [57]:
+                xmin = 381.4
+                xmax = 382.13
+                text = " Los amos de las barcas se calientan el caletre buscando un nombre bonito para pintarlo en la popa  Una"
+            intervals [58]:
+                xmin = 385.26
+                xmax = 389.72
+                text = " La Purísima Concepción"
+            intervals [59]:
+                xmin = 392.12
+                xmax = 392.16
+                text = " otra  Rosa del Mar"
+            intervals [60]:
+                xmin = 394.57
+                xmax = 394.67
+                text = " aquélla  Los Dos Amigos"
+            intervals [61]:
+                xmin = 397.22
+                xmax = 398.87
+                text = " pero llega la gente con su manía de sacar motes y se llaman La Pava  El Lorito"
+            intervals [62]:
+                xmin = 399.72
+                xmax = 399.86
+                text = " La Medio Rollo  y gracias que no las distinguen con nombres menos decentes"
+            intervals [63]:
+                xmin = 400.59
+                xmax = 405.56
+                text = " Un hermano mío tiene la barca más hermosa de toda la matrícula"
+            intervals [64]:
+                xmin = 409.43
+                xmax = 464.73
+                text = " la bautizamos con el nombre de mi hija"
+            intervals [65]:
+                xmin = 465.29
+                xmax = 478.99
+                text = " Camila"
+            intervals [66]:
+                xmin = 480.2
+                xmax = 491.04
+                text = " pero la pintamos de amarillo y blanco"
+            intervals [67]:
+                xmin = 496.78
+                xmax = 497.93
+                text = " y el día del bautizo se le ocurrió a un pillo de la playa que parecía un huevo frito Querrá usted creerlo"
+            intervals [68]:
+                xmin = 498.59
+                xmax = 498.77
+                text = " Sólo con este apodo la conocen Bien "
+            intervals [69]:
+                xmin = 500.15
+                xmax = 500.3
+                text = "le interrumpí  pero "
+            intervals [70]:
+                xmin = 501.7
+                xmax = 517.51
+                text = "y El Socarrao"
+            intervals [71]:
+                xmin = 519.05
+                xmax = 520.38
+                text = "Su verdadero nombre era El Resuelto  pero por la prontitud con que maniobraba y la furia con que acometía los golpes de mar"
+            intervals [72]:
+                xmin = 522.57
+                xmax = 523.2
+                text = " dieron en llamarle El Socarrao  como a una persona de mal genio"
+            intervals [73]:
+                xmin = 523.87
+                xmax = 536.9
+                text = " Y ahora vamos a lo que ocurrió a este pobre Socarrao hace poco más de un año"
+            intervals [74]:
+                xmin = 546.36
+                xmax = 549.69
+                text = " la última vez que vino de Orán"
+            intervals [75]:
+                xmin = 550.31
+                xmax = 554.37
+                text = " Miró el viejo a todos lados"
+            intervals [76]:
+                xmin = 560.66
+                xmax = 563.21
+                text = " y"
+            intervals [77]:
+                xmin = 579.51
+                xmax = 579.77
+                text = " convencido de que estábamos solos  dijo con sonrisa bonachona"
+            intervals [78]:
+                xmin = 585.33
+                xmax = 585.41
+                text = "Yo iba en él sabe usted"
+            intervals [79]:
+                xmin = 586.62
+                xmax = 586.95
+                text = " Esto no lo ignoraba nadie en el pueblo  pero si yo se lo digo"
+            intervals [80]:
+                xmin = 588.03
+                xmax = 609.99
+                text = " es porque estamos solos y usted no irá después a hacerme daño"
+            intervals [81]:
+                xmin = 617.07
+                xmax = 617.74
+                text = "Qué demonio  Haber ido en El Socarrao no es ninguna deshonra"
+            intervals [82]:
+                xmin = 618.29
+                xmax = 634.03
+                text = " Todo eso de aduanas y carabineros y barquillas de la Tabacalera no lo ha creado Dios"
+            intervals [83]:
+                xmin = 634.99
+                xmax = 646.04
+                text = " lo inventó el Gobierno para hacernos daños a los pobres"
+            intervals [84]:
+                xmin = 646.63
+                xmax = 732.7
+                text = " y el contrabando no es pecado"
+            intervals [85]:
+                xmin = 745.62
+                xmax = 774.33
+                text = " sino un medio muy honroso de ganarse el pan exponiendo la piel en el mar y la libertad en tierra"
+            intervals [86]:
+                xmin = 796.62
+                xmax = 826.69
+                text = " Oficio de hombres enteros y valientes como Dios manda"
+            intervals [87]:
+                xmin = 828.31
+                xmax = 828.95
+                text = " Yo he conocido los buenos tiempos  Cada mes se hacían dos viajes"
+            intervals [88]:
+                xmin = 829.7
+                xmax = 833.151768707483
+                text = " y el dinero rodaba por el pueblo que era un gusto  Había para todos  para los de uniforme"

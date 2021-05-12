@@ -1,0 +1,26 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 48.9
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_71_1"
+        xmin = 0
+        xmax = 48.9
+        intervals: size = 3
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.04
+                text = " Se reunieron un día las zorras a orillas del río Meandro con el fin de calmar su sed"
+            intervals [2]:
+                xmin = 47.1
+                xmax = 47.17
+                text = " pero el río estaba muy turbulento"
+            intervals [3]:
+                xmin = 48.9
+                xmax = 75.6414058956916
+                text = " y aunque se estimulaban unas a otras  ninguna se atrevía a ingresar al río de primera  Al fin una de ellas habló  y queriendo humillar a las demás  burlábase de su cobardía presumiendo ser ella la más valiente"

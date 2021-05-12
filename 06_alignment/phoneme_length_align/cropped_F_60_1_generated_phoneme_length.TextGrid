@@ -1,0 +1,30 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 179.18
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_60_1"
+        xmin = 0
+        xmax = 179.18
+        intervals: size = 4
+            intervals [1]:
+                xmin = 0.0
+                xmax = 0.64
+                text = " Vivo sin vivir en mí"
+            intervals [2]:
+                xmin = 79.66
+                xmax = 79.73
+                text = " y tan alta vida espero"
+            intervals [3]:
+                xmin = 81.19
+                xmax = 175.1
+                text = " que muero porque no muero"
+            intervals [4]:
+                xmin = 179.18
+                xmax = 221.70532879818595
+                text = " Vivo ya fuera de mí  después que muero de amor  porque vivo en el Señor  que me quiso para sí  cuando el corazón le di  puso en él este letrero  que muero porque no muero  Esta divina prisión  del amor en que yo vivo  ha hecho a Dios mi cautivo"

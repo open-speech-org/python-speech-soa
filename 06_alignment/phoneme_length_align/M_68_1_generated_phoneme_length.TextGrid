@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 48.27
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "M_68_1"
+        xmin = 0
+        xmax = 48.27
+        intervals: size = 16
+            intervals [1]:
+                xmin = 0.0
+                xmax = 2.42
+                text = " La luna tiene dientes de marfil"
+            intervals [2]:
+                xmin = 3.19
+                xmax = 6.92
+                text = "Qué vieja y triste asoma"
+            intervals [3]:
+                xmin = 7.61
+                xmax = 11.28
+                text = " Están los cauces secos"
+            intervals [4]:
+                xmin = 12.08
+                xmax = 16.17
+                text = " los campos sin verdores"
+            intervals [5]:
+                xmin = 16.8
+                xmax = 20.34
+                text = " y los árboles mustios"
+            intervals [6]:
+                xmin = 21.01
+                xmax = 24.84
+                text = " sin nidos y sin hojas"
+            intervals [7]:
+                xmin = 25.51
+                xmax = 26.95
+                text = " Doña Muerte  arrugada"
+            intervals [8]:
+                xmin = 27.84
+                xmax = 29.01
+                text = " pasea por sauzales"
+            intervals [9]:
+                xmin = 29.59
+                xmax = 30.92
+                text = " con su absurdo cortejo"
+            intervals [10]:
+                xmin = 32.33
+                xmax = 33.87
+                text = " de ilusiones remotas  Va vendiendo colores"
+            intervals [11]:
+                xmin = 34.45
+                xmax = 35.9
+                text = " de cera y de tormenta"
+            intervals [12]:
+                xmin = 36.75
+                xmax = 39.52
+                text = " como un hada de cuento"
+            intervals [13]:
+                xmin = 40.88
+                xmax = 42.72
+                text = " mala y enredadora  La luna le ha comprado"
+            intervals [14]:
+                xmin = 43.54
+                xmax = 44.76
+                text = " pinturas a la Muerte"
+            intervals [15]:
+                xmin = 45.66
+                xmax = 47.4
+                text = " En esta noche turbia"
+            intervals [16]:
+                xmin = 48.27
+                xmax = 50.42024943310658
+                text = "está la luna loca  Yo mientras tanto pongo"

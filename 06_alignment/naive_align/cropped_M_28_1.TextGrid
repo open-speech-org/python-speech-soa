@@ -2,7 +2,7 @@ File type = "ooTextFile"
 Object class = "TextGrid"
 
 xmin = 0
-xmax = 73.72
+xmax = 65.92
 tiers? <exists>
 size = 1
 item []:
@@ -10,8 +10,8 @@ item []:
         class = "IntervalTier"
         name = "cropped_M_28_1"
         xmin = 0
-        xmax = 73.72
-        intervals: size = 33
+        xmax = 65.92
+        intervals: size = 29
             intervals [1]:
                 xmin = 0.0
                 xmax = 0.79
@@ -126,21 +126,5 @@ item []:
                 text = " de ellos me ganara yo"
             intervals [29]:
                 xmin = 65.92
-                xmax = 67.07
+                xmax = 69.0644671201814
                 text = " los que me dejó el mi padre"
-            intervals [30]:
-                xmin = 67.94
-                xmax = 68.02
-                text = " poblélos de ricos hombres"
-            intervals [31]:
-                xmin = 70.14
-                xmax = 71.21
-                text = " las que me ganara yo"
-            intervals [32]:
-                xmin = 72.59
-                xmax = 72.7
-                text = " poblélas de labradores"
-            intervals [33]:
-                xmin = 73.72
-                xmax = 78.69659863945579
-                text = " quien no tenía más que un buey"

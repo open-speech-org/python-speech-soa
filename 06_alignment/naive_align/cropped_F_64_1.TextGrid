@@ -2,7 +2,7 @@ File type = "ooTextFile"
 Object class = "TextGrid"
 
 xmin = 0
-xmax = 33.63
+xmax = 27.77
 tiers? <exists>
 size = 1
 item []:
@@ -10,35 +10,35 @@ item []:
         class = "IntervalTier"
         name = "cropped_F_64_1"
         xmin = 0
-        xmax = 33.63
-        intervals: size = 12
+        xmax = 27.77
+        intervals: size = 10
             intervals [1]:
                 xmin = 0.0
                 xmax = 2.64
                 text = " Ojos claros"
             intervals [2]:
                 xmin = 3.5
-                xmax = 5.85
+                xmax = 5.92
                 text = " serenos"
             intervals [3]:
                 xmin = 6.76
                 xmax = 9.11
                 text = " si de un dulce mirar sois alabados"
             intervals [4]:
-                xmin = 9.93
+                xmin = 9.92
                 xmax = 14.83
                 text = "por qué"
             intervals [5]:
                 xmin = 15.78
-                xmax = 19.58
+                xmax = 19.59
                 text = " si me miráis"
             intervals [6]:
-                xmin = 20.58
-                xmax = 22.57
+                xmin = 20.57
+                xmax = 22.58
                 text = " miráis airados"
             intervals [7]:
                 xmin = 23.2
-                xmax = 23.84
+                xmax = 24.05
                 text = " Si cuanto más piadosos"
             intervals [8]:
                 xmin = 24.57
@@ -46,17 +46,9 @@ item []:
                 text = " más bellos parecéis a aquel que os mira"
             intervals [9]:
                 xmin = 25.92
-                xmax = 27.23
+                xmax = 27.24
                 text = " no me miréis con ira"
             intervals [10]:
                 xmin = 27.77
-                xmax = 29.4
+                xmax = 29.84471655328798
                 text = " porque no parezcáis menos hermosos"
-            intervals [11]:
-                xmin = 31.62
-                xmax = 33.02
-                text = "Ay tormentos rabiosos"
-            intervals [12]:
-                xmin = 33.63
-                xmax = 41.6407029478458
-                text = " Ojos claros"

@@ -1,0 +1,42 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 42.77
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_73_1"
+        xmin = 0
+        xmax = 42.77
+        intervals: size = 7
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.75
+                text = " Sentía el camello envidia por los cuernos del toro"
+            intervals [2]:
+                xmin = 2.7
+                xmax = 11.96
+                text = " y quiso obtener los suyos propios"
+            intervals [3]:
+                xmin = 16.26
+                xmax = 26.73
+                text = " Para esto fue a ver a Zeus"
+            intervals [4]:
+                xmin = 28.62
+                xmax = 33.04
+                text = " pidiéndole le regalara a él unos semejantes"
+            intervals [5]:
+                xmin = 35.19
+                xmax = 35.83
+                text = " Pero Zeus"
+            intervals [6]:
+                xmin = 38.06
+                xmax = 41.99
+                text = " indignado de que no se contentara de su gran tamaño y fuerza"
+            intervals [7]:
+                xmin = 42.77
+                xmax = 45.91498866213152
+                text = " no sólo le negó el darle los cuernos  sino que además le cortó una parte de las orejas"

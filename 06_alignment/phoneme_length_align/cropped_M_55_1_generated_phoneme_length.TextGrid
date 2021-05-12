@@ -1,0 +1,54 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 34.1
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_55_1"
+        xmin = 0
+        xmax = 34.1
+        intervals: size = 10
+            intervals [1]:
+                xmin = 0.0
+                xmax = 4.18
+                text = " Encontró un lobo a una cabra que pastaba a la orilla de un precipicio"
+            intervals [2]:
+                xmin = 5.74
+                xmax = 8.3
+                text = " Como no podía llegar a donde estaba ella le dijo"
+            intervals [3]:
+                xmin = 10.54
+                xmax = 13.7
+                text = " Oye amiga  mejor baja pues ahí te puedes caer"
+            intervals [4]:
+                xmin = 14.49
+                xmax = 17.07
+                text = " Además  mira este prado donde estoy yo"
+            intervals [5]:
+                xmin = 17.68
+                xmax = 18.97
+                text = " está bien verde y crecido"
+            intervals [6]:
+                xmin = 21.32
+                xmax = 22.18
+                text = " Pero la cabra le dijo"
+            intervals [7]:
+                xmin = 23.81
+                xmax = 27.36
+                text = " Bien sé que no me invitas a comer a mí  sino a tí mismo"
+            intervals [8]:
+                xmin = 28.36
+                xmax = 29.3
+                text = " siendo yo tu plato"
+            intervals [9]:
+                xmin = 31.68
+                xmax = 33.52
+                text = " Conoce siempre a los malvados"
+            intervals [10]:
+                xmin = 34.1
+                xmax = 36.65031746031746
+                text = " para que no te atrapen con sus engaños"

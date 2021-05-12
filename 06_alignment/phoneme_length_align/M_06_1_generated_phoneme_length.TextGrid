@@ -1,0 +1,62 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 63.08
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "M_06_1"
+        xmin = 0
+        xmax = 63.08
+        intervals: size = 12
+            intervals [1]:
+                xmin = 0.0
+                xmax = 6.05
+                text = " Una zorra a la cual un cepo le había cortado la cola"
+            intervals [2]:
+                xmin = 6.93
+                xmax = 9.29
+                text = " estaba tan avergonzada"
+            intervals [3]:
+                xmin = 9.93
+                xmax = 15.74
+                text = " que consideraba su vida horrorosa y humillante"
+            intervals [4]:
+                xmin = 16.37
+                xmax = 27.62
+                text = " por lo cual decidió que la solución sería aconsejar a las demás hermanas cortarse también la cola"
+            intervals [5]:
+                xmin = 28.27
+                xmax = 34.0
+                text = " para así disimular con la igualdad general"
+            intervals [6]:
+                xmin = 35.11
+                xmax = 35.85
+                text = " su defecto personal"
+            intervals [7]:
+                xmin = 36.53
+                xmax = 39.51
+                text = " Reunió entonces a todas sus compañeras"
+            intervals [8]:
+                xmin = 40.45
+                xmax = 47.45
+                text = " diciéndoles que la cola no sólo era un feo agregado"
+            intervals [9]:
+                xmin = 49.06
+                xmax = 53.19
+                text = " sino además una carga sin razón"
+            intervals [10]:
+                xmin = 54.13
+                xmax = 56.71
+                text = " Pero una de ellas tomó la palabra y dijo"
+            intervals [11]:
+                xmin = 58.37
+                xmax = 62.33
+                text = " Oye hermana  si no fuera por tu conveniencia de ahora"
+            intervals [12]:
+                xmin = 63.08
+                xmax = 65.52430839002268
+                text = " nos darías en realidad este consejo "

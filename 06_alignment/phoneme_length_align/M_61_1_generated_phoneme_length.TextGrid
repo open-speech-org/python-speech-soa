@@ -1,0 +1,62 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 51.66
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "M_61_1"
+        xmin = 0
+        xmax = 51.66
+        intervals: size = 12
+            intervals [1]:
+                xmin = 0.0
+                xmax = 2.93
+                text = " Un ratón de tierra se hizo amigo de una rana"
+            intervals [2]:
+                xmin = 3.92
+                xmax = 4.78
+                text = " para desgracia suya  La rana"
+            intervals [3]:
+                xmin = 5.4
+                xmax = 9.15
+                text = " obedeciendo a desviadas intenciones de burla"
+            intervals [4]:
+                xmin = 9.99
+                xmax = 11.28
+                text = " ató la pata del ratón a su propia pata"
+            intervals [5]:
+                xmin = 11.9
+                xmax = 15.68
+                text = " Marcharon entonces primero por tierra para comer trigo"
+            intervals [6]:
+                xmin = 16.24
+                xmax = 18.86
+                text = " luego se acercaron a la orilla del pantano  La rana"
+            intervals [7]:
+                xmin = 20.58
+                xmax = 23.77
+                text = " dando un salto arrastró hasta el fondo al ratón"
+            intervals [8]:
+                xmin = 24.67
+                xmax = 30.91
+                text = " mientras que retozaba en el agua lanzando sus conocidos gritos"
+            intervals [9]:
+                xmin = 31.67
+                xmax = 38.83
+                text = " El desdichado ratón"
+            intervals [10]:
+                xmin = 39.49
+                xmax = 40.53
+                text = " hinchado de agua  se ahogó"
+            intervals [11]:
+                xmin = 41.05
+                xmax = 50.51
+                text = " quedando a flote atado a la pata de la rana"
+            intervals [12]:
+                xmin = 51.06
+                xmax = 54.522993197278915
+                text = " Los vio un milano que por ahí volaba y apresó al ratón con sus garras"

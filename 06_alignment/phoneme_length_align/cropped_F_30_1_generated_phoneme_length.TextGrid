@@ -1,0 +1,414 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 902.45
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_30_1"
+        xmin = 0
+        xmax = 902.45
+        intervals: size = 100
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.75
+                text = " Como en agosto Valencia entera desfallece de calor  los trabajadores del homo se asfixiaban junto a aquella boca"
+            intervals [2]:
+                xmin = 2.3
+                xmax = 2.99
+                text = " que exhalaba el ardor de un incendio  Desnudos"
+            intervals [3]:
+                xmin = 5.0
+                xmax = 5.95
+                text = " sin otra concesión a la decencia que un blanco mandil  trabajaban cerca de las abiertas rejas"
+            intervals [4]:
+                xmin = 6.59
+                xmax = 6.82
+                text = " y aun así  su piel inflamada parecía liquidarse con la transpiración"
+            intervals [5]:
+                xmin = 7.6
+                xmax = 9.06
+                text = " y el sudor caía a gotas sobre la pasta"
+            intervals [6]:
+                xmin = 11.0
+                xmax = 11.37
+                text = " sin duda para que  cumpliéndose a medias la maldición bíblica"
+            intervals [7]:
+                xmin = 11.99
+                xmax = 14.55
+                text = " los parroquianos  ya que no con el sudor propio"
+            intervals [8]:
+                xmin = 15.24
+                xmax = 16.54
+                text = " se comieran el pan empapado en el ajeno  Cuando se descorría la mampara de hierro que tapaba el homo"
+            intervals [9]:
+                xmin = 17.59
+                xmax = 19.43
+                text = " las llamas enrojecían las paredes"
+            intervals [10]:
+                xmin = 19.97
+                xmax = 22.5
+                text = " y"
+            intervals [11]:
+                xmin = 24.57
+                xmax = 24.89
+                text = " su reflejo  resbalando por los tableros cargados de masa"
+            intervals [12]:
+                xmin = 25.91
+                xmax = 33.08
+                text = " coloreaba los blancos taparrabos y aquellos pechos atléticos y bíceps de gigante que"
+            intervals [13]:
+                xmin = 35.16
+                xmax = 36.11
+                text = " espolvoreados de harina y brillantes de sudor  tenían cierta apariencia de femenil"
+            intervals [14]:
+                xmin = 37.3
+                xmax = 43.04
+                text = " Las palas se arrastraban dentro del homo"
+            intervals [15]:
+                xmin = 45.34
+                xmax = 47.89
+                text = " dejando sobre las ardientes piedras los pedazos de pasta"
+            intervals [16]:
+                xmin = 48.43
+                xmax = 52.36
+                text = " o sacando los panes cocidos"
+            intervals [17]:
+                xmin = 52.93
+                xmax = 53.8
+                text = " de rubia corteza  que esparcían un humillo fragante de vida"
+            intervals [18]:
+                xmin = 56.87
+                xmax = 58.15
+                text = " y  mientras tanto"
+            intervals [19]:
+                xmin = 59.39
+                xmax = 60.86
+                text = " los cinco panaderos"
+            intervals [20]:
+                xmin = 61.7
+                xmax = 62.33
+                text = " inclinados sobre las largas mesas  aporreaban la masa"
+            intervals [21]:
+                xmin = 63.3
+                xmax = 67.19
+                text = " la estrujaban como si fuese un lío de ropa mojada y retorcida y la cortaban en piezas"
+            intervals [22]:
+                xmin = 68.9
+                xmax = 69.63
+                text = " todo sin levantar la cabeza  hablando con voz entrecortada por la fatiga y entonando canciones lentas y monótonas"
+            intervals [23]:
+                xmin = 70.16
+                xmax = 71.88
+                text = " que muchas veces quedaban sin terminar  A lo lejos sonaba la hora cantada por los serenos"
+            intervals [24]:
+                xmin = 73.79
+                xmax = 80.16
+                text = " rasgando vibrante la bochornosa calma de la noche estival"
+            intervals [25]:
+                xmin = 81.13
+                xmax = 87.71
+                text = " y los trasnochadores que volvían del café o del teatro deteníanse un instante ante las rejas para ver en su antro a los panaderos"
+            intervals [26]:
+                xmin = 88.58
+                xmax = 89.01
+                text = " que  desnudos"
+            intervals [27]:
+                xmin = 91.88
+                xmax = 92.72
+                text = " y teniendo por fondo la llameante boca del homo  parecían ánimas en pena de un retablo del Purgatorio"
+            intervals [28]:
+                xmin = 94.97
+                xmax = 95.77
+                text = " pero el calor  el intenso perfume del pan y el vaho de aquellos cuerpos dejaban pronto las rejas libres de curiosos y se restablecía la calma en el obrador"
+            intervals [29]:
+                xmin = 96.37
+                xmax = 103.22
+                text = " Era entre los panaderos el de más autoridad Tono el Bizco"
+            intervals [30]:
+                xmin = 107.07
+                xmax = 111.24
+                text = " un mocetón que tenía fama por su mal carácter e insolencia brutal"
+            intervals [31]:
+                xmin = 113.04
+                xmax = 116.84
+                text = " y eso que la gente del oficio no se distinguía por buena"
+            intervals [32]:
+                xmin = 117.76
+                xmax = 127.46
+                text = " Bebía sin que nunca le temblasen las piernas"
+            intervals [33]:
+                xmin = 128.82
+                xmax = 131.63
+                text = " ni menos los brazos"
+            intervals [34]:
+                xmin = 135.02
+                xmax = 135.45
+                text = " antes bien  a éstos les entraba con el calor del vino un furor por aporrear"
+            intervals [35]:
+                xmin = 136.16
+                xmax = 139.93
+                text = " cual si todo el mundo fuese una masa como la que aporreaba en el homo"
+            intervals [36]:
+                xmin = 140.81
+                xmax = 144.0
+                text = "  En los ventorrillos de las afueras temblaban los parroquianos pacíficos"
+            intervals [37]:
+                xmin = 145.66
+                xmax = 146.38
+                text = " como si se aproximara una tempestad  cuando le veían llegar de merienda al frente de una cuadrilla de gente del oficio que reía todas sus gracias"
+            intervals [38]:
+                xmin = 147.64
+                xmax = 148.56
+                text = "  Era todo un hombre   Paliza diaria a la mujer"
+            intervals [39]:
+                xmin = 149.88
+                xmax = 153.03
+                text = " casi todo el jornal en su bolsillo"
+            intervals [40]:
+                xmin = 154.38
+                xmax = 160.16
+                text = " y los chiquillos descalzos y hambrientos"
+            intervals [41]:
+                xmin = 161.29
+                xmax = 168.16
+                text = " buscando con ansia las sobras de la cena de aquella cesta que por las noches se llevaba al homo"
+            intervals [42]:
+                xmin = 169.28
+                xmax = 169.77
+                text = "  Aparte de esto  un buen corazón"
+            intervals [43]:
+                xmin = 170.88
+                xmax = 172.47
+                text = " que se gastaba el dinero con los compañeros para adquirir el derecho de atormentarlos con sus bromas de bruto  El dueño del homo le trataba con cierto miramiento"
+            intervals [44]:
+                xmin = 173.87
+                xmax = 175.15
+                text = " como si temiera  y los camaradas de trabajo"
+            intervals [45]:
+                xmin = 176.94
+                xmax = 179.36
+                text = " pobres diablos cargados de familia"
+            intervals [46]:
+                xmin = 180.15
+                xmax = 180.62
+                text = " se evitaban compromisos  sufriéndole con sonrisa amistosa"
+            intervals [47]:
+                xmin = 183.55
+                xmax = 184.09
+                text = " En el obrador  Tono tenía su víctima"
+            intervals [48]:
+                xmin = 187.85
+                xmax = 190.25
+                text = " el pobre Menut  un muchacho enclenque que meses antes aún era aprendiz"
+            intervals [49]:
+                xmin = 190.9
+                xmax = 192.92
+                text = " y al que los camaradas reprendían por el excesivo afán de trabajo que mostraba"
+            intervals [50]:
+                xmin = 193.44
+                xmax = 197.28
+                text = " siempre ansiando un aumento de jornal para poder casarse"
+            intervals [51]:
+                xmin = 200.79
+                xmax = 201.34
+                text = "Pobre Menut  Todos los compañeros"
+            intervals [52]:
+                xmin = 201.99
+                xmax = 204.09
+                text = " influidos por esa adulación instintiva en los cobardes"
+            intervals [53]:
+                xmin = 204.88
+                xmax = 205.87
+                text = " celebraban alborozados las bromas que Tono se permitía con él   Al buscar sus ropas"
+            intervals [54]:
+                xmin = 206.62
+                xmax = 212.85
+                text = " terminado el trabajo"
+            intervals [55]:
+                xmin = 213.55
+                xmax = 214.33
+                text = " encontrábase en los bolsillos cosas nauseabundas  recibía en pleno rostro bolas de pasta"
+            intervals [56]:
+                xmin = 214.87
+                xmax = 223.04
+                text = " y siempre que el mocetón pasaba por detrás de él dejaba caer sobre su encorvado espinazo la poderosa manaza"
+            intervals [57]:
+                xmin = 223.59
+                xmax = 229.79
+                text = " como si se desplomara medio techo"
+            intervals [58]:
+                xmin = 230.45
+                xmax = 232.86
+                text = " El Menut callaba resignado"
+            intervals [59]:
+                xmin = 233.76
+                xmax = 236.13
+                text = "Ser tan poquita cosa ante los puños de aquel bruto"
+            intervals [60]:
+                xmin = 237.14
+                xmax = 244.49
+                text = " que le había tomado como un juguete"
+            intervals [61]:
+                xmin = 245.78
+                xmax = 246.72
+                text = "Un domingo  por la noche"
+            intervals [62]:
+                xmin = 247.39
+                xmax = 252.4
+                text = " Tono llegó muy alegre al homo"
+            intervals [63]:
+                xmin = 253.18
+                xmax = 253.87
+                text = "  Había merendado en la playa  sus ojos tenían un jaspeado sanguinolento"
+            intervals [64]:
+                xmin = 255.08
+                xmax = 255.3
+                text = " y  al respirar"
+            intervals [65]:
+                xmin = 257.12
+                xmax = 265.66
+                text = " lo impregnaba todo de ese hedor de chufas que delata una pesada digestión de vino"
+            intervals [66]:
+                xmin = 266.54
+                xmax = 267.18
+                text = "Gran noticia  Había visto en un merendero al Menut"
+            intervals [67]:
+                xmin = 268.25
+                xmax = 269.57
+                text = " a aquel ganso que tenía delante"
+            intervals [68]:
+                xmin = 271.19
+                xmax = 271.5
+                text = "  Iba con su novia  una gran chica"
+            intervals [69]:
+                xmin = 272.62
+                xmax = 276.45
+                text = "Vaya con el gusano tísico"
+            intervals [70]:
+                xmin = 278.02
+                xmax = 281.07
+                text = " Bien había sabido escoger"
+            intervals [71]:
+                xmin = 282.81
+                xmax = 287.3
+                text = " Y"
+            intervals [72]:
+                xmin = 288.9
+                xmax = 291.07
+                text = " entre las risotadas de sus compañeros"
+            intervals [73]:
+                xmin = 292.01
+                xmax = 298.01
+                text = " describía a la pobre muchacha con minuciosidad vergonzosa"
+            intervals [74]:
+                xmin = 299.55
+                xmax = 307.18
+                text = " como si la hubiera desnudado con la mirada"
+            intervals [75]:
+                xmin = 310.12
+                xmax = 313.91
+                text = "  El Menut no levantaba la cabeza"
+            intervals [76]:
+                xmin = 317.26
+                xmax = 317.58
+                text = " absorto en su trabajo  pero estaba pálido"
+            intervals [77]:
+                xmin = 320.54
+                xmax = 325.54
+                text = " como si dentro del estómago se revolviera la merienda"
+            intervals [78]:
+                xmin = 327.39
+                xmax = 327.82
+                text = " mordiéndole   No era el de todas las noches"
+            intervals [79]:
+                xmin = 331.44
+                xmax = 336.8
+                text = " también él olía a chufas"
+            intervals [80]:
+                xmin = 337.72
+                xmax = 338.14
+                text = " y varias veces sus ojos  apartándose de la masa"
+            intervals [81]:
+                xmin = 339.46
+                xmax = 340.39
+                text = " se encontraron con la mirada bizca y socarrona del tirano   De él podía decir cuanto quisiera"
+            intervals [82]:
+                xmin = 341.17
+                xmax = 341.6
+                text = " estaba acostumbrado  pero "
+            intervals [83]:
+                xmin = 342.47
+                xmax = 342.87
+                text = "hablar de su novia  Cristo"
+            intervals [84]:
+                xmin = 346.95
+                xmax = 349.29
+                text = "El trabajo resultaba aquella noche más lento y fatigoso"
+            intervals [85]:
+                xmin = 349.95
+                xmax = 359.12
+                text = "  Pasaban las horas sin que adelantasen gran cosa los brazos torpes y cansados por la fiesta"
+            intervals [86]:
+                xmin = 359.96
+                xmax = 360.47
+                text = " a los que la masa parecía resistirse  Aumentaba el calor"
+            intervals [87]:
+                xmin = 361.3
+                xmax = 367.23
+                text = " un ambiente de irritación se esparcía en tomo de los panaderos"
+            intervals [88]:
+                xmin = 370.01
+                xmax = 370.48
+                text = " y Tono  que era el más furioso"
+            intervals [89]:
+                xmin = 371.51
+                xmax = 372.29
+                text = " se desahogaba con maldiciones   Así se volviera veneno todo el pan de aquella noche"
+            intervals [90]:
+                xmin = 373.98
+                xmax = 390.08
+                text = "  Rabiar como perros a la hora que todo el mundo duerme para poder comer al día siguiente unos cuantos pedazos de aquella masa indecente"
+            intervals [91]:
+                xmin = 390.96
+                xmax = 391.92
+                text = "Vaya un oficio Y  enardecido por la constancia con que trabajaba el Menut"
+            intervals [92]:
+                xmin = 394.35
+                xmax = 394.67
+                text = " la emprendió con él  volviendo a sacar a ruedo la belleza de su novia"
+            intervals [93]:
+                xmin = 395.2
+                xmax = 395.87
+                text = " Debía casarse pronto   Les convenía a los amigos"
+            intervals [94]:
+                xmin = 397.32
+                xmax = 401.8
+                text = "  Como él era un bendito"
+            intervals [95]:
+                xmin = 403.22
+                xmax = 403.81
+                text = " un cualquier cosa  sin pelo de hombre siquiera"
+            intervals [96]:
+                xmin = 404.34
+                xmax = 404.99
+                text = "  Los compañeros eh"
+            intervals [97]:
+                xmin = 405.86
+                xmax = 412.65
+                text = "  Los buenos mozos como él harían el favor"
+            intervals [98]:
+                xmin = 414.38
+                xmax = 420.3
+                text = " Y antes de terminar la frase guiñaba expresivamente sus ojos bizcos"
+            intervals [99]:
+                xmin = 420.82
+                xmax = 426.29
+                text = " provocando la carcajada brutal de todos los camaradas"
+            intervals [100]:
+                xmin = 427.12
+                xmax = 427.45
+                text = "  Poco duró la alegría   El joven había lanzado un voto redondo"

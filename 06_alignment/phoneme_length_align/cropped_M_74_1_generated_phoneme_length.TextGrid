@@ -1,0 +1,38 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 31.68
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_74_1"
+        xmin = 0
+        xmax = 31.68
+        intervals: size = 6
+            intervals [1]:
+                xmin = 0.0
+                xmax = 12.28
+                text = " Un tordo picoteaba los granos de un bosquecillo de mirlos y"
+            intervals [2]:
+                xmin = 13.68
+                xmax = 19.7
+                text = " complacido por la dulzura de sus pepitas"
+            intervals [3]:
+                xmin = 20.3
+                xmax = 22.97
+                text = " no se decidía a abandonarlo"
+            intervals [4]:
+                xmin = 23.65
+                xmax = 26.19
+                text = " Un cazador de pájaros observó que el tordo se acostumbraba al lugar y lo cazó con liga"
+            intervals [5]:
+                xmin = 28.5
+                xmax = 30.92
+                text = " Entonces el tordo  viendo próximo su fin"
+            intervals [6]:
+                xmin = 31.68
+                xmax = 33.64986394557823
+                text = " dijo Desgraciado Por el placer de comer me he privado de la vida"

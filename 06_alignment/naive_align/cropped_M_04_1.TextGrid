@@ -2,7 +2,7 @@ File type = "ooTextFile"
 Object class = "TextGrid"
 
 xmin = 0
-xmax = 52.45
+xmax = 46.01
 tiers? <exists>
 size = 1
 item []:
@@ -10,8 +10,8 @@ item []:
         class = "IntervalTier"
         name = "cropped_M_04_1"
         xmin = 0
-        xmax = 52.45
-        intervals: size = 15
+        xmax = 46.01
+        intervals: size = 14
             intervals [1]:
                 xmin = 0.0
                 xmax = 3.42
@@ -66,9 +66,5 @@ item []:
                 text = " derogó su ley"
             intervals [14]:
                 xmin = 46.01
-                xmax = 48.43
+                xmax = 49.34385487528345
                 text = " Si alguna vez llegas a tener poder de legislar"
-            intervals [15]:
-                xmin = 50.97
-                xmax = 51.58
-                text = " sé el primero en cumplir tus propias leyes"

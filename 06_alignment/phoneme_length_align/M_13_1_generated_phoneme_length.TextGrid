@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 64.31
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "M_13_1"
+        xmin = 0
+        xmax = 64.31
+        intervals: size = 14
+            intervals [1]:
+                xmin = 0.0
+                xmax = 4.01
+                text = " Tres mujeres fueron convertidas en flores y colocadas en el campo del jardín"
+            intervals [2]:
+                xmin = 4.93
+                xmax = 14.03
+                text = " pero a una de ellas le fue permitido que durante las noches podía estar en su casa como humana"
+            intervals [3]:
+                xmin = 15.29
+                xmax = 15.78
+                text = " Entonces  una noche"
+            intervals [4]:
+                xmin = 16.38
+                xmax = 22.16
+                text = " cuando ya se acercaba el día y tendría que volver a ser flor otra vez"
+            intervals [5]:
+                xmin = 23.14
+                xmax = 23.85
+                text = " ella le dijo a su esposo"
+            intervals [6]:
+                xmin = 26.28
+                xmax = 30.04
+                text = " "Si cuando vuelves más tarde vienes al jardín y me arrancas"
+            intervals [7]:
+                xmin = 31.27
+                xmax = 34.01
+                text = " quedaré libre y podré estar siempre contigo"
+            intervals [8]:
+                xmin = 35.5
+                xmax = 36.43
+                text = "" Y él así lo hizo"
+            intervals [9]:
+                xmin = 38.38
+                xmax = 39.25
+                text = " Ahora"
+            intervals [10]:
+                xmin = 40.57
+                xmax = 43.72
+                text = " la pregunta es Cómo supo el esposo cuál era la flor correcta"
+            intervals [11]:
+                xmin = 44.81
+                xmax = 48.54
+                text = " si todas se veían exactamente igual  sin ninguna diferencia en su forma"
+            intervals [12]:
+                xmin = 50.36
+                xmax = 53.43
+                text = " Respuesta"
+            intervals [13]:
+                xmin = 54.16
+                xmax = 58.5
+                text = " "Como ella pasaba la noche en su casa y no en el jardín"
+            intervals [14]:
+                xmin = 59.29
+                xmax = 66.28548752834467
+                text = " no había entonces rocío sobre ella como sí lo había sobre las otras"

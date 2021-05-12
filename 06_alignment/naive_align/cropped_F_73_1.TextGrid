@@ -2,7 +2,7 @@ File type = "ooTextFile"
 Object class = "TextGrid"
 
 xmin = 0
-xmax = 50.01
+xmax = 42.77
 tiers? <exists>
 size = 1
 item []:
@@ -10,53 +10,53 @@ item []:
         class = "IntervalTier"
         name = "cropped_F_73_1"
         xmin = 0
-        xmax = 50.01
+        xmax = 42.77
         intervals: size = 12
             intervals [1]:
                 xmin = 0.0
-                xmax = 0.87
+                xmax = 0.93
                 text = " Sentía el camello envidia por los cuernos del toro"
             intervals [2]:
-                xmin = 2.7
-                xmax = 2.91
+                xmin = 1.49
+                xmax = 1.75
                 text = " y quiso obtener los suyos propios"
             intervals [3]:
-                xmin = 3.82
-                xmax = 3.83
+                xmin = 2.7
+                xmax = 2.94
                 text = " Para esto fue a ver a Zeus"
             intervals [4]:
-                xmin = 6.49
-                xmax = 6.5
+                xmin = 3.82
+                xmax = 3.83
                 text = " pidiéndole le regalara a él unos semejantes"
             intervals [5]:
-                xmin = 7.56
-                xmax = 7.58
+                xmin = 6.49
+                xmax = 6.51
                 text = " Pero Zeus"
             intervals [6]:
-                xmin = 16.27
-                xmax = 16.28
+                xmin = 7.56
+                xmax = 7.81
                 text = " indignado de que no se contentara de su gran tamaño y fuerza"
             intervals [7]:
-                xmin = 18.88
-                xmax = 18.89
+                xmin = 9.0
+                xmax = 9.11
                 text = " no sólo le negó el darle los cuernos"
             intervals [8]:
-                xmin = 26.56
-                xmax = 26.7
+                xmin = 10.1
+                xmax = 10.12
                 text = " sino que además le cortó una parte de las orejas"
             intervals [9]:
-                xmin = 28.63
-                xmax = 29.2
+                xmin = 11.65
+                xmax = 11.96
                 text = " La envidia no es buena consejera"
             intervals [10]:
-                xmin = 32.0
-                xmax = 32.02
+                xmin = 16.26
+                xmax = 16.32
                 text = " Cuando quieras mejorar en algo"
             intervals [11]:
-                xmin = 32.6
-                xmax = 33.04
+                xmin = 17.72
+                xmax = 17.8
                 text = " hazlo con tu esfuerzo y por tu deseo de progresar"
             intervals [12]:
-                xmin = 35.7
-                xmax = 35.71
+                xmin = 18.88
+                xmax = 18.92
                 text = " no porque tu vecino lo tenga"

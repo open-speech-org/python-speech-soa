@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 53.8
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_27_1"
+        xmin = 0
+        xmax = 53.8
+        intervals: size = 20
+            intervals [1]:
+                xmin = 0.0
+                xmax = 2.0
+                text = " Herido está don Tristán  de una muy mala lanzada"
+            intervals [2]:
+                xmin = 2.59
+                xmax = 3.9
+                text = " diérasela el rey  su tío"
+            intervals [3]:
+                xmin = 4.72
+                xmax = 7.96
+                text = " con una lanza herbolada"
+            intervals [4]:
+                xmin = 8.91
+                xmax = 11.77
+                text = " El hierro tiene en el cuerpo"
+            intervals [5]:
+                xmin = 12.81
+                xmax = 15.81
+                text = " de fuera le tiembla el asta"
+            intervals [6]:
+                xmin = 16.98
+                xmax = 19.72
+                text = " Tan malo está don Tristán  que a Dios quiere dar el alma"
+            intervals [7]:
+                xmin = 20.52
+                xmax = 23.04
+                text = " Valo a ver la reina Iseo  la su linda enamorada"
+            intervals [8]:
+                xmin = 24.0
+                xmax = 25.15
+                text = " cubierta de paño negro"
+            intervals [9]:
+                xmin = 25.66
+                xmax = 26.75
+                text = " que de luto se llamaba"
+            intervals [10]:
+                xmin = 27.72
+                xmax = 29.3
+                text = " Viéndole tan mal parado  dice así la triste dama"
+            intervals [11]:
+                xmin = 30.02
+                xmax = 31.14
+                text = "Quin os hirió  don Tristán"
+            intervals [12]:
+                xmin = 31.97
+                xmax = 34.74
+                text = " heridas tenga de rabias  y que no halle maestro"
+            intervals [13]:
+                xmin = 35.85
+                xmax = 37.09
+                text = " que sopiese de sanarlas"
+            intervals [14]:
+                xmin = 37.67
+                xmax = 40.27
+                text = " Tanto están de boca en boca"
+            intervals [15]:
+                xmin = 41.02
+                xmax = 41.45
+                text = " como una misa rezada"
+            intervals [16]:
+                xmin = 42.27
+                xmax = 43.21
+                text = " llora el uno  llora el otro"
+            intervals [17]:
+                xmin = 44.33
+                xmax = 46.93
+                text = " toda la cama se baña  el agua que de ellos sale"
+            intervals [18]:
+                xmin = 47.75
+                xmax = 50.3
+                text = " una azucena regaba  toda mujer que la bebe"
+            intervals [19]:
+                xmin = 51.22
+                xmax = 53.04
+                text = " luego se siente preñada"
+            intervals [20]:
+                xmin = 53.8
+                xmax = 55.41063492063492
+                text = " Así hice yo  mezquina"

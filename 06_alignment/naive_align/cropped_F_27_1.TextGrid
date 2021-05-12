@@ -2,7 +2,7 @@ File type = "ooTextFile"
 Object class = "TextGrid"
 
 xmin = 0
-xmax = 59.47
+xmax = 53.8
 tiers? <exists>
 size = 1
 item []:
@@ -10,8 +10,8 @@ item []:
         class = "IntervalTier"
         name = "cropped_F_27_1"
         xmin = 0
-        xmax = 59.47
-        intervals: size = 27
+        xmax = 53.8
+        intervals: size = 25
             intervals [1]:
                 xmin = 0.0
                 xmax = 2.0
@@ -19,11 +19,11 @@ item []:
             intervals [2]:
                 xmin = 2.59
                 xmax = 3.9
-                text = " 	de una muy mala lanzada"
+                text = " de una muy mala lanzada"
             intervals [3]:
                 xmin = 4.72
                 xmax = 5.53
-                text = " 	diérasela el rey"
+                text = " diérasela el rey"
             intervals [4]:
                 xmin = 6.04
                 xmax = 7.96
@@ -31,92 +31,84 @@ item []:
             intervals [5]:
                 xmin = 8.91
                 xmax = 10.02
-                text = " 	con una lanza herbolada"
+                text = " con una lanza herbolada"
             intervals [6]:
                 xmin = 10.7
                 xmax = 11.77
-                text = " 	El hierro tiene en el cuerpo"
+                text = " El hierro tiene en el cuerpo"
             intervals [7]:
                 xmin = 12.81
                 xmax = 14.02
-                text = " 	de fuera le tiembla el asta"
+                text = " de fuera le tiembla el asta"
             intervals [8]:
                 xmin = 14.74
                 xmax = 15.81
-                text = " 	Tan malo está don Tristán"
+                text = " Tan malo está don Tristán"
             intervals [9]:
                 xmin = 16.98
                 xmax = 19.72
-                text = " 	que a Dios quiere dar el alma"
+                text = " que a Dios quiere dar el alma"
             intervals [10]:
                 xmin = 20.52
                 xmax = 23.04
-                text = " 	Valo a ver la reina Iseo"
+                text = " Valo a ver la reina Iseo"
             intervals [11]:
                 xmin = 24.0
                 xmax = 25.15
-                text = " 	la su linda enamorada"
+                text = " la su linda enamorada"
             intervals [12]:
                 xmin = 25.66
                 xmax = 26.75
-                text = " 	cubierta de paño negro"
+                text = " cubierta de paño negro"
             intervals [13]:
                 xmin = 27.72
                 xmax = 29.3
-                text = " 	que de luto se llamaba"
+                text = " que de luto se llamaba"
             intervals [14]:
                 xmin = 30.02
                 xmax = 31.14
-                text = " 	Viéndole tan mal parado"
+                text = " Viéndole tan mal parado"
             intervals [15]:
                 xmin = 31.97
                 xmax = 34.74
-                text = " 	dice así la triste dama"
+                text = " dice así la triste dama"
             intervals [16]:
                 xmin = 35.85
                 xmax = 37.09
-                text = " 	"
+                text = "Quin os hirió"
             intervals [17]:
                 xmin = 37.67
                 xmax = 38.87
-                text = "Quin os hirió"
+                text = " don Tristán"
             intervals [18]:
                 xmin = 39.74
                 xmax = 40.27
-                text = " don Tristán"
+                text = " heridas tenga de rabias"
             intervals [19]:
                 xmin = 41.02
                 xmax = 41.45
-                text = " 	heridas tenga de rabias"
+                text = " y que no halle maestro"
             intervals [20]:
                 xmin = 42.27
                 xmax = 43.21
-                text = " 	y que no halle maestro"
+                text = " que sopiese de sanarlas"
             intervals [21]:
                 xmin = 44.33
                 xmax = 46.93
-                text = " 	que sopiese de sanarlas"
+                text = " Tanto están de boca en boca"
             intervals [22]:
                 xmin = 47.75
                 xmax = 50.3
-                text = " 	Tanto están de boca en boca"
+                text = " como una misa rezada"
             intervals [23]:
                 xmin = 51.22
                 xmax = 52.01
-                text = " 	como una misa rezada"
+                text = " llora el uno"
             intervals [24]:
                 xmin = 52.61
                 xmax = 53.04
-                text = " 	llora el uno"
+                text = " llora el otro"
             intervals [25]:
                 xmin = 53.8
-                xmax = 54.75
-                text = " llora el otro"
-            intervals [26]:
-                xmin = 56.35
-                xmax = 58.46
-                text = " 	toda la cama se baña"
-            intervals [27]:
-                xmin = 59.47
-                xmax = 67.35183673469388
-                text = " 	el agua que de ellos sale"
+                xmax = 55.41063492063492
+                text = " toda la cama se baña"

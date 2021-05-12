@@ -1,0 +1,62 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 45.86
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_15_1"
+        xmin = 0
+        xmax = 45.86
+        intervals: size = 12
+            intervals [1]:
+                xmin = 0.0
+                xmax = 1.99
+                text = " Un soldado  durante una guerra"
+            intervals [2]:
+                xmin = 3.26
+                xmax = 4.86
+                text = " alimentó con cebada a su caballo"
+            intervals [3]:
+                xmin = 8.66
+                xmax = 9.85
+                text = " su compañero de esfuerzos y peligros"
+            intervals [4]:
+                xmin = 10.82
+                xmax = 12.74
+                text = " Pero  acabada la guerra"
+            intervals [5]:
+                xmin = 13.38
+                xmax = 22.29
+                text = " el caballo fue empleado en trabajos serviles y para transportar pesados bultos"
+            intervals [6]:
+                xmin = 22.81
+                xmax = 25.89
+                text = " siendo alimentado únicamente con paja"
+            intervals [7]:
+                xmin = 26.5
+                xmax = 28.89
+                text = " Al anunciarse una nueva guerra"
+            intervals [8]:
+                xmin = 29.41
+                xmax = 33.11
+                text = " y al son de la trompeta"
+            intervals [9]:
+                xmin = 34.03
+                xmax = 39.14
+                text = " el dueño del caballo lo aparejó  se armó y montó encima"
+            intervals [10]:
+                xmin = 40.06
+                xmax = 42.36
+                text = " Pero el caballo exhausto se caía a cada momento"
+            intervals [11]:
+                xmin = 43.79
+                xmax = 45.14
+                text = " Por fin dijo a su amo"
+            intervals [12]:
+                xmin = 45.86
+                xmax = 48.66832199546485
+                text = " Vete mejor entre los infantes  puesto que de caballo que era me has convertido en asno"

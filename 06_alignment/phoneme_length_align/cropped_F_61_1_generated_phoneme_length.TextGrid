@@ -1,0 +1,62 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 62.04
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_F_61_1"
+        xmin = 0
+        xmax = 62.04
+        intervals: size = 12
+            intervals [1]:
+                xmin = 0.0
+                xmax = 5.43
+                text = " No queda más lustroso y cristalino"
+            intervals [2]:
+                xmin = 6.17
+                xmax = 12.37
+                text = " por altas sierras el arroyo helado  ni está más negro el ébano labrado"
+            intervals [3]:
+                xmin = 12.88
+                xmax = 17.97
+                text = " ni más azul la flor del verde lino"
+            intervals [4]:
+                xmin = 18.96
+                xmax = 22.53
+                text = " más rubio el oro que de Oriente vino"
+            intervals [5]:
+                xmin = 23.37
+                xmax = 35.73
+                text = " ni más puro  lascivo y regalado  espira olor el ámbar estimado  ni está en la concha el carmesí más fino"
+            intervals [6]:
+                xmin = 36.92
+                xmax = 37.78
+                text = " que frente"
+            intervals [7]:
+                xmin = 38.37
+                xmax = 45.27
+                text = " cejas  ojos y cabellos  aliento y boca de mi ninfa bella"
+            intervals [8]:
+                xmin = 45.85
+                xmax = 49.01
+                text = " angélica figura en vista humana"
+            intervals [9]:
+                xmin = 50.04
+                xmax = 55.43
+                text = " que puesto que ella se parece a ellos"
+            intervals [10]:
+                xmin = 56.21
+                xmax = 57.99
+                text = " vivos están allá"
+            intervals [11]:
+                xmin = 58.61
+                xmax = 61.44
+                text = " muertos sin ella"
+            intervals [12]:
+                xmin = 62.04
+                xmax = 65.07174603174603
+                text = " cristal  ébano  lino  oro"

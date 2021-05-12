@@ -1,0 +1,46 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 34.77
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "cropped_M_41_1"
+        xmin = 0
+        xmax = 34.77
+        intervals: size = 8
+            intervals [1]:
+                xmin = 0.0
+                xmax = 0.95
+                text = " en una Avenida  Tú"
+            intervals [2]:
+                xmin = 2.42
+                xmax = 10.59
+                text = " a quien ofrece el apartado polo  Hasta donde su nombre se dilata  Preciosos dones de luciente plata"
+            intervals [3]:
+                xmin = 11.1
+                xmax = 18.16
+                text = " Que envidia el rico Tajo y el Pactolo"
+            intervals [4]:
+                xmin = 18.67
+                xmax = 19.67
+                text = " Para cuya corona"
+            intervals [5]:
+                xmin = 20.24
+                xmax = 20.47
+                text = " como a solo"
+            intervals [6]:
+                xmin = 21.35
+                xmax = 28.03
+                text = " Rey de los ríos  entreteje y ata  Palas su oliva con la rama ingrata"
+            intervals [7]:
+                xmin = 29.07
+                xmax = 34.11
+                text = " Que contempla en tus márgenes Apolo  Claro Guadalquivir  si impetüoso"
+            intervals [8]:
+                xmin = 34.77
+                xmax = 35.96575963718821
+                text = " Con crespas ondas y mayor corriente"

@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 40.47
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "F_66_1"
+        xmin = 0
+        xmax = 40.47
+        intervals: size = 13
+            intervals [1]:
+                xmin = 0.0
+                xmax = 3.78
+                text = " Ya de mi amor la confesión sincera"
+            intervals [2]:
+                xmin = 4.51
+                xmax = 7.2
+                text = " Oyeron tus calladas celosías"
+            intervals [3]:
+                xmin = 8.04
+                xmax = 11.37
+                text = " Y fué testigo de las ánsias mias"
+            intervals [4]:
+                xmin = 12.22
+                xmax = 13.74
+                text = " La luna  de los tristes compañera"
+            intervals [5]:
+                xmin = 14.55
+                xmax = 16.47
+                text = " Tu nombre dice el ave placentera"
+            intervals [6]:
+                xmin = 17.23
+                xmax = 19.33
+                text = " Á quien visito yo todos los días"
+            intervals [7]:
+                xmin = 20.14
+                xmax = 22.22
+                text = " Y alegran mis soñadas alegrías"
+            intervals [8]:
+                xmin = 22.86
+                xmax = 25.43
+                text = " El valle  el monte  la comarca entera"
+            intervals [9]:
+                xmin = 26.54
+                xmax = 28.82
+                text = " Sólo tú mi secreto no conoces"
+            intervals [10]:
+                xmin = 29.65
+                xmax = 32.08
+                text = " Por más que el alma con latido ardiente"
+            intervals [11]:
+                xmin = 32.79
+                xmax = 35.63
+                text = " Sin yo quererlo te lo diga á voces"
+            intervals [12]:
+                xmin = 36.84
+                xmax = 39.45
+                text = " Y acaso has de ignorarlo eternamente"
+            intervals [13]:
+                xmin = 40.47
+                xmax = 44.86131519274377
+                text = " Como las ondas de la mar veloces  La ofrenda ignoran que les da la fuente"
